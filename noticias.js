@@ -57,9 +57,148 @@ window.EP = {
    "donde": "secretario@sanjosecoria.org",
    "noticia": "san-jose-nuevo-capataz-piedad",
    "hasta": "2026-12-20"
+  },
+  {
+   "cuando": "8 ene, 21.00",
+   "que": "Igualá de costaleros de Jesús Cautivo",
+   "donde": "Casa hermandad del Cautivo",
+   "noticia": "cautivo-iguala-ensayos-costaleros-2027",
+   "hasta": "2027-01-08"
   }
  ],
  "noticias": [
+  {
+   "id": "pgom-avance-territorio-ciudad",
+   "sec": "coria",
+   "kicker": "Plan General",
+   "iso": "2026-11-17",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1458011553128177",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río prevé recibir antes de fin de año el Avance del nuevo Plan General",
+   "sub": "La empresa redactora, Territorio y Ciudad, ha presentado el diagnóstico territorial y la planimetría que delimitará los tipos de suelo del término",
+   "caption": "Gráfico sobre el calendario del Avance del Plan General de Ordenación Municipal de Coria del Río.",
+   "foto": "pgom-avance-territorio-ciudad-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río se reunió el martes 17 de noviembre de 2026 con Territorio y Ciudad, la empresa que redacta el nuevo Plan General de Ordenación Municipal (PGOM).",
+    "El equipo redactor presentó el diagnóstico territorial y la planimetría que servirá para delimitar los tipos de suelo del término municipal.",
+    "El objetivo es que la empresa presente la propuesta de Avance del PGOM antes de que termine 2026.",
+    "El gobierno municipal quiere llevar el Avance al Pleno y abrirlo después a sugerencias de los vecinos, aunque ese trámite no es obligatorio."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río se reunió el martes 17 de noviembre con Territorio y Ciudad, la empresa encargada de redactar el nuevo Plan General de Ordenación Municipal (PGOM), para revisar el estado de los trabajos. Según ha publicado el Ayuntamiento en su perfil de Facebook, el objetivo es que la empresa presente la propuesta de Avance del plan antes de que acabe el año.",
+    "El PGOM es el documento que ordena el suelo de todo el término municipal: dónde se puede construir, qué terrenos quedan protegidos y hacia dónde puede crecer el pueblo. Es la herramienta que fija las reglas del urbanismo coriano para los próximos años.",
+    "## Diagnóstico y áreas de oportunidad",
+    "En la reunión, el equipo redactor presentó el diagnóstico territorial y la planimetría ya elaborada. Ese trabajo permitirá delimitar las distintas tipologías de suelo conforme a la legislación vigente y a las normas urbanísticas aplicables, según la nota municipal.",
+    "Uno de los puntos centrales del documento será la identificación de las futuras zonas de expansión de Coria, lo que en la jerga urbanística se denominan áreas de oportunidad. Son los espacios en los que se estudiará cómo puede crecer la localidad de forma ordenada.",
+    "El Ayuntamiento señala que el término está condicionado por importantes espacios de protección ligados al dominio público del Guadalquivir y por factores climatológicos y naturales que, a su juicio, exigen cautela a la hora de definir los usos del suelo. La nota no detalla cuáles son esas áreas de oportunidad ni su superficie.",
+    "## Un Avance que irá al Pleno",
+    "El Avance es una fase previa del plan. Según el Ayuntamiento, este trámite no es preceptivo ni obligatorio, pero el gobierno municipal, que preside el alcalde Modesto González Márquez (Andalucía por Sí), plantea llevar el documento a aprobación en el Pleno.",
+    "Después, siempre según la nota municipal, el Avance se abriría al conocimiento de los vecinos para que puedan presentar sugerencias y aportaciones antes de que el plan siga su tramitación.",
+    "<span class='howto'><b>Próximo paso.</b> Presentación de la propuesta de Avance del PGOM por parte de Territorio y Ciudad, prevista antes de que termine 2026. El Ayuntamiento quiere llevarla al Pleno y abrir después un periodo de sugerencias de los vecinos, cuyas fechas aún no ha anunciado.</span>"
+   ],
+   "seo": [
+    "pgom-coria-del-rio-avance-territorio-ciudad",
+    "Plan General de Coria del Río: Avance antes de fin de año",
+    "El Ayuntamiento de Coria del Río revisa con Territorio y Ciudad el nuevo Plan General y prevé tener el Avance antes de fin de año para llevarlo al Pleno.",
+    [
+     "PGOM",
+     "Plan General de Ordenación Municipal",
+     "urbanismo",
+     "Territorio y Ciudad",
+     "Guadalquivir",
+     "Pleno"
+    ]
+   ]
+  },
+  {
+   "id": "soledad-caridad-banco-alimentos-brigada-nocturna",
+   "sec": "hermandades",
+   "kicker": "Caridad",
+   "iso": "2026-11-17",
+   "hora": "23:00",
+   "src": "Hermandad de la Soledad (Facebook)",
+   "fuente_url": "https://www.facebook.com/1568403328657029/posts/1569458778551484",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Hermandad de la Soledad de Coria del Río colabora en la Gran Recogida y dona mantas a La Brigada Nocturna",
+   "sub": "Hermanos, devotos y el Grupo Joven hicieron de voluntarios en los supermercados del pueblo el pasado fin de semana",
+   "caption": "Imagen de archivo.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Hermandad de la Soledad de Coria del Río participó el fin de semana del 14 y 15 de noviembre en la Gran Recogida del Banco de Alimentos de Sevilla.",
+    "Hermanos, devotos y miembros del Grupo Joven atendieron como voluntarios los supermercados de la localidad.",
+    "Su Diputación de Caridad recogió mantas y ropa de abrigo que ha donado a La Brigada Nocturna para su reparto entre personas sin hogar."
+   ],
+   "body": [
+    "La Hermandad de la Soledad de Coria del Río colaboró el pasado fin de semana con el Banco de Alimentos de Sevilla en su Gran Recogida de Alimentos, con voluntarios en los distintos supermercados de la localidad. Así lo ha publicado la hermandad en su perfil de Facebook este martes 17 de noviembre.",
+    "Según la corporación, participaron hermanos, devotos y miembros de su Grupo Joven, que se repartieron por los establecimientos para recoger los productos que donaban los clientes. La recogida está destinada a familias que atraviesan dificultades económicas. La hermandad no ha facilitado cuántos kilos se reunieron en Coria.",
+    "## Mantas para personas sin hogar",
+    "Además, la Diputación de Caridad de la Soledad ha organizado una campaña de recogida de mantas y ropa de abrigo. Todo lo reunido se ha entregado a La Brigada Nocturna, una entidad que reparte ayuda por la noche entre personas sin hogar y que se ha encargado de su distribución.",
+    "La hermandad ha agradecido en su publicación la participación de voluntarios y donantes.",
+    "La Soledad cerró también el domingo 15 de noviembre los cultos en honor al Santísimo Cristo Yacente con su Función Principal, que presidió Antonio Santos Moreno, párroco de Santa María de la Estrella y director espiritual de la hermandad, según ha difundido la propia corporación."
+   ],
+   "seo": [
+    "soledad-coria-gran-recogida-banco-alimentos-brigada-nocturna",
+    "La Soledad de Coria, con la Gran Recogida y los sin hogar",
+    "La Hermandad de la Soledad de Coria del Río fue voluntaria en la Gran Recogida del Banco de Alimentos y donó mantas y ropa de abrigo a La Brigada Nocturna.",
+    [
+     "Hermandad de la Soledad",
+     "Banco de Alimentos de Sevilla",
+     "Gran Recogida",
+     "La Brigada Nocturna",
+     "caridad",
+     "Grupo Joven"
+    ]
+   ]
+  },
+  {
+   "id": "cautivo-iguala-ensayos-costaleros-2027",
+   "sec": "hermandades",
+   "kicker": "Lunes Santo",
+   "iso": "2026-11-17",
+   "hora": "23:00",
+   "src": "Hermandad del Cautivo (Facebook)",
+   "fuente_url": "https://www.facebook.com/1602534325242911/posts/1603564091806601",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Hermandad del Cautivo de Coria del Río cita a sus costaleros a la igualá el 8 de enero",
+   "sub": "Los capataces de Nuestro Padre Jesús Cautivo fijan tres ensayos, el 16 de enero, el 6 de febrero y el 13 de marzo, de cara al Lunes Santo",
+   "caption": "Convocatoria de la igualá y los ensayos de la cuadrilla de Nuestro Padre Jesús Cautivo.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Hermandad de Nuestro Padre Jesús Cautivo de Coria del Río celebrará la igualá de su cuadrilla de costaleros el viernes 8 de enero de 2027, a las 21.00, en la casa hermandad.",
+    "Los ensayos serán los sábados 16 de enero, 6 de febrero y 13 de marzo de 2027, a las 16.30.",
+    "La convocatoria es del equipo de capataces, de cara a la salida del Lunes Santo."
+   ],
+   "body": [
+    "La Hermandad de Nuestro Padre Jesús Cautivo de Coria del Río ha convocado la igualá de la cuadrilla de costaleros de su titular para el viernes 8 de enero de 2027, a las 21.00, en la casa hermandad. Así lo ha publicado la corporación en su perfil de Facebook, donde ha difundido también el calendario de ensayos.",
+    "La convocatoria la firma el equipo de capataces del Cautivo y mira a la próxima salida procesional de la hermandad, el Lunes Santo, que en 2027 cae el 22 de marzo.",
+    "## Tres ensayos antes de la Semana Santa",
+    "Tras la igualá, en la que los capataces miden a los costaleros y les asignan su sitio bajo el paso, la cuadrilla tiene previstos tres ensayos. Serán el sábado 16 de enero, el sábado 6 de febrero y el sábado 13 de marzo, todos a las 16.30.",
+    "El último ensayo queda a nueve días del Lunes Santo. La hermandad no ha detallado en su publicación el recorrido de los ensayos ni el punto de salida.",
+    "<span class='howto'><b>Calendario de la cuadrilla.</b> Igualá: viernes 8 de enero de 2027, 21.00, casa hermandad. Ensayos: sábados 16 de enero, 6 de febrero y 13 de marzo de 2027, a las 16.30.</span>"
+   ],
+   "seo": [
+    "cautivo-coria-iguala-ensayos-costaleros-lunes-santo",
+    "Cautivo de Coria: igualá de costaleros el 8 de enero",
+    "La Hermandad del Cautivo de Coria del Río cita a sus costaleros a la igualá el 8 de enero de 2027 y fija tres ensayos antes del Lunes Santo, 22 de marzo.",
+    [
+     "Hermandad del Cautivo",
+     "costaleros",
+     "igualá",
+     "Lunes Santo",
+     "Semana Santa 2027",
+     "capataces"
+    ]
+   ]
+  },
   {
    "id": "gran-poder-requiem-difuntos-2026",
    "sec": "hermandades",
@@ -295,14 +434,14 @@ window.EP = {
    "firma": "Redacción El Coriano",
    "elaboracion": "ia",
    "title": "El Coria CF gana 0-2 en La Rinconada con goles de Carlos Rojas y Segua",
-   "sub": "El equipo de Dioni Arroyo recibe el domingo 22 de noviembre a La Palma en el Estadio Guadalquivir",
+   "sub": "El equipo de Dioni Arroyo, sexto con 18 puntos, recibe el domingo 22 de noviembre a La Palma, segunda con 21, en el Estadio Guadalquivir",
    "caption": "Un partido del Coria CF en el Estadio Guadalquivir, en una imagen de archivo.",
    "foto": "coria-cf-club.jpg",
    "fotocredito": "Facebook del Coria CF",
    "claves": [
     "El Coria CF ganó 0-2 a la UD Rinconada el domingo 15 de noviembre de 2026 en el estadio Leonardo Ramos.",
     "Los goles fueron de Carlos Rojas y Segua.",
-    "El próximo partido es el domingo 22 de noviembre, a las 12.00, contra La Palma en el Estadio Guadalquivir."
+    "El próximo partido es el domingo 22 de noviembre, a las 12.00, en el Estadio Guadalquivir, contra La Palma CF, segunda con 21 puntos; el Coria es sexto con 18."
    ],
    "body": [
     "El Coria CF ganó 0-2 a la UD Rinconada el domingo 15 de noviembre en el estadio Leonardo Ramos, en La Rinconada, en un partido de liga que empezó a las 12.00. Así lo ha publicado el club coriano en su perfil de Facebook, donde define la actuación del equipo como «seria y solvente».",
@@ -311,7 +450,7 @@ window.EP = {
     "El entrenador del Coria, Dioni Arroyo, atendió a los medios locales de La Rinconada al acabar el encuentro, y el jugador Andrés Terán también hizo declaraciones tras el pitido final. El club ha difundido los dos vídeos en sus redes sociales.",
     "Con esta victoria a domicilio, el equipo suma tres puntos antes de volver a casa. El Coria también ha publicado este lunes los resultados de su cantera en los partidos disputados entre el viernes 13 y el domingo 15 de noviembre.",
     "## Cita en el Guadalquivir",
-    "El próximo compromiso es en el Estadio Guadalquivir. El Coria CF recibe el domingo 22 de noviembre, a las 12.00, a La Palma, un partido que el propio club presenta como una «importante cita» para su afición.",
+    "El próximo compromiso es en el Estadio Guadalquivir. El Coria CF, sexto clasificado con 18 puntos, recibe el domingo 22 de noviembre, a las 12.00, a La Palma CF, segunda con 21 puntos, según ha publicado el club este martes. Una victoria dejaría al Coria a la misma puntuación que su rival.",
     "<span class='howto'><b>Próximo partido.</b> Coria CF - La Palma, domingo 22 de noviembre de 2026, a las 12.00, en el Estadio Guadalquivir de Coria del Río.</span>"
    ],
    "seo": [
@@ -327,7 +466,8 @@ window.EP = {
      "fútbol andaluz"
     ]
    ],
-   "hora": "14:15"
+   "hora": "14:15",
+   "actualizada": "2026-11-17T23:00"
   },
   {
    "id": "san-jose-nuevo-capataz-piedad",
