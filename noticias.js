@@ -26,6 +26,13 @@ window.EP = {
    "noticia": "gran-poder-requiem-difuntos-2026"
   },
   {
+   "cuando": "21 nov, 12.00",
+   "que": "Entrega del V Jarrillo Soleaero a Fernando Rasero Pérez",
+   "donde": "Capilla de la Soledad",
+   "noticia": "soledad-jarrillo-soleaero-2026-fernando-rasero",
+   "hasta": "2026-11-21"
+  },
+  {
    "cuando": "22 nov, 12.00",
    "que": "Coria CF - La Palma",
    "donde": "Estadio Guadalquivir",
@@ -61,6 +68,20 @@ window.EP = {
    "hasta": "2026-11-24"
   },
   {
+   "cuando": "24 nov, 20.00",
+   "que": "Conferencia «Por un puñao de fandangos», de Kiko Valle",
+   "donde": "Centro Cultural de la Villa Pastora Soler",
+   "noticia": "conferencia-fandangos-kiko-valle",
+   "hasta": "2026-11-24"
+  },
+  {
+   "cuando": "25 nov, 10.00",
+   "que": "Marcha del 25N contra la violencia de género",
+   "donde": "De la Plaza Santa Ángela de la Cruz al Ayuntamiento",
+   "noticia": "25n-campana-ayuntamiento-2026",
+   "hasta": "2026-11-25"
+  },
+  {
    "cuando": "29 nov",
    "que": "Elecciones generales",
    "donde": "Colegios electorales de Coria",
@@ -72,6 +93,13 @@ window.EP = {
    "donde": "secretario@sanjosecoria.org",
    "noticia": "san-jose-nuevo-capataz-piedad",
    "hasta": "2026-12-20"
+  },
+  {
+   "cuando": "27 dic",
+   "que": "San Silvestre Coriana (5 km)",
+   "donde": "Kiosco de la Música y Paseo Fluvial",
+   "noticia": "san-silvestre-coriana-2026",
+   "hasta": "2026-12-27"
   },
   {
    "cuando": "8 ene, 21.00",
@@ -93,40 +121,309 @@ window.EP = {
    "firma": "Redacción El Coriano",
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río presenta su campaña del 25N con un cartel que imita una prueba de la vista",
-   "sub": "La campaña llama a reconocer formas de violencia machista menos visibles, como los celos, el chantaje, el aislamiento o la desvalorización.",
+   "sub": "La jornada central será el miércoles 25 de noviembre, con una marcha a las 10.00 desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento.",
    "caption": "Cartel de la campaña municipal del 25N «Coria del Río mira de frente a la violencia de género».",
    "foto": "25n-campana-ayuntamiento-2026-cartel-of.jpg",
    "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río ha presentado el martes 17 de noviembre su campaña por el 25N, Día Internacional de la Eliminación de la Violencia contra la Mujer.",
     "El cartel usa la imagen de una prueba oftalmológica para pedir a los vecinos que aprendan a identificar violencias poco visibles.",
-    "El lema de la campaña es «Coria del Río mira de frente a la violencia de género»."
+    "El miércoles 25 de noviembre habrá una marcha a las 10.00 desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento, con acto institucional y un Punto Violeta.",
+    "El Centro Municipal de Información a la Mujer ha programado charlas, talleres y exposiciones entre noviembre y diciembre."
    ],
    "body": [
     "El Ayuntamiento de Coria del Río ha presentado este martes, 17 de noviembre, su campaña con motivo del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer. Lo ha hecho en su perfil de Facebook con un cartel que reproduce una prueba de la vista y con el lema «Coria del Río mira de frente a la violencia de género».",
+    "El Consistorio ha completado la campaña con una programación de actividades organizada por el Centro Municipal de Información a la Mujer (CMIM) entre noviembre y diciembre, con charlas, talleres, exposiciones y actividades educativas. La jornada central será el miércoles 25 de noviembre, con una marcha que saldrá a las 10.00 de la Plaza Santa Ángela de la Cruz y terminará en el Ayuntamiento, donde se celebrará el acto institucional y se instalará un Punto Violeta.",
     "La idea del cartel, según explica el Consistorio, parte de una comparación: igual que hace falta graduar la vista para distinguir las letras más pequeñas de un optotipo, hace falta entrenar la mirada para detectar conductas que pasan inadvertidas por cotidianas.",
     "## Las violencias menos visibles",
     "El Ayuntamiento enumera en su mensaje varias de esas conductas: los micromachismos, los celos, los chantajes, el aislamiento y la desvalorización. Frente a ellas sitúa las formas de violencia que sí se ven a simple vista, como los asesinatos, las agresiones, las violaciones, los golpes y los abusos.",
     "La campaña termina con un llamamiento a la ciudadanía: «No apartemos la mirada. Aprendamos a reconocer todas las violencias». El Consistorio afirma que la fecha sirve para renovar su compromiso con la prevención, la sensibilización, la educación y la protección de las mujeres.",
-    "La publicación no detalla si habrá actos institucionales, concentraciones o actividades en Coria en torno al 25 de noviembre, que este año cae en miércoles.",
     "La campaña llega un mes después de que el Ayuntamiento aprobara por unanimidad su <a href='#plan-igualdad-ayuntamiento-2026'>primer Plan de Igualdad municipal</a>, centrado en la igualdad de oportunidades y la no discriminación dentro de la plantilla del Consistorio.",
     "El 25 de noviembre fue declarado Día Internacional de la Eliminación de la Violencia contra la Mujer por la Asamblea General de las Naciones Unidas en 1999.",
-    "<span class='howto'><b>Ayuda y atención.</b> Teléfono 016, gratuito y disponible las 24 horas; no deja rastro en la factura. También por WhatsApp en el 600 000 016 y por correo electrónico en 016-online@igualdad.gob.es. Teléfono del Instituto Andaluz de la Mujer: 900 200 999. En una emergencia, llama al 112.</span>"
+    "<span class='howto'><b>Marcha del 25N.</b> Miércoles 25 de noviembre, 10.00, desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento, con acto institucional y Punto Violeta. <b>Ayuda y atención.</b> Teléfono 016, gratuito y disponible las 24 horas; no deja rastro en la factura. También por WhatsApp en el 600 000 016 y por correo electrónico en 016-online@igualdad.gob.es. Teléfono del Instituto Andaluz de la Mujer: 900 200 999. En una emergencia, llama al 112.</span>"
    ],
    "seo": [
     "25n-coria-del-rio-campana-violencia-genero-2026",
     "25N en Coria del Río: campaña contra la violencia de género",
-    "El Ayuntamiento de Coria del Río presenta su campaña del 25N con un cartel que imita una prueba de la vista para señalar las violencias menos visibles.",
+    "Coria del Río presenta su campaña del 25N y convoca una marcha el 25 de noviembre a las 10.00 desde la Plaza Santa Ángela de la Cruz al Ayuntamiento.",
     [
      "25N",
      "violencia de género",
      "Ayuntamiento de Coria del Río",
      "igualdad",
      "micromachismos",
-     "016"
+     "016",
+     "Punto Violeta"
     ]
    ],
-   "encuadre": "contain"
+   "encuadre": "contain",
+   "actualizada": "2026-11-18T23:00"
+  },
+  {
+   "id": "juzgados-coria-humedades-junta",
+   "sec": "coria",
+   "kicker": "Juzgados",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1459052193024113",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río pide a la Junta que repare las humedades del edificio de los juzgados",
+   "sub": "El alcalde visitó el miércoles las instalaciones a petición de las juezas y del personal, que reclaman obras desde 2024.",
+   "caption": "Ilustración genérica de la sección Coria.",
+   "foto": "generica-coria.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "El alcalde de Coria del Río, Modesto González Márquez, visitó el miércoles 18 de noviembre el edificio de los juzgados junto a varias concejalas del gobierno municipal.",
+    "La visita se hizo a petición de las juezas y del personal, que denuncian filtraciones de agua, humedades y malos olores.",
+    "El Ayuntamiento insta a la Junta de Andalucía a acometer las obras y sitúa las reclamaciones en 2024."
+   ],
+   "body": [
+    "El alcalde de Coria del Río, Modesto González Márquez, visitó el miércoles 18 de noviembre el edificio de los juzgados de la localidad, acompañado por varias concejalas del gobierno municipal, para conocer los desperfectos que denuncian quienes trabajan en él. Según ha publicado el Ayuntamiento en su perfil de Facebook, la visita se hizo a petición de las juezas y del personal del juzgado.",
+    "Los problemas que describe el Consistorio son filtraciones de agua, humedades y malos olores, que afectan tanto a los profesionales como a los ciudadanos que acuden a las dependencias judiciales. El Ayuntamiento afirma que el edificio arrastra estas deficiencias desde hace tiempo.",
+    "## Quejas desde 2024",
+    "En el vídeo que acompaña la publicación se califica el estado de las instalaciones de «realmente lamentable» y se sitúan en 2024 las primeras reclamaciones por la entrada de humedades. Según ese mensaje, los daños se concentran en las zonas más sensibles del edificio y hacen «prácticamente imposible» trabajar con normalidad.",
+    "El Ayuntamiento pide a la Junta de Andalucía que «aborde de una vez por todas» la situación y que haga las obras necesarias. La comunidad autónoma es la administración que tiene transferidos desde 1997 los medios materiales de la Administración de Justicia en Andalucía, entre ellos el mantenimiento de los edificios judiciales.",
+    "La publicación municipal no detalla qué actuaciones concretas reclama ni si se ha remitido una petición formal a la Consejería competente. Tampoco consta, por ahora, una respuesta pública de la Junta.",
+    "El Consistorio cierra su mensaje con una reivindicación: que quienes trabajan en la justicia y quienes necesitan sus servicios dispongan de unas instalaciones adecuadas. Coria del Río es cabeza de partido judicial, por lo que sus juzgados atienden también a vecinos de otros municipios de la comarca."
+   ],
+   "seo": [
+    "juzgados-coria-del-rio-humedades-filtraciones-junta",
+    "Juzgados de Coria del Río: el Ayuntamiento pide obras",
+    "El alcalde de Coria del Río visita los juzgados a petición de las juezas por filtraciones, humedades y malos olores y pide a la Junta que haga las obras.",
+    [
+     "juzgados",
+     "Junta de Andalucía",
+     "Modesto González Márquez",
+     "Administración de Justicia",
+     "humedades",
+     "edificios públicos"
+    ]
+   ]
+  },
+  {
+   "id": "ovac-oficina-virtual-atencion-ciudadania",
+   "sec": "coria",
+   "kicker": "Atención al vecino",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1459054049690594",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río abrirá una oficina virtual para atender a los vecinos por videollamada con cita previa",
+   "sub": "El Ayuntamiento presentó la herramienta en la XIII Feria de la Innovación y Nuevas Tecnologías, en el Pabellón de la Navegación de Sevilla.",
+   "caption": "Ilustración genérica de la sección Coria.",
+   "foto": "generica-coria.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "El Ayuntamiento de Coria del Río pondrá en marcha en los próximos días la Oficina Virtual de Atención a la Ciudadanía (OVAC).",
+    "Los vecinos podrán pedir cita y ser atendidos por un empleado municipal mediante una videollamada, sin desplazarse.",
+    "La delegada de Régimen Interior, Silvia Gracia, presentó el servicio en la XIII Feria de la Innovación y Nuevas Tecnologías de Sevilla."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río pondrá en marcha en los próximos días la Oficina Virtual de Atención a la Ciudadanía (OVAC), un servicio para que los vecinos puedan ser atendidos por un empleado municipal mediante videollamada, sin acudir a las dependencias municipales. Así lo ha anunciado el Consistorio en su perfil de Facebook.",
+    "El funcionamiento que describe el Ayuntamiento tiene tres pasos: el vecino pide cita, atiende la videollamada a la hora fijada y recibe en ella el asesoramiento o la información que necesita. La publicación no concreta qué trámites se podrán resolver por esta vía, el horario de atención ni la fecha exacta de estreno.",
+    "## Presentación en Sevilla",
+    "El Consistorio presentó la herramienta en la XIII Feria de la Innovación y Nuevas Tecnologías, celebrada en el Pabellón de la Navegación de Sevilla, un encuentro dedicado a compartir experiencias sobre la transformación digital de los servicios públicos.",
+    "La encargada de explicarla fue la delegada de Régimen Interior, Silvia Gracia. Según el Ayuntamiento, la oficina virtual combina el uso de las nuevas tecnologías con el trato personal, porque la atención la presta un trabajador municipal y no un sistema automático.",
+    "El servicio se suma a la atención presencial en las dependencias municipales. Su diferencia, según la descripción del Ayuntamiento, es que permite hablar cara a cara con un empleado sin tener que desplazarse.",
+    "<span class='howto'><b>Oficina Virtual de Atención a la Ciudadanía (OVAC).</b> Atención por videollamada con un empleado municipal, previa cita. Entrará en funcionamiento en los próximos días, según el Ayuntamiento de Coria del Río. El procedimiento de cita se anunciará en los canales municipales.</span>"
+   ],
+   "seo": [
+    "oficina-virtual-atencion-ciudadania-coria-del-rio-videollamada",
+    "Coria del Río abrirá una oficina virtual por videollamada",
+    "El Ayuntamiento de Coria del Río estrenará en días la OVAC, una oficina virtual para atender a los vecinos por videollamada con cita previa.",
+    [
+     "OVAC",
+     "atención ciudadana",
+     "administración electrónica",
+     "Silvia Gracia",
+     "Ayuntamiento de Coria del Río",
+     "Feria de la Innovación"
+    ]
+   ]
+  },
+  {
+   "id": "escuela-tamborileros-manriqueno",
+   "sec": "cultura",
+   "kicker": "Tamborileros",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "El Coriano",
+   "fuente_url": "https://www.youtube.com/watch?v=D0_ROVBZnQg&t=0s",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La escuela de tamborileros de «el Manriqueño» enseña en Coria a tocar la gaita rociera y el tamboril",
+   "sub": "La familia lleva cuatro generaciones tocando; dos hermanos dan las clases desde 2019 y animan a las mujeres a apuntarse.",
+   "caption": "Ilustración genérica de la sección Cultura.",
+   "foto": "generica-cultura.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La escuela de tamborileros de Antonio Díaz «el Manriqueño» enseña en Coria del Río a tocar la gaita rociera y el tamboril.",
+    "La tradición familiar empezó con el bisabuelo; desde 2019 las clases las dan dos hermanos que recogieron el testigo de su abuelo.",
+    "La escuela proporciona los instrumentos: las gaitas, de un fabricante de Coria, y los tambores, de elaboración propia."
+   ],
+   "body": [
+    "La escuela de tamborileros de Antonio Díaz «el Manriqueño» enseña en Coria del Río a tocar la gaita rociera y el tamboril, los instrumentos que acompañan a las hermandades en las romerías, las ofrendas, la Navidad y otras fiestas del pueblo. La escuela abrió sus puertas a El Coriano para mostrar cómo se forma a los nuevos tamborileros.",
+    "La tradición pasa de una generación a otra en la misma familia. Empezó el bisabuelo, siguió el abuelo y hoy dan las clases dos hermanos. Uno de ellos explicó a El Coriano que, hacia 2019, su abuelo, ya mayor, le ofreció quedarse con la escuela. Desde entonces la llevan los dos hermanos, que suman siete años al frente de las clases.",
+    "## Tres agujeros y nueve notas",
+    "La gaita rociera, o flauta rociera, tiene tres agujeros, según detalló el profesor. Con ellos se sacan nueve notas: tres bajas, tres medias y tres altas. «Con estas notas se toca todo»: bulerías, fandangos, sevillanas o villancicos. La habilidad del tamborilero, añadió, no está solo en tocar, sino en saber cómo funcionan sus instrumentos.",
+    "El tamboril exige cuidado: con la humedad del invierno el parche se afloja y hay que tensarlo, y con el calor del camino se aprieta tanto que se puede romper. Por eso, insistió, hace falta buen oído también para comprobar que la cuerda vibra en su sitio.",
+    "Los alumnos que hablaron con El Coriano coinciden en el origen de la afición: ver de pequeños a los tamborileros en la romería de San Lucas, en el Rocío o por las calles de Coria. Uno de ellos señaló como lo más difícil el ritmo de la rumba; otro describió los ensayos como una forma de desconectar de la semana.",
+    "## Una invitación a las mujeres",
+    "Aunque ahora los alumnos son hombres, por la escuela han pasado varias mujeres, que la fueron dejando con los años. Desde la escuela lanzan un mensaje para que se apunten: «Todas las mujeres estáis invitadas a venir aquí a probar un día».",
+    "La escuela facilita los instrumentos a quien empieza. Las gaitas las compra a un fabricante de Coria y los tambores los hace el propio profesor.",
+    "<span class='howto'><b>Vídeo completo.</b> El reportaje sobre la escuela de tamborileros puede verse en el canal de YouTube de Coriavisión, en el programa Coria al Día.</span>"
+   ],
+   "seo": [
+    "escuela-tamborileros-manriqueno-coria-del-rio-gaita-rociera",
+    "Escuela de tamborileros de Coria: la gaita del Manriqueño",
+    "La escuela de tamborileros de Antonio Díaz «el Manriqueño» enseña gaita rociera y tamboril en Coria del Río y anima a las mujeres a sumarse a las clases.",
+    [
+     "tamborileros",
+     "gaita rociera",
+     "tamboril",
+     "el Manriqueño",
+     "romería de San Lucas",
+     "Rocío",
+     "tradiciones"
+    ]
+   ]
+  },
+  {
+   "id": "san-silvestre-coriana-2026",
+   "sec": "deportes",
+   "kicker": "San Silvestre Coriana",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1458654586397207",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La San Silvestre Coriana se correrá el domingo 27 de diciembre con cinco kilómetros por el Paseo Fluvial",
+   "sub": "La inscripción cuesta 3 euros y habrá trofeos para los tres primeros de cada categoría y premios de 50 y 100 euros a los mejores disfraces.",
+   "caption": "Datos de la San Silvestre Coriana 2026.",
+   "foto": "san-silvestre-coriana-2026-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "La San Silvestre Coriana se celebrará el domingo 27 de diciembre con un recorrido de cinco kilómetros de ida y vuelta por el Paseo Fluvial.",
+    "La organiza el Club Atletismo Coria con la colaboración del Ayuntamiento de Coria del Río.",
+    "La inscripción cuesta 3 euros y se paga el día de la prueba; hay premios de 50 y 100 euros a los mejores disfraces."
+   ],
+   "body": [
+    "Coria del Río celebrará el domingo 27 de diciembre una nueva edición de la San Silvestre Coriana, una carrera de cinco kilómetros de ida y vuelta por el Paseo Fluvial para despedir el año. La organiza el Club Atletismo Coria con la colaboración del Ayuntamiento, que ha dado a conocer los detalles de la prueba en su perfil de Facebook.",
+    "El cartel anunciador se presentó el martes 17 de noviembre en el Salón de Plenos del Ayuntamiento, en un acto con el alcalde, Modesto González Márquez, y el delegado municipal de Deportes, Juan Manuel Cordero.",
+    "## Salida en el Kiosco de la Música",
+    "La salida y la recogida de dorsales serán en el Kiosco de la Música. Desde allí, los participantes recorrerán el Paseo Fluvial hasta el punto de giro y volverán por el mismo camino. La prueba admite tanto a quienes quieran correr como a quienes prefieran hacer el recorrido caminando, según el Ayuntamiento, que la plantea como una cita para participar en familia o con amigos.",
+    "La inscripción cuesta 3 euros, que se pagan el mismo día de la carrera. El dorsal se puede reservar con el código QR del cartel o hasta dos horas antes de la salida. La publicación municipal no indica la hora de inicio de la prueba.",
+    "## Trofeos y premios al disfraz",
+    "Los tres primeros clasificados de las categorías masculina y femenina recibirán un trofeo. Como en otras San Silvestres, el disfraz también tiene premio: 50 euros para el mejor disfraz individual y 100 euros para el mejor disfraz de grupo, que debe estar formado por al menos cuatro personas con una misma temática.",
+    "El Club Atletismo Coria es la entidad que forma a los corredores de la localidad y organiza la prueba junto al área municipal de Deportes.",
+    "<span class='howto'><b>San Silvestre Coriana 2026.</b> Domingo 27 de diciembre. Salida y dorsales: Kiosco de la Música. Recorrido: 5 kilómetros de ida y vuelta por el Paseo Fluvial. Inscripción: 3 euros, el día de la prueba; reserva de dorsal con el QR del cartel o hasta dos horas antes de la salida. Premios: trofeos a los tres primeros de cada categoría; 50 euros al mejor disfraz individual y 100 euros al mejor de grupo (mínimo cuatro personas).</span>"
+   ],
+   "seo": [
+    "san-silvestre-coriana-2026-coria-del-rio-27-diciembre",
+    "San Silvestre Coriana 2026: 5 km el 27 de diciembre",
+    "La San Silvestre Coriana se corre el domingo 27 de diciembre en Coria del Río: 5 km por el Paseo Fluvial, inscripción de 3 euros y premios al disfraz.",
+    [
+     "San Silvestre Coriana",
+     "Club Atletismo Coria",
+     "atletismo",
+     "carrera popular",
+     "Paseo Fluvial",
+     "Juan Manuel Cordero",
+     "Navidad"
+    ]
+   ]
+  },
+  {
+   "id": "soledad-jarrillo-soleaero-2026-fernando-rasero",
+   "sec": "hermandades",
+   "kicker": "Jarrillo Soleaero",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "Hermandad de la Soledad (Facebook)",
+   "fuente_url": "https://www.facebook.com/1568403328657029/posts/1570582705105758",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Hermandad de la Soledad de Coria entrega el sábado 21 el V Jarrillo Soleaero a Fernando Rasero Pérez",
+   "sub": "El acto será a las 12.00 en la capilla de la Virgen de la Soledad y terminará con una convivencia en la casa hermandad.",
+   "caption": "Ilustración genérica de la sección Hermandades.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Junta de Gobierno de la Hermandad de la Soledad de Coria del Río ha concedido el Jarrillo Soleaero 2026 a su hermano Fernando Rasero Pérez.",
+    "Es la quinta edición de este reconocimiento, con el que la hermandad premia la trayectoria cofrade y el compromiso con la corporación.",
+    "La entrega será el sábado 21 de noviembre a las 12.00 en la capilla de Nuestra Señora de la Soledad."
+   ],
+   "body": [
+    "La Hermandad de la Soledad de Coria del Río entregará el sábado 21 de noviembre, a las 12.00, el V Jarrillo Soleaero a su hermano Fernando Rasero Pérez. El acto tendrá lugar en la capilla de Nuestra Señora de la Soledad, según ha anunciado la hermandad en su perfil de Facebook.",
+    "La concesión la acordó la Junta de Gobierno reunida en cabildo de oficiales. Con este galardón, que llega a su quinta edición, la hermandad reconoce a hermanos con una trayectoria cofrade destacada y con dedicación a la corporación. En el caso de Rasero, la hermandad destaca su esfuerzo y su compromiso continuados.",
+    "Al terminar la entrega, la casa hermandad quedará abierta para una convivencia con todos los asistentes.",
+    "## Semanas de actividad en la Soledad",
+    "El reconocimiento llega en unas semanas de actividad para la hermandad del Barrio de la Soledad. El fin de semana del 14 y 15 de noviembre, hermanos, devotos y miembros del Grupo Joven participaron como voluntarios en la Gran Recogida del Banco de Alimentos de Sevilla, y su Diputación de Caridad <a href='#soledad-caridad-banco-alimentos-brigada-nocturna'>donó mantas y ropa de abrigo a La Brigada Nocturna</a> para repartir entre personas sin hogar.",
+    "Este miércoles 18 de noviembre, además, la casa hermandad acogió de 17.00 a 21.00 una campaña de donación de sangre.",
+    "La hermandad no ha detallado en su anuncio la trayectoria de Fernando Rasero Pérez ni los cargos que ha ocupado en la corporación.",
+    "<span class='howto'><b>V Jarrillo Soleaero.</b> Sábado 21 de noviembre, 12.00. Capilla de Nuestra Señora de la Soledad, Coria del Río. Después, convivencia en la casa hermandad, abierta a todos los asistentes.</span>"
+   ],
+   "seo": [
+    "jarrillo-soleaero-2026-fernando-rasero-hermandad-soledad-coria",
+    "Jarrillo Soleaero 2026 para Fernando Rasero en Coria",
+    "La Hermandad de la Soledad de Coria del Río entrega el V Jarrillo Soleaero a Fernando Rasero Pérez el sábado 21 de noviembre a las 12.00 en su capilla.",
+    [
+     "Hermandad de la Soledad",
+     "Jarrillo Soleaero",
+     "Fernando Rasero Pérez",
+     "reconocimientos cofrades",
+     "Barrio de la Soledad",
+     "casa hermandad"
+    ]
+   ]
+  },
+  {
+   "id": "conferencia-fandangos-kiko-valle",
+   "sec": "cultura",
+   "kicker": "Flamenco",
+   "iso": "2026-11-18",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1458845143044818",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Kiko Valle da el martes 24 en Coria del Río la conferencia cantada «Por un puñao de fandangos»",
+   "sub": "La cita será a las 20.00 en el Centro Cultural de la Villa Pastora Soler, con la guitarra de Antonio Moya y entrada libre.",
+   "caption": "Ilustración genérica de la sección Cultura.",
+   "foto": "generica-cultura.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "El Centro Cultural de la Villa Pastora Soler acoge el martes 24 de noviembre, a las 20.00, la conferencia «Por un puñao de fandangos».",
+    "La imparte Kiko Valle con el subtítulo «Conferencia ilustrada al cante por un crítico osado», con Antonio Moya a la guitarra.",
+    "La entrada es libre."
+   ],
+   "body": [
+    "El Centro Cultural de la Villa Pastora Soler de Coria del Río acogerá el martes 24 de noviembre, a las 20.00, la conferencia «Por un puñao de fandangos», a cargo de Kiko Valle. La entrada es libre, según ha anunciado el Ayuntamiento en su perfil de Facebook.",
+    "La propuesta lleva el subtítulo de «Conferencia ilustrada al cante por un crítico osado»: una charla sobre el fandango en la que la explicación se alterna con el cante. A la guitarra acompañará Antonio Moya.",
+    "## El fandango, en el centro",
+    "El Ayuntamiento presenta la velada como un acercamiento al flamenco desde una perspectiva distinta y centrada en el fandango, uno de los palos con más arraigo en la tradición local, según el Consistorio. La convocatoria se enmarca, añade, en la programación cultural que reivindica el flamenco como parte del patrimonio del municipio.",
+    "El fandango es uno de los estilos flamencos más extendidos en Andalucía occidental, con numerosas variantes locales, especialmente en la provincia de Huelva, y está presente en romerías y fiestas de toda la comarca.",
+    "<span class='howto'><b>«Por un puñao de fandangos».</b> Martes 24 de noviembre, 20.00. Centro Cultural de la Villa Pastora Soler, Coria del Río. Conferencia ilustrada al cante de Kiko Valle, con Antonio Moya a la guitarra. Entrada libre.</span>"
+   ],
+   "seo": [
+    "por-un-punao-de-fandangos-kiko-valle-coria-del-rio",
+    "Fandangos en Coria del Río: conferencia de Kiko Valle",
+    "Kiko Valle ofrece el martes 24 de noviembre en el Centro Cultural Pastora Soler de Coria del Río una conferencia cantada sobre el fandango. Entrada libre.",
+    [
+     "flamenco",
+     "fandango",
+     "Kiko Valle",
+     "Antonio Moya",
+     "Centro Cultural de la Villa Pastora Soler",
+     "conferencias"
+    ]
+   ]
   },
   {
    "id": "cb-coria-n1-masculino-gana-huelva",
