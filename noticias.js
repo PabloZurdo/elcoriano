@@ -94,9 +94,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río presenta su campaña del 25N con un cartel que imita una prueba de la vista",
    "sub": "La campaña llama a reconocer formas de violencia machista menos visibles, como los celos, el chantaje, el aislamiento o la desvalorización.",
-   "caption": "Ilustración genérica de la sección Coria.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Cartel de la campaña municipal del 25N «Coria del Río mira de frente a la violencia de género».",
+   "foto": "25n-campana-ayuntamiento-2026-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río ha presentado el martes 17 de noviembre su campaña por el 25N, Día Internacional de la Eliminación de la Violencia contra la Mujer.",
     "El cartel usa la imagen de una prueba oftalmológica para pedir a los vecinos que aprendan a identificar violencias poco visibles.",
@@ -125,7 +125,8 @@ window.EP = {
      "micromachismos",
      "016"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "cb-coria-n1-masculino-gana-huelva",
@@ -186,9 +187,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Borriquita celebra el domingo 22 en la Parroquia de San José los 25 años del Cristo de la Salud",
    "sub": "La hermandad se une a la misa parroquial de las 12.00 por la festividad de Cristo Rey y después habrá una convivencia abierta en la casa hermandad de San José.",
-   "caption": "Ilustración genérica de la sección Hermandades.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Imagen difundida por la Hermandad de San José para anunciar el aniversario del Señor de la Salud.",
+   "foto": "borriquita-xxv-aniversario-cristo-salud-of.jpg",
+   "fotocredito": "Facebook de la Hermandad Sacramental de San José",
    "claves": [
     "La Hermandad de la Borriquita de Coria del Río celebra el domingo 22 de noviembre el XXV aniversario del Santísimo Cristo de la Salud en su Sagrada Entrada en Jerusalén.",
     "Se unirá a la misa parroquial de las 12.00 en la Parroquia de San José, en la festividad de Cristo Rey.",
@@ -217,7 +218,8 @@ window.EP = {
      "Hermandad de la Estrella",
      "Gran Poder"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "pgom-avance-territorio-ciudad",
@@ -279,9 +281,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Hermandad de la Soledad de Coria del Río colabora en la Gran Recogida y dona mantas a La Brigada Nocturna",
    "sub": "Hermanos, devotos y el Grupo Joven hicieron de voluntarios en los supermercados del pueblo el pasado fin de semana",
-   "caption": "Imagen de archivo.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Voluntarias de la Hermandad de la Soledad, con alimentos de la Gran Recogida en un supermercado de Coria.",
+   "foto": "soledad-caridad-banco-alimentos-brigada-nocturna-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Soledad",
    "claves": [
     "La Hermandad de la Soledad de Coria del Río participó el fin de semana del 14 y 15 de noviembre en la Gran Recogida del Banco de Alimentos de Sevilla.",
     "Hermanos, devotos y miembros del Grupo Joven atendieron como voluntarios los supermercados de la localidad.",
@@ -321,9 +323,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Hermandad del Cautivo de Coria del Río cita a sus costaleros a la igualá el 8 de enero",
    "sub": "Los capataces de Nuestro Padre Jesús Cautivo fijan tres ensayos, el 16 de enero, el 6 de febrero y el 13 de marzo, de cara al Lunes Santo",
-   "caption": "Convocatoria de la igualá y los ensayos de la cuadrilla de Nuestro Padre Jesús Cautivo.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Cartel de la igualá y los ensayos de la cuadrilla de costaleros de Nuestro Padre Jesús Cautivo.",
+   "foto": "cautivo-iguala-ensayos-costaleros-2027-cartel-of.jpg",
+   "fotocredito": "Facebook de la Hermandad del Cautivo",
    "claves": [
     "La Hermandad de Nuestro Padre Jesús Cautivo de Coria del Río celebrará la igualá de su cuadrilla de costaleros el viernes 8 de enero de 2027, a las 21.00, en la casa hermandad.",
     "Los ensayos serán los sábados 16 de enero, 6 de febrero y 13 de marzo de 2027, a las 16.30.",
@@ -349,7 +351,8 @@ window.EP = {
      "Semana Santa 2027",
      "capataces"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "gran-poder-requiem-difuntos-2026",
@@ -722,9 +725,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río aprueba por unanimidad su primer Plan de Igualdad municipal",
    "sub": "El documento fija un marco para la igualdad salarial y la no discriminación en la plantilla del Ayuntamiento",
-   "caption": "Imagen de archivo del Ayuntamiento de Coria del Río",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Presentación del I Plan de Igualdad del Ayuntamiento de Coria del Río.",
+   "foto": "plan-igualdad-ayuntamiento-2026-of.jpg",
+   "fotocredito": "Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río ha aprobado por unanimidad su primer Plan de Igualdad, anunciado el 26 de octubre de 2026.",
     "El plan establece un marco para la igualdad de oportunidades, la equidad salarial y la no discriminación en la plantilla municipal.",
@@ -765,9 +768,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río acoge el Campeonato de España de Caballos Jóvenes de doma vaquera",
    "sub": "La prueba se celebra el sábado 24 y el domingo 25 de octubre en el solar municipal de Pueblo Andaluz y está dedicada a Joaquín Olivera Peña",
-   "caption": "Imagen de archivo. Imagen de recurso.",
-   "foto": "generica-deportes.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Presentación del Campeonato de España de Caballos Jóvenes de doma vaquera en el Ayuntamiento de Coria del Río.",
+   "foto": "campeonato-espana-caballos-jovenes-doma-vaquera-of.jpg",
+   "fotocredito": "Ayuntamiento de Coria del Río",
    "claves": [
     "El Campeonato de España de Caballos Jóvenes de doma vaquera se celebra el sábado 24 y el domingo 25 de octubre en Coria del Río.",
     "La prueba está dedicada a Joaquín Olivera Peña y la organiza Francisco Antonio Ortega, Tono.",
@@ -808,9 +811,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río inaugura la decimonovena Semana de la Cultura Japonesa",
    "sub": "La edición incluye una exposición de poemas haiku y actividades abiertas a todos los públicos",
-   "caption": "Imagen de archivo. Imagen de recurso.",
-   "foto": "generica-cultura.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Un momento de la inauguración de la XIX Semana de Cultura Japonesa en la sala Martínez de León.",
+   "foto": "semana-cultura-japonesa-coria-2026-tv.jpg",
+   "fotocredito": "Coriavisión",
    "claves": [
     "Coria del Río celebra la decimonovena Semana de la Cultura Japonesa, con inauguración oficial.",
     "El programa incluye una exposición de poemas japoneses, los haikus, y actividades para todos los públicos.",
@@ -847,9 +850,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La escuela de la Agrupación San Lucas de Coria forma a unos diez alumnos",
    "sub": "La banda ofrece clases de viento metal y percusión a niños y adultos, sin necesidad de comprar el instrumento",
-   "caption": "Imagen de archivo. Imagen de recurso.",
-   "foto": "generica-cultura.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "El nuevo local de ensayo de la escuela de música de la Agrupación Musical San Lucas.",
+   "foto": "escuela-musica-agrupacion-san-lucas-tv.jpg",
+   "fotocredito": "Coriavisión",
    "claves": [
     "La escuela de la Agrupación San Lucas de Coria del Río tiene cerca de diez alumnos en sus clases.",
     "La banda presta el instrumento y el traje a quien empieza, y las edades van desde los cinco hasta los cuarenta años.",
@@ -888,9 +891,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río celebra el 31 de octubre su marcha contra el cáncer, dedicada al de ovario",
    "sub": "La salida es a las 16.30 horas desde la Plaza Jesús Cautivo, y la inscripción, con camiseta y bolsa, cuesta 8 euros",
-   "caption": "Imagen de archivo de Coria del Río.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Presentación de la X Marcha contra el Cáncer de Coria del Río, con las camisetas de este año.",
+   "foto": "marcha-contra-cancer-2026-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "La X Marcha contra el Cáncer de Coria del Río se celebrará el sábado 31 de octubre.",
     "La salida es a las 16.30 horas desde la Plaza Jesús Cautivo y la llegada, a las 18.00, al Quiosco de la Música.",
@@ -930,9 +933,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río celebra el jueves 22 de octubre unas jornadas Erasmus+ en la Plaza del Ayuntamiento",
    "sub": "La cita, de 10.30 a 15.00 horas, reúne actividades, juegos y un photocall sobre experiencias internacionales e idiomas",
-   "caption": "Imagen de archivo de Coria del Río.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Participantes en el encuentro Erasmus+ celebrado en Coria del Río.",
+   "foto": "erasmus-jornadas-2026-tv.jpg",
+   "fotocredito": "Coriavisión",
    "claves": [
     "Coria del Río celebra el jueves 22 de octubre unas jornadas Erasmus+ en la Plaza del Ayuntamiento.",
     "La jornada va de 10.30 a 15.00 horas e incluye actividades, juegos, un photocall y sorpresas.",
@@ -969,9 +972,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Barrio del Lucero organiza caminos escolares para prevenir el absentismo en Coria del Río",
    "sub": "Las jornadas del 14 y el 16 de octubre acompañaron a familias y menores hasta dos colegios, con desayuno escolar y recorridos",
-   "caption": "Imagen de archivo de Coria del Río.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Una de las actividades de los caminos escolares en el Barrio del Lucero.",
+   "foto": "absentismo-lucero-2026-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Barrio del Lucero ha puesto en marcha caminos escolares para prevenir el absentismo y acompañar a menores y familias al colegio.",
     "Las jornadas de los días 14 y 16 de octubre incluyeron desayuno escolar, animación y recorridos familiares.",
