@@ -1,20 +1,21 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-17",
+  "actualizado": "2026-11-18",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
   {
-   "cuando": "Hasta el 19 nov",
-   "que": "Solicitud del voto por correo",
-   "donde": "Oficinas y web de Correos",
-   "hasta": "2026-11-19"
-  },
-  {
    "cuando": "19 nov, 19.00",
    "que": "Cabildo de elecciones de la Hermandad de la Estrella",
    "donde": "Casa hermandad, hasta las 21.30",
+   "hasta": "2026-11-19",
+   "noticia": "borriquita-xxv-aniversario-cristo-salud"
+  },
+  {
+   "cuando": "Hasta el 19 nov",
+   "que": "Solicitud del voto por correo",
+   "donde": "Oficinas y web de Correos",
    "hasta": "2026-11-19"
   },
   {
@@ -33,10 +34,24 @@ window.EP = {
   },
   {
    "cuando": "22 nov, 12.00",
-   "que": "Misa por el XXV aniversario del Señor de la Borriquita",
+   "que": "Misa por el XXV aniversario del Cristo de la Salud (Borriquita)",
    "donde": "Parroquia de San José",
-   "noticia": "san-jose-nuevo-capataz-piedad",
+   "noticia": "borriquita-xxv-aniversario-cristo-salud",
    "hasta": "2026-11-22"
+  },
+  {
+   "cuando": "22 nov, 12.30",
+   "que": "Real Círculo de Labradores - CB Coria (N1 masculino)",
+   "donde": "CD Mar de Plata, Sevilla",
+   "noticia": "cb-coria-n1-masculino-gana-huelva",
+   "hasta": "2026-11-22"
+  },
+  {
+   "cuando": "23 nov, 20.30",
+   "que": "CB Coria - CB Los Palacios (sénior masculino)",
+   "donde": "Pabellón municipal de Coria",
+   "noticia": "cb-coria-n1-masculino-gana-huelva",
+   "hasta": "2026-11-23"
   },
   {
    "cuando": "24 nov, 16.30",
@@ -67,6 +82,143 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "25n-campana-ayuntamiento-2026",
+   "sec": "coria",
+   "kicker": "25N",
+   "iso": "2026-11-18",
+   "hora": "07:59",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1457813323148000",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río presenta su campaña del 25N con un cartel que imita una prueba de la vista",
+   "sub": "La campaña llama a reconocer formas de violencia machista menos visibles, como los celos, el chantaje, el aislamiento o la desvalorización.",
+   "caption": "Ilustración genérica de la sección Coria.",
+   "foto": "generica-coria.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "El Ayuntamiento de Coria del Río ha presentado el martes 17 de noviembre su campaña por el 25N, Día Internacional de la Eliminación de la Violencia contra la Mujer.",
+    "El cartel usa la imagen de una prueba oftalmológica para pedir a los vecinos que aprendan a identificar violencias poco visibles.",
+    "El lema de la campaña es «Coria del Río mira de frente a la violencia de género»."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha presentado este martes, 17 de noviembre, su campaña con motivo del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer. Lo ha hecho en su perfil de Facebook con un cartel que reproduce una prueba de la vista y con el lema «Coria del Río mira de frente a la violencia de género».",
+    "La idea del cartel, según explica el Consistorio, parte de una comparación: igual que hace falta graduar la vista para distinguir las letras más pequeñas de un optotipo, hace falta entrenar la mirada para detectar conductas que pasan inadvertidas por cotidianas.",
+    "## Las violencias menos visibles",
+    "El Ayuntamiento enumera en su mensaje varias de esas conductas: los micromachismos, los celos, los chantajes, el aislamiento y la desvalorización. Frente a ellas sitúa las formas de violencia que sí se ven a simple vista, como los asesinatos, las agresiones, las violaciones, los golpes y los abusos.",
+    "La campaña termina con un llamamiento a la ciudadanía: «No apartemos la mirada. Aprendamos a reconocer todas las violencias». El Consistorio afirma que la fecha sirve para renovar su compromiso con la prevención, la sensibilización, la educación y la protección de las mujeres.",
+    "La publicación no detalla si habrá actos institucionales, concentraciones o actividades en Coria en torno al 25 de noviembre, que este año cae en miércoles.",
+    "La campaña llega un mes después de que el Ayuntamiento aprobara por unanimidad su <a href='#plan-igualdad-ayuntamiento-2026'>primer Plan de Igualdad municipal</a>, centrado en la igualdad de oportunidades y la no discriminación dentro de la plantilla del Consistorio.",
+    "El 25 de noviembre fue declarado Día Internacional de la Eliminación de la Violencia contra la Mujer por la Asamblea General de las Naciones Unidas en 1999.",
+    "<span class='howto'><b>Ayuda y atención.</b> Teléfono 016, gratuito y disponible las 24 horas; no deja rastro en la factura. También por WhatsApp en el 600 000 016 y por correo electrónico en 016-online@igualdad.gob.es. Teléfono del Instituto Andaluz de la Mujer: 900 200 999. En una emergencia, llama al 112.</span>"
+   ],
+   "seo": [
+    "25n-coria-del-rio-campana-violencia-genero-2026",
+    "25N en Coria del Río: campaña contra la violencia de género",
+    "El Ayuntamiento de Coria del Río presenta su campaña del 25N con un cartel que imita una prueba de la vista para señalar las violencias menos visibles.",
+    [
+     "25N",
+     "violencia de género",
+     "Ayuntamiento de Coria del Río",
+     "igualdad",
+     "micromachismos",
+     "016"
+    ]
+   ]
+  },
+  {
+   "id": "cb-coria-n1-masculino-gana-huelva",
+   "sec": "deportes",
+   "kicker": "Club Baloncesto Coria",
+   "iso": "2026-11-18",
+   "hora": "07:59",
+   "src": "Club Baloncesto Coria",
+   "fuente_url": "https://www.clubbaloncestocoria.es/web/resultados-partidos.aspx",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El N1 masculino del Club Baloncesto Coria gana 91-45 al Huelva La Luz y es segundo de su grupo",
+   "sub": "El sénior masculino suma dos victorias en tres días y el N1 femenino cae ante el CB Ciudad de Dos Hermanas por 30-80.",
+   "caption": "Ilustración genérica de la sección Deportes.",
+   "foto": "generica-deportes.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "El equipo masculino del Club Baloncesto Coria en la Liga Nacional N1 ganó 91-45 al CD Baloncesto Huelva La Luz el domingo 15 de noviembre.",
+    "Según el club, el equipo es segundo de su grupo tras la sexta jornada.",
+    "El sénior masculino ganó 97-44 al CD Colegio Claret y 56-51 en la pista de Maristas Maxi.",
+    "El N1 masculino juega el domingo 22 de noviembre a las 12.30 ante el Real Círculo de Labradores."
+   ],
+   "body": [
+    "El equipo masculino del Club Baloncesto Coria en la Liga Nacional N1 ganó el domingo 15 de noviembre por 91-45 al CD Baloncesto Huelva La Luz, según los resultados que publica el club de Coria del Río en su web. La entidad ha informado en su perfil de Facebook de que el equipo es segundo de su grupo tras disputarse la sexta jornada.",
+    "En la misma competición, el equipo femenino perdió ese domingo por 30-80 ante el CB Ciudad de Dos Hermanas.",
+    "## Dos victorias del sénior masculino",
+    "El sénior masculino cerró la semana con dos triunfos. El jueves 12 de noviembre ganó por 51-56 en la pista de Maristas Maxi y el sábado 14 se impuso por 97-44 al CD Colegio Claret. El club celebró además en sus redes una «nueva victoria» de su equipo de Tercera FEB, la tercera seguida según su mensaje, sin detallar el marcador.",
+    "La cantera también dejó resultados amplios. El junior masculino XL ganó 133-30 al Círculo Mercantil e Industrial; el cadete femenino XL, 103-15 a Transportes Hijos de González La Vega, y el cadete masculino XL, 96-37 al CB Ciudad de Dos Hermanas Blanco. El infantil masculino, como ya contó El Coriano, <a href='#cb-coria-infantil-lider-invicto'>cerró la primera vuelta líder e invicto</a>.",
+    "## Próximos partidos",
+    "El N1 masculino visita el domingo 22 de noviembre, a las 12.30, al Real Círculo de Labradores en el CD Mar de Plata de Sevilla. El N1 femenino juega ese mismo día, a las 17.00, en el Pabellón Municipal de Gines ante el CD Gines Baloncesto.",
+    "El sénior masculino tiene dos partidos seguidos: el domingo 22, a las 11.15, ante el Grupo Optik El Reverso CB en el pabellón del CD Bellavista, y el lunes 23, a las 20.30, recibe al Club Baloncesto Los Palacios en el pabellón municipal de Coria.",
+    "El fin de semana deportivo en Coria lo completa el Coria CF, que tras <a href='#coria-cf-gana-rinconada'>ganar 0-2 en La Rinconada</a> recibe a La Palma CF en el Estadio Guadalquivir, según ha anunciado el club.",
+    "<span class='howto'><b>Próximos partidos.</b> Domingo 22 de noviembre: Real Círculo de Labradores - CB Coria (N1 masculino), 12.30, CD Mar de Plata; CD Gines Baloncesto - CB Coria (N1 femenino), 17.00, Pabellón Municipal de Gines; Grupo Optik El Reverso CB - CB Coria (sénior masculino), 11.15, CD Bellavista. Lunes 23: CB Coria - CB Los Palacios (sénior masculino), 20.30, pabellón municipal de Coria.</span>"
+   ],
+   "seo": [
+    "club-baloncesto-coria-n1-masculino-huelva-la-luz",
+    "Club Baloncesto Coria: el N1 gana 91-45 y es segundo",
+    "El N1 masculino del Club Baloncesto Coria gana 91-45 al Huelva La Luz y es segundo de grupo; el sénior suma dos victorias y la cantera golea.",
+    [
+     "Club Baloncesto Coria",
+     "Liga Nacional N1",
+     "baloncesto",
+     "Huelva La Luz",
+     "Tercera FEB",
+     "deporte base"
+    ]
+   ]
+  },
+  {
+   "id": "borriquita-xxv-aniversario-cristo-salud",
+   "sec": "hermandades",
+   "kicker": "Hermandad de la Borriquita",
+   "iso": "2026-11-18",
+   "hora": "07:59",
+   "src": "Hermandad Sacramental de San José (Facebook)",
+   "fuente_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02J1bteCqVXWsqwmRKQW1dyRWySWei4wTmAJzwzuu4kJfLExRPjEs4LnFcPQcMoEsHl&id=61551796482920",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Borriquita celebra el domingo 22 en la Parroquia de San José los 25 años del Cristo de la Salud",
+   "sub": "La hermandad se une a la misa parroquial de las 12.00 por la festividad de Cristo Rey y después habrá una convivencia abierta en la casa hermandad de San José.",
+   "caption": "Ilustración genérica de la sección Hermandades.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Hermandad de la Borriquita de Coria del Río celebra el domingo 22 de noviembre el XXV aniversario del Santísimo Cristo de la Salud en su Sagrada Entrada en Jerusalén.",
+    "Se unirá a la misa parroquial de las 12.00 en la Parroquia de San José, en la festividad de Cristo Rey.",
+    "Tras la misa habrá una convivencia abierta a la comunidad parroquial en la nueva casa hermandad de San José."
+   ],
+   "body": [
+    "La Hermandad de la Borriquita de Coria del Río celebrará el domingo 22 de noviembre, festividad de Cristo Rey, el XXV aniversario de su titular, el Santísimo Cristo de la Salud en su Sagrada Entrada en Jerusalén. Lo hará en la Parroquia de San José, según ha publicado la Hermandad Sacramental de San José en su perfil de Facebook.",
+    "La corporación se sumará a la misa parroquial de las 12.00, en la que se darán gracias por los 25 años de culto a la imagen y se recordará a las personas que han contribuido en este tiempo a su culto y a la vida de la hermandad.",
+    "## Convivencia en la casa hermandad",
+    "Al terminar la misa, la Hermandad Sacramental de San José organiza una convivencia en su nueva casa hermandad. Será un encuentro abierto a toda la comunidad parroquial, en el que los hermanos de San José compartirán la jornada con los de la Borriquita.",
+    "La Hermandad de San José, que <a href='#san-jose-nuevo-capataz-piedad'>estrenó Junta de Gobierno y nombró nuevo capataz para el paso de la Piedad</a> la semana pasada, presenta su colaboración en el aniversario como una forma de estrechar los lazos entre ambas corporaciones y la parroquia.",
+    "## Agenda cofrade de la semana",
+    "El aniversario cierra una semana con otras citas en las hermandades de Coria. La Hermandad de la Estrella, patrona de Coria del Río, celebra el jueves 19 de noviembre su cabildo general de elecciones, de 19.00 a 21.30, en la casa hermandad, según el aviso publicado en su web.",
+    "Al día siguiente, el viernes 20, la Hermandad del Gran Poder celebra a las 20.45 en su capilla la <a href='#gran-poder-requiem-difuntos-2026'>misa de réquiem por sus hermanos difuntos</a>.",
+    "<span class='howto'><b>XXV aniversario del Cristo de la Salud.</b> Domingo 22 de noviembre, a las 12.00, misa en la Parroquia de San José de Coria del Río. Después, convivencia abierta a la comunidad parroquial en la casa hermandad de San José. Cabildo de elecciones de la Estrella: jueves 19, de 19.00 a 21.30, casa hermandad.</span>"
+   ],
+   "seo": [
+    "borriquita-coria-xxv-aniversario-cristo-salud",
+    "Borriquita de Coria: 25 años del Cristo de la Salud",
+    "La Hermandad de la Borriquita de Coria del Río celebra el domingo 22 de noviembre, a las 12.00, el XXV aniversario del Cristo de la Salud en San José.",
+    [
+     "Hermandad de la Borriquita",
+     "Cristo de la Salud",
+     "Parroquia de San José",
+     "Cristo Rey",
+     "Hermandad de la Estrella",
+     "Gran Poder"
+    ]
+   ]
+  },
   {
    "id": "pgom-avance-territorio-ciudad",
    "sec": "coria",
