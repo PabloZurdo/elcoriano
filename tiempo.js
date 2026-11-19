@@ -1,63 +1,56 @@
 window.TIEMPO = {
  "fuente": "AEMET",
  "fuente_url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/coria-del-rio-id41034",
- "elaborado": "2026-11-17T20:59:07",
+ "elaborado": "2026-11-18T21:05:09",
  "dias": [
   {
-   "fecha": "2026-11-16",
-   "cielo": "Poco nuboso",
-   "max": 21,
-   "min": 11,
-   "lluvia": 0
-  },
-  {
-   "fecha": "2026-11-17",
-   "cielo": "Muy nuboso con lluvia escasa",
-   "max": 22,
-   "min": 12,
-   "lluvia": 85
-  },
-  {
    "fecha": "2026-11-18",
-   "cielo": "Cubierto con lluvia",
+   "cielo": "Cubierto con lluvia escasa",
    "max": 25,
    "min": 19,
-   "lluvia": 100
+   "lluvia": 90
   },
   {
    "fecha": "2026-11-19",
    "cielo": "Intervalos nubosos con lluvia escasa",
    "max": 22,
-   "min": 12,
-   "lluvia": 100
+   "min": 11,
+   "lluvia": 95
   },
   {
    "fecha": "2026-11-20",
-   "cielo": "Nubes altas",
+   "cielo": "Poco nuboso",
    "max": 21,
    "min": 10,
    "lluvia": 0
   },
   {
    "fecha": "2026-11-21",
-   "cielo": "Intervalos nubosos con lluvia escasa",
+   "cielo": "Intervalos nubosos",
    "max": 23,
-   "min": 9,
-   "lluvia": 50
+   "min": 10,
+   "lluvia": 40
   },
   {
    "fecha": "2026-11-22",
-   "cielo": "Intervalos nubosos con lluvia escasa",
-   "max": 22,
+   "cielo": "Intervalos nubosos",
+   "max": 21,
    "min": 10,
-   "lluvia": 80
+   "lluvia": 40
   },
   {
    "fecha": "2026-11-23",
    "cielo": "Intervalos nubosos",
-   "max": 21,
-   "min": 8,
-   "lluvia": 15
+   "max": 22,
+   "min": 9,
+   "lluvia": 10
+  },
+  {
+   "fecha": "2026-11-24",
+   "cielo": "Intervalos nubosos",
+   "max": 22,
+   "min": 10,
+   "lluvia": 50
   }
  ]
 };

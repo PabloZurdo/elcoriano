@@ -1,6 +1,6 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-18",
+  "actualizado": "2026-11-19",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
@@ -88,6 +88,13 @@ window.EP = {
    "hasta": "2026-11-29"
   },
   {
+   "cuando": "Hasta el 9 dic",
+   "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
+   "donde": "Ayuntamiento de Coria del Río",
+   "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
+   "hasta": "2026-12-09"
+  },
+  {
    "cuando": "Hasta el 20 dic",
    "que": "Reserva del boletín cuaresmal de San José",
    "donde": "secretario@sanjosecoria.org",
@@ -110,6 +117,97 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
+   "sec": "economia",
+   "kicker": "Inserta2",
+   "iso": "2026-11-19",
+   "hora": "07:57",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1458996129696386",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río abre hasta el 9 de diciembre la inscripción en los cursos de Inserta2 para personas desempleadas",
+   "sub": "Los cursos son presenciales y se financian con el Fondo Social Europeo Plus dentro del programa estatal ÉFESO",
+   "caption": "Plazo de inscripción en los cursos presenciales del proyecto Inserta2 para personas desempleadas.",
+   "foto": "inserta2-inscripcion-cursos-9-diciembre-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río ha abierto la inscripción en los cursos presenciales del proyecto Inserta2 para personas desempleadas.",
+    "El plazo para inscribirse termina el miércoles 9 de diciembre de 2026.",
+    "Inserta2-Coria del Río se financia con el Fondo Social Europeo Plus a través del Programa de Empleo, Educación, Formación y Economía Social (ÉFESO)."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha abierto hasta el miércoles 9 de diciembre de 2026 el plazo de inscripción en los cursos presenciales para personas desempleadas del proyecto Inserta2-Coria del Río. Lo ha anunciado este miércoles, 18 de noviembre, en su perfil de Facebook.",
+    "Es la primera fecha de cierre que se conoce para la nueva tanda de formación del proyecto. El extracto de la <a href='#inserta2-septima-convocatoria'>séptima convocatoria de Inserta2</a>, publicado en el Boletín Oficial de la Provincia (BOP) de Sevilla del lunes 16 de noviembre, fijaba el inicio de la recogida de solicitudes ese mismo día, pero no indicaba cuándo terminaba.",
+    "## Qué ofrece la última convocatoria",
+    "La publicación municipal no detalla qué cursos incluye esta inscripción. La séptima convocatoria, la última que ha aparecido en el boletín provincial, recoge cuatro itinerarios: socorrismo en instalaciones acuáticas, operaciones básicas de albañilería y dos ediciones de atención sociosanitaria a personas dependientes en instituciones sociales, la formación que habilita para trabajar como auxiliar en residencias y centros de día.",
+    "Según ese extracto, quienes ya pidieron plaza en alguno de estos itinerarios dentro de la quinta convocatoria no tienen que volver a hacerlo, porque sus solicitudes siguen siendo válidas. Las bases completas están en la <a href='https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/822544'>Base de Datos Nacional de Subvenciones (BDNS), con el código 822544</a>.",
+    "## Fondos europeos",
+    "Inserta2 se financia con el Fondo Social Europeo Plus (FSE+) del periodo 2021-2027, a través del Programa de Empleo, Educación, Formación y Economía Social (ÉFESO). Es el proyecto con el que el Ayuntamiento ofrece itinerarios de formación e inserción laboral a vecinos sin empleo, con especial atención a los colectivos más alejados del mercado de trabajo.",
+    "<span class='howto'><b>Inserta2-Coria del Río.</b> Cursos presenciales para personas desempleadas. Inscripción abierta hasta el miércoles 9 de diciembre de 2026. Bases y requisitos: BDNS 822544 y Ayuntamiento de Coria del Río.</span>"
+   ],
+   "seo": [
+    "inserta2-coria-del-rio-inscripcion-cursos-desempleados",
+    "Inserta2 Coria del Río: inscripción hasta el 9 de diciembre",
+    "El Ayuntamiento de Coria del Río abre hasta el 9 de diciembre la inscripción en los cursos presenciales de Inserta2 para personas desempleadas.",
+    [
+     "Inserta2",
+     "empleo",
+     "personas desempleadas",
+     "Fondo Social Europeo Plus",
+     "programa ÉFESO",
+     "formación"
+    ]
+   ]
+  },
+  {
+   "id": "san-jose-renueva-vestidores-capataces",
+   "sec": "hermandades",
+   "kicker": "Hermandad de San José",
+   "iso": "2026-11-19",
+   "hora": "07:57",
+   "src": "Hermandad Sacramental de San José (Facebook)",
+   "fuente_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid021dhASdntQdeaiqNh6qmUVFacLCHDF7VPfiF2Le74Ma6ccfUwxqRuhQfJMHk2BXqhl&id=61551796482920",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Hermandad de San José de Coria renueva a sus dos vestidores y a los capataces del palio y del Señor de la Paz",
+   "sub": "Leandro González, Rafael López, Mario Álvarez y Miguel Ángel Pérez seguirán en sus cargos con la nueva Junta de Gobierno",
+   "caption": "Hermandad Sacramental de San José de Coria del Río, en una imagen de archivo.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Junta de Gobierno de la Hermandad Sacramental de San José ha renovado cuatro cargos de confianza.",
+    "Leandro González Ruiz y Rafael López Tello siguen como vestidores; Mario Álvarez Abad y Miguel Ángel Pérez Pascual, como capataces.",
+    "La renovación llega dos días después del nombramiento de Álvaro Pastor Alés como nuevo capataz del paso de la Piedad."
+   ],
+   "body": [
+    "La Junta de Gobierno de la Hermandad Sacramental de San José de Coria del Río ha renovado a las cuatro personas que ocupaban los cargos de confianza ligados al cuidado de sus titulares y a la dirección de dos de sus pasos. La hermandad lo ha comunicado este miércoles, 18 de noviembre, en su perfil de Facebook.",
+    "Los renovados son los dos vestidores de las imágenes y los capataces del paso de palio y del paso de misterio del Señor de la Paz. La decisión la ha adoptado la nueva Junta de Gobierno, presidida por el hermano mayor, José Gómez Alfaro, que tomó posesión el viernes 13 de noviembre.",
+    "## Quién sigue en cada cargo",
+    "Leandro González Ruiz continúa como vestidor de María Santísima de Gracia y Esperanza y de Nuestra Señora de los Dolores. Rafael López Tello seguirá vistiendo a Nuestro Padre Jesús de la Paz en su Presentación al Pueblo.",
+    "En los pasos, Mario Álvarez Abad, hermano de la corporación, mantiene la dirección del paso de palio de María Santísima de Gracia y Esperanza. Miguel Ángel Pérez Pascual seguirá como capataz del paso de Nuestro Padre Jesús de la Paz en su Presentación al Pueblo.",
+    "Según la hermandad, la renovación busca dar continuidad a quienes ya venían ejerciendo estas responsabilidades. La Junta de Gobierno les ha agradecido públicamente su trabajo y su disposición a seguir.",
+    "## El nuevo capataz de la Piedad",
+    "El único relevo en los martillos se produjo dos días antes. El lunes 16 de noviembre la hermandad <a href='#san-jose-nuevo-capataz-piedad'>nombró a Álvaro Pastor Alés capataz del paso de la Piedad</a> del Santísimo Cristo de la Misericordia y Nuestra Señora de los Dolores, en sustitución de Javier Jiménez.",
+    "La Parroquia de San José acogerá además el domingo 22 de noviembre, a las 12.00, la misa por el <a href='#borriquita-xxv-aniversario-cristo-salud'>XXV aniversario del Santísimo Cristo de la Salud</a>, titular de la Hermandad de la Borriquita, seguida de una convivencia en la nueva casa hermandad de San José.",
+    "<span class='howto'><b>Hermandad Sacramental de San José.</b> Misa por el XXV aniversario del Cristo de la Salud (Borriquita): domingo 22 de noviembre, 12.00, Parroquia de San José. Reserva del boletín cuaresmal 2027: hasta el 20 de diciembre en secretario@sanjosecoria.org.</span>"
+   ],
+   "seo": [
+    "hermandad-san-jose-coria-renueva-vestidores-capataces",
+    "San José de Coria renueva a sus vestidores y capataces",
+    "La Hermandad Sacramental de San José de Coria del Río renueva a sus dos vestidores y a los capataces del palio y del paso de Jesús de la Paz.",
+    [
+     "Hermandad Sacramental de San José",
+     "capataces",
+     "vestidores",
+     "Jesús de la Paz",
+     "Gracia y Esperanza",
+     "Semana Santa 2027"
+    ]
+   ]
+  },
   {
    "id": "25n-campana-ayuntamiento-2026",
    "sec": "coria",
