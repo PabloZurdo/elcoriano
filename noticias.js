@@ -88,6 +88,13 @@ window.EP = {
    "hasta": "2026-11-29"
   },
   {
+   "cuando": "Hasta el 3 dic",
+   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
+   "donde": "Registro del Ayuntamiento o sede electrónica",
+   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
+   "hasta": "2026-12-03"
+  },
+  {
    "cuando": "Hasta el 9 dic",
    "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
    "donde": "Ayuntamiento de Coria del Río",
@@ -117,6 +124,99 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
+   "sec": "economia",
+   "kicker": "Bolsa de empleo",
+   "iso": "2026-11-19",
+   "hora": "23:00",
+   "src": "BOP de Sevilla",
+   "fuente_url": "https://bopsevilla.dipusevilla.es/export/sites/bop/.galleries/Documentos-Anuncios-en-PDF/firmado-1795046436467-final-747bb4ce.pdf",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río abre una bolsa de empleo de auxiliares de ayuda a domicilio",
+   "sub": "Las solicitudes se presentan en diez días hábiles desde el 20 de noviembre y la selección es por concurso de méritos, sin examen.",
+   "caption": "Gráfico con los datos principales de la bolsa de Auxiliar del Servicio de Ayuda a Domicilio.",
+   "foto": "bolsa-auxiliar-ayuda-domicilio-coria-2026-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río crea una bolsa para contratar de forma temporal a auxiliares del Servicio de Ayuda a Domicilio, según las bases publicadas el 19 de noviembre en el BOP de Sevilla.",
+    "El plazo de solicitud es de diez días hábiles a contar desde el 20 de noviembre.",
+    "Se exige el título de ESO o equivalente y una cualificación sociosanitaria, y la tasa es de 30 euros.",
+    "La selección es por concurso: hasta 70 puntos por experiencia y 30 por formación."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha convocado una bolsa de trabajo para contratar como personal laboral temporal a auxiliares del Servicio de Ayuda a Domicilio. Las bases se publicaron el jueves 19 de noviembre en el Boletín Oficial de la Provincia (BOP) de Sevilla, y el plazo para presentar solicitudes es de diez días hábiles desde el día siguiente.",
+    "La bolsa servirá para cubrir necesidades temporales del servicio, como sustituciones o vacantes mientras se resuelve un proceso de selección. Las plazas son de categoría C2. Las bases dejan claro que no es una vía para ocupar puestos definitivos y que figurar en ella no da derecho por sí mismo a un contrato. La jornada y el salario se remiten al convenio colectivo del personal laboral del Ayuntamiento.",
+    "## Requisitos",
+    "Las personas aspirantes deben tener al menos 16 años, el título de Graduado en Educación Secundaria Obligatoria (ESO) o equivalente y una cualificación profesional del ámbito sociosanitario. Valen, entre otros, los títulos de Técnico en Cuidados Auxiliares de Enfermería o de Técnico en Atención a Personas en Situación de Dependencia, los certificados de profesionalidad de atención sociosanitaria a personas en el domicilio o en instituciones y la habilitación excepcional o provisional que concede la Junta de Andalucía. Las bases no admiten sustituir el título por experiencia.",
+    "## Cómo se puntúa",
+    "No hay examen. La selección es un concurso de méritos con un máximo de 100 puntos. La experiencia suma hasta 70: 0,50 puntos por mes completo como auxiliar de ayuda a domicilio en una administración pública, 0,30 en otras entidades del sector público, 0,20 en empresas privadas y 0,15 en puestos de funciones parecidas, como gerocultor o auxiliar de enfermería. La formación suma hasta 30 puntos, según la duración de cada curso; los de menos de 25 horas no cuentan.",
+    "La tasa es de 30 euros. Están exentas, entre otras, las personas demandantes de empleo que cumplan los requisitos de la ordenanza fiscal y las que tengan una discapacidad igual o superior al 33 %. Las familias numerosas de categoría general pagan la mitad, 15 euros, y las de categoría especial no pagan.",
+    "Firma la resolución, del 16 de noviembre, la teniente de alcalde delegada de Recursos Humanos, Régimen Interior y Limpieza, Silvia Gracia Galán. Las listas de admitidos y de puntuaciones se publicarán en el tablón de la sede electrónica municipal, con cinco días hábiles para reclamar.",
+    "<span class='howto'><b>Cómo presentarse.</b> Solicitud (anexo I) y autobaremación (anexo II) dirigidas al alcalde, con la titulación, los méritos y el justificante de la tasa. En el Registro General del Ayuntamiento (calle Cervantes, 69), en la sede electrónica (sede.coriadelrio.es) o por los medios de la Ley 39/2015. Plazo: diez días hábiles desde el 20 de noviembre; si no hay días inhábiles intermedios, termina el jueves 3 de diciembre. Tasa: 30 euros por transferencia, con el concepto «TASA BOLSA SAD 2026», el DNI o NIE y el nombre.</span>"
+   ],
+   "seo": [
+    "bolsa-auxiliar-ayuda-domicilio-coria-del-rio",
+    "Bolsa de ayuda a domicilio en Coria del Río: requisitos",
+    "El Ayuntamiento de Coria del Río abre una bolsa de auxiliares de ayuda a domicilio: diez días hábiles desde el 20 de noviembre y concurso de méritos.",
+    [
+     "Servicio de Ayuda a Domicilio",
+     "bolsa de empleo",
+     "Ayuntamiento de Coria del Río",
+     "BOP de Sevilla",
+     "empleo público",
+     "dependencia"
+    ]
+   ]
+  },
+  {
+   "id": "retirada-escombros-alhambra-virgen-salud",
+   "sec": "coria",
+   "kicker": "Limpieza viaria",
+   "iso": "2026-11-19",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1459667589629240",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río retira escombros y basura del tramo entre las calles Alhambra y Virgen de la Salud",
+   "sub": "El Consistorio recuerda que la recogida de muebles y enseres en la puerta de casa es gratuita y se pide en el 955 891 091.",
+   "caption": "Gráfico con el teléfono municipal de recogida gratuita de muebles y enseres.",
+   "foto": "retirada-escombros-alhambra-virgen-salud-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río retiró el jueves 19 de noviembre escombros y basura del tramo que une las calles Alhambra y Virgen de la Salud.",
+    "Según el Consistorio, algunas personas usan ese espacio como vertedero.",
+    "La recogida de muebles y enseres en la puerta de casa es gratuita y se solicita en el teléfono 955 891 091."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río retiró el jueves 19 de noviembre escombros y basura acumulados en el tramo que conecta las calles Alhambra y Virgen de la Salud. Así lo ha publicado el Consistorio en su perfil de Facebook, donde explica que ese enclave «suele ser usado como vertedero» por algunas personas.",
+    "El Ayuntamiento no ha detallado el volumen de residuos retirado ni cuántos trabajadores y vehículos participaron. Sí afirma que no es la primera vez que interviene en ese punto: habla de «una nueva retirada».",
+    "## Muebles, latas y asientos de coche",
+    "El alcalde, Modesto González Márquez, ha difundido en su perfil de Facebook un vídeo de la limpieza. En el mensaje que lo acompaña define el tramo como un «punto negro» de la limpieza del municipio y enumera lo que se ha encontrado: desde latas y botellas hasta asientos de vehículos y muebles.",
+    "Según el Ayuntamiento, estos vertidos perjudican la salubridad, la imagen del municipio y el medio ambiente. El Consistorio atribuye el problema a que no se deposita la basura en su sitio ni se pide la recogida de los objetos voluminosos, un servicio que el propio Ayuntamiento presta sin coste.",
+    "## Un servicio gratuito",
+    "Los vecinos que quieran deshacerse de muebles o enseres pueden llamar al teléfono municipal 955 891 091 para que se los recojan en la puerta de casa. El Consistorio acompaña sus publicaciones sobre limpieza con las etiquetas #OletuCoriadelRio y #Coriacomounapatena.",
+    "La actuación coincide con otras iniciativas municipales sobre el cuidado del espacio público, como las <a href='#patrullas-verdes-coria'>Patrullas Verdes</a>, un grupo de vecinos voluntarios que el Ayuntamiento presentó el lunes 16 de noviembre y que tiene una jornada formativa el martes 24 en la Casa de Barrio.",
+    "<span class='howto'><b>Recogida de muebles y enseres.</b> Servicio municipal gratuito, en la puerta de casa. Se solicita en el teléfono 955 891 091.</span>"
+   ],
+   "seo": [
+    "retirada-escombros-calle-alhambra-virgen-salud-coria",
+    "Escombros en Coria del Río: limpieza en calle Alhambra",
+    "El Ayuntamiento de Coria del Río retira escombros y basura entre las calles Alhambra y Virgen de la Salud y recuerda la recogida gratuita de enseres.",
+    [
+     "limpieza viaria",
+     "vertidos ilegales",
+     "calle Alhambra",
+     "calle Virgen de la Salud",
+     "recogida de enseres",
+     "Modesto González Márquez"
+    ]
+   ]
+  },
   {
    "id": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
    "sec": "economia",
