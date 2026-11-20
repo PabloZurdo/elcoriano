@@ -157,6 +157,143 @@ window.EP = {
    ]
   },
   {
+   "id": "vencejos-cajas-nido-apadrinamiento-coria",
+   "sec": "coria",
+   "kicker": "Biodiversidad urbana",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1460506472878685",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río abre hasta el 4 de diciembre el apadrinamiento de cajas nido para vencejos",
+   "sub": "Los vecinos y comercios interesados deben pedirlo por correo electrónico; se dará una caja por vivienda o local, por orden de llegada.",
+   "caption": "Plazo y condiciones de la campaña de cajas nido de vencejos del Ayuntamiento de Coria del Río.",
+   "foto": "vencejos-cajas-nido-coria-2026-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "claves": [
+    "El Ayuntamiento de Coria del Río ofrece a vecinos y comercios apadrinar cajas nido de vencejos.",
+    "Las solicitudes se envían a medioambiente@coriadelrio.es hasta el 4 de diciembre de 2026.",
+    "Se adjudica una caja por vivienda o local, por orden de llegada, y se coloca en un lugar visible desde la calle.",
+    "La campaña forma parte del Plan de Biodiversidad Urbana municipal."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha abierto una campaña para que vecinos y comercios apadrinen cajas nido de vencejos en sus viviendas y locales. Las solicitudes se pueden enviar hasta el 4 de diciembre de 2026, según ha publicado el Ayuntamiento en su perfil de Facebook.",
+    "La iniciativa forma parte del Plan de Biodiversidad Urbana del Ayuntamiento, que según la publicación municipal reúne acciones para proteger y fomentar la fauna autóctona en el casco urbano. El Ayuntamiento justifica la campaña en el papel de los vencejos como aves insectívoras: sostiene que cada una puede consumir más de mil insectos al día, mosquitos incluidos.",
+    "## Cómo pedir una caja",
+    "Para participar hay que escribir a la dirección medioambiente@coriadelrio.es con el asunto «Campaña de apadrinamiento de cajas nido de vencejos». En el mensaje se deben indicar el nombre completo, la dirección de la vivienda o del local y un teléfono de contacto.",
+    "Los vencejos son aves migratorias que pasan en la península la primavera y el verano, y crían en huecos de edificios y tejados. Las cajas nido les ofrecen un lugar para anidar en el casco urbano.",
+    "Los vencejos son aves migratorias que pasan en la península la primavera y el verano, y anidan en huecos de edificios. Las cajas nido les ofrecen un lugar para criar en zonas urbanas.",
+    "La campaña se suma a otras iniciativas ambientales municipales de las últimas semanas, como las <a href='#patrullas-verdes-coria'>Patrullas Verdes formadas por vecinos</a>.",
+    "<span class='howto'>Plazo: hasta el 4 de diciembre de 2026. Solicitud: correo a medioambiente@coriadelrio.es con el asunto «Campaña de apadrinamiento de cajas nido de vencejos», indicando nombre completo, dirección y teléfono. Una caja por vivienda o local, por orden de llegada.</span>"
+   ],
+   "seo": [
+    "vencejos-cajas-nido-apadrinamiento-coria-del-rio",
+    "Cajas nido de vencejos en Coria del Río: cómo pedirlas",
+    "El Ayuntamiento de Coria del Río abre hasta el 4 de diciembre el apadrinamiento de cajas nido de vencejos: una por vivienda o local, por orden de llegada.",
+    [
+     "vencejos",
+     "cajas nido",
+     "biodiversidad urbana",
+     "medio ambiente",
+     "Ayuntamiento de Coria del Río",
+     "mosquitos"
+    ]
+   ],
+   "iso": "2026-11-20",
+   "hora": "22:58"
+  },
+  {
+   "id": "cb-coria-recogida-alimentos-entrada-gratis",
+   "sec": "deportes",
+   "kicker": "Club Baloncesto Coria",
+   "src": "Club Baloncesto Coria (Facebook)",
+   "fuente_url": "https://www.facebook.com/1805624228234571/posts/1811789644284696",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Club Baloncesto Coria recoge alimentos y abre gratis el partido de Tercera FEB del sábado",
+   "sub": "La campaña dura hasta el 14 de diciembre; el domingo el Primera Nacional recibe a Labradores y el Coria CF se mide a La Palma en el Guadalquivir.",
+   "caption": "Fechas de la recogida de alimentos y del I Torneo de Navidad U12 del Club Baloncesto Coria.",
+   "foto": "cb-coria-recogida-alimentos-tercera-feb-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "claves": [
+    "El Club Baloncesto Coria recoge alimentos del 21 de noviembre al 14 de diciembre.",
+    "La entrada al partido de Tercera FEB del sábado 21 de noviembre es gratuita y se invita a llevar un alimento.",
+    "El club organiza el I Torneo de Navidad U12 los días 26, 27 y 28 de diciembre.",
+    "El Coria CF recibe a La Palma CF a las 12.00 en el Estadio Guadalquivir en su próximo partido."
+   ],
+   "body": [
+    "El Club Baloncesto Coria, de Coria del Río, inicia este sábado 21 de noviembre una recogida de alimentos que durará hasta el 14 de diciembre. Para arrancarla, la entrada al partido de su equipo de Tercera FEB de ese día será gratuita y el club pide a los aficionados que acudan con un alimento.",
+    "El club lo ha comunicado en su perfil de Facebook, donde explica que lo recogido irá destinado a personas que lo necesitan. No ha detallado a qué entidad entregará los alimentos ni los puntos de recogida además del pabellón.",
+    "## Un fin de semana con tres equipos en pista",
+    "El partido del sábado corresponde a la octava jornada de Tercera FEB, en la que el equipo coriano busca su cuarta victoria, según el club. El domingo 22 juega en casa el equipo de Primera Nacional masculino, que recibe a Labradores en un encuentro que el club presenta como de los que «marcan el camino». Ese equipo viene de <a href='#cb-coria-n1-masculino-gana-huelva'>ganar 91-45 al Huelva La Luz</a>. El equipo femenino, por su parte, juega fuera este fin de semana, en Gines.",
+    "El Club Baloncesto Coria también ha presentado el I Torneo de Navidad U12, que se disputará los días 26, 27 y 28 de diciembre. El club anuncia que quedan las últimas plazas y que irá dando a conocer en las próximas semanas los equipos participantes, los horarios y las actividades.",
+    "## El Coria CF, ante La Palma",
+    "En fútbol, el Coria CF juega su próximo partido en el Estadio Guadalquivir a las 12.00 ante La Palma CF, al que el club presenta en sus redes como un rival directo de la parte alta de la clasificación. El equipo llega tras <a href='#coria-cf-gana-rinconada'>ganar 0-2 en La Rinconada</a>.",
+    "<span class='howto'>Recogida de alimentos del Club Baloncesto Coria: del 21 de noviembre al 14 de diciembre. Partido de Tercera FEB del sábado 21: entrada gratuita, con alimento solidario. I Torneo de Navidad U12: 26, 27 y 28 de diciembre, inscripción a través del club. Coria CF-La Palma CF: 12.00, Estadio Guadalquivir.</span>"
+   ],
+   "seo": [
+    "club-baloncesto-coria-recogida-alimentos-tercera-feb",
+    "CB Coria: recogida de alimentos y entrada gratis el sábado",
+    "El Club Baloncesto Coria recoge alimentos hasta el 14 de diciembre y abre gratis el partido de Tercera FEB del sábado. El Coria CF recibe a La Palma CF.",
+    [
+     "Club Baloncesto Coria",
+     "Tercera FEB",
+     "recogida de alimentos",
+     "Coria CF",
+     "La Palma CF",
+     "Torneo de Navidad U12"
+    ]
+   ],
+   "iso": "2026-11-20",
+   "hora": "22:58"
+  },
+  {
+   "id": "ies-rodrigo-caro-plogging-ribera-guadalquivir",
+   "sec": "rio",
+   "kicker": "Ribera del Guadalquivir",
+   "src": "El Coriano",
+   "fuente_url": "https://www.youtube.com/watch?v=qQFze6mws-s&t=0s",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Alumnos de primero de ESO del IES Rodrigo Caro recogen basura en la ribera del Guadalquivir en Coria",
+   "sub": "La actividad, organizada por los departamentos de Educación Física y Plástica, combina caminata, reciclaje y material para clase.",
+   "caption": "La ribera del Guadalquivir a su paso por Coria del Río.",
+   "foto": "generica-rio.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "Alumnos de primero de ESO del IES Rodrigo Caro recogieron residuos en la ribera del Guadalquivir el viernes 20 de noviembre.",
+    "La actividad, llamada plogging, une caminata o carrera con la recogida de basura y la organizan los departamentos de Educación Física y Plástica.",
+    "Los alumnos separaron los residuos en bolsas amarilla, azul y negra con pinzas proporcionadas por el Ayuntamiento.",
+    "El alcalde, Modesto González, y cuatro delegados municipales participaron en la jornada."
+   ],
+   "body": [
+    "Los alumnos de primero de ESO del IES Rodrigo Caro de Coria del Río salieron el viernes 20 de noviembre a recoger basura en la ribera del Guadalquivir. La jornada, organizada por los departamentos de Educación Física y Plástica del instituto, sigue el formato del plogging: caminar o correr mientras se retiran residuos del entorno.",
+    "Uno de los docentes que la han preparado explicó a El Coriano que el plogging es una actividad física en la que se camina o se corre y, a la vez, se recogen residuos del entorno. El centro eligió a los alumnos de primero porque son los más jóvenes del instituto: «Queremos concienciarlos desde su entrada en el instituto», señaló. Añadió que la basura tirada en el suelo es un problema que no se limita a Coria.",
+    "## Tres bolsas y unas pinzas",
+    "Los estudiantes separaron lo que encontraban en tres bolsas, amarilla, azul y negra, según el tipo de residuo. Para llegar a los plásticos enganchados en los matorrales usaron pinzas que ha proporcionado el Ayuntamiento de Coria del Río, lo que también evita mancharse las manos. Entre los restos aparecieron envases, plásticos y hasta un trozo de corcho.",
+    "La actividad tiene una segunda parte en el aula. Además de basura, los alumnos recogieron hojas secas que el departamento de Plástica prensará para usarlas como soporte en sus trabajos de otoño.",
+    "Los propios alumnos reconocieron que el problema empieza dentro del instituto, donde también se recoge mucha basura del suelo pese a que hay papeleras. «Las papeleras no están de decoración, están para tirar las cosas», resumió uno de ellos, que pidió al resto de compañeros del Rodrigo Caro que colaboren porque los residuos acaban en las pistas donde se dan las clases de Educación Física.",
+    "## Presencia municipal",
+    "El Ayuntamiento ha difundido la jornada en su perfil de Facebook. Según su publicación, en ella participaron el alcalde, Modesto González, y los delegados María José Cantón, Silvia Gracia, Juan Manuel Cordero y Teresa Estévez, que recogieron con los jóvenes «decenas de bolsas de basura» de la ribera. El Ayuntamiento atribuye la suciedad del río a la basura que se arroja en ese espacio y defiende la concienciación como herramienta contra el incivismo.",
+    "La actividad coincide con otras actuaciones municipales contra los vertidos, como la <a href='#retirada-escombros-alhambra-virgen-salud'>retirada de escombros entre las calles Alhambra y Virgen de la Salud</a> de esta misma semana y la creación de las <a href='#patrullas-verdes-coria'>Patrullas Verdes de vecinos</a>.",
+    "<span class='howto'>El reportaje completo de la jornada se puede ver en el canal de YouTube de Coriavisión. Para deshacerse de muebles y enseres sin dejarlos en la calle, el Ayuntamiento ofrece recogida gratuita a domicilio en el 955 891 091.</span>"
+   ],
+   "seo": [
+    "ies-rodrigo-caro-plogging-ribera-guadalquivir-coria",
+    "Plogging del IES Rodrigo Caro en la ribera de Coria",
+    "Alumnos de primero de ESO del IES Rodrigo Caro recogen basura en la ribera del Guadalquivir en Coria del Río con una actividad de plogging y reciclaje.",
+    [
+     "IES Rodrigo Caro",
+     "plogging",
+     "Guadalquivir",
+     "reciclaje",
+     "educación ambiental",
+     "incivismo"
+    ]
+   ],
+   "iso": "2026-11-20",
+   "hora": "22:58"
+  },
+  {
    "id": "soledad-restaura-caliz-plata",
    "sec": "hermandades",
    "kicker": "Patrimonio cofrade",
