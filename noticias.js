@@ -1,23 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-19",
+  "actualizado": "2026-11-20",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "19 nov, 19.00",
-   "que": "Cabildo de elecciones de la Hermandad de la Estrella",
-   "donde": "Casa hermandad, hasta las 21.30",
-   "hasta": "2026-11-19",
-   "noticia": "borriquita-xxv-aniversario-cristo-salud"
-  },
-  {
-   "cuando": "Hasta el 19 nov",
-   "que": "Solicitud del voto por correo",
-   "donde": "Oficinas y web de Correos",
-   "hasta": "2026-11-19"
-  },
   {
    "cuando": "20 nov, 20.45",
    "que": "Misa de réquiem por los hermanos difuntos del Gran Poder",
@@ -124,6 +111,93 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "aldi-abre-supermercado-coria-del-rio",
+   "sec": "economia",
+   "kicker": "Nuevo supermercado",
+   "iso": "2026-11-20",
+   "hora": "08:01",
+   "src": "El Coriano",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Aldi abre este viernes en Coria del Río un supermercado de más de 1.000 metros cuadrados con 15 trabajadores",
+   "sub": "Ocho de los empleados son vecinos del municipio; la tienda está en la continuación de la calle Córdoba y tiene 78 plazas de aparcamiento.",
+   "caption": "Principales cifras del nuevo supermercado de Aldi en Coria del Río.",
+   "foto": "aldi-coria-del-rio-apertura-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "claves": [
+    "Aldi abre el viernes 20 de noviembre de 2026 su primer supermercado en Coria del Río, en la continuación de la calle Córdoba, sin número.",
+    "La tienda tiene más de 1.000 metros cuadrados de sala de ventas y 78 plazas de aparcamiento.",
+    "La plantilla es de 15 personas, ocho de ellas vecinas de Coria.",
+    "Abre de lunes a sábado, de 9.00 a 21.30."
+   ],
+   "body": [
+    "La cadena de supermercados Aldi abre este viernes 20 de noviembre su primera tienda en Coria del Río. El establecimiento está en la continuación de la calle Córdoba, sin número, tiene una sala de ventas de más de 1.000 metros cuadrados y un aparcamiento de 78 plazas, y empieza a funcionar con una plantilla de 15 trabajadores.",
+    "De esos 15 empleados, ocho son vecinos de Coria, según los datos que ha difundido la empresa con motivo de la apertura. El horario será de lunes a sábado, de 9.00 a 21.30.",
+    "## Ofertas de apertura",
+    "La compañía anuncia promociones y descuentos en una selección de productos durante las primeras semanas, con más de 100 ofertas especiales repartidas a lo largo de los tres primeros meses.",
+    "Según la propia cadena, nueve de cada diez productos que vende son de marca propia y ocho de cada diez proceden de proveedores nacionales. La empresa atribuye a ese modelo un ahorro para las familias de más de 2.400 euros al año en la cesta de la compra, una cifra que es su estimación comercial.",
+    "## La cadena en la provincia",
+    "Con la tienda de Coria, Aldi suma cerca de 30 supermercados en la provincia de Sevilla, donde trabajan más de 600 personas, según la compañía. En Andalucía supera los 115 establecimientos y los 1.700 empleados, contando sus oficinas centrales y la plataforma logística que tiene en Dos Hermanas. Andalucía es la comunidad autónoma con más tiendas de la marca en España, a la que llegó en 2002.",
+    "La apertura se produce en una semana de noticias de empleo en el municipio. El Ayuntamiento mantiene abierta hasta el 9 de diciembre la <a href='#inserta2-inscripcion-cursos-desempleados-9-diciembre'>inscripción en los cursos de Inserta2</a> para personas desempleadas y ha publicado en el Boletín Oficial de la Provincia las bases de una <a href='#bolsa-auxiliar-ayuda-domicilio-coria-2026'>bolsa de empleo de auxiliares de ayuda a domicilio</a>.",
+    "<span class='howto'><b>Nuevo Aldi de Coria del Río.</b> Continuación de la calle Córdoba, s/n. Abre desde el viernes 20 de noviembre de 2026, de lunes a sábado, de 9.00 a 21.30. Aparcamiento de 78 plazas.</span>"
+   ],
+   "seo": [
+    "aldi-abre-supermercado-coria-del-rio-calle-cordoba",
+    "Aldi abre supermercado en Coria del Río con 15 empleos",
+    "Aldi abre el 20 de noviembre en la calle Córdoba de Coria del Río una tienda de más de 1.000 metros cuadrados, con 15 trabajadores y 78 plazas de parking.",
+    [
+     "Aldi",
+     "supermercado",
+     "empleo",
+     "comercio",
+     "calle Córdoba",
+     "aperturas"
+    ]
+   ]
+  },
+  {
+   "id": "soledad-restaura-caliz-plata",
+   "sec": "hermandades",
+   "kicker": "Patrimonio cofrade",
+   "iso": "2026-11-20",
+   "hora": "08:01",
+   "src": "Hermandad de la Soledad (Facebook)",
+   "fuente_url": "https://www.facebook.com/1568403328657029/posts/1571965474967481",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Hermandad de la Soledad de Coria recupera un antiguo cáliz de plata y lo vuelve a usar en la misa",
+   "sub": "La pieza, una donación de hace años, no servía para la liturgia por su deterioro y se estrenó restaurada en la función al Cristo Yacente.",
+   "caption": "Imagen de recurso de la sección de Hermandades.",
+   "foto": "generica-hermandades.jpg",
+   "fotocredito": "Archivo El Coriano",
+   "claves": [
+    "La Hermandad de la Soledad de Coria del Río ha restaurado un antiguo cáliz de plata de ley destinado al culto.",
+    "La pieza se estrenó el domingo 15 de noviembre en la Función Principal de los cultos al Santísimo Cristo Yacente.",
+    "El cáliz llegó a la hermandad como donación hace varios años y su deterioro impedía usarlo en la liturgia."
+   ],
+   "body": [
+    "La Hermandad de la Soledad de Coria del Río ha recuperado un antiguo cáliz de plata de ley, que vuelve a utilizarse en la misa tras su restauración. La corporación lo estrenó el domingo 15 de noviembre, durante la Función Principal de los cultos en honor al Santísimo Cristo Yacente, según ha publicado en su perfil de Facebook.",
+    "El cáliz llegó a la hermandad como una donación hace varios años, pero su estado de deterioro impedía usarlo en las celebraciones litúrgicas. Tras el proceso de restauración, la pieza recupera su función en el altar. La hermandad no ha detallado en su publicación quién se ha encargado del trabajo ni cuánto ha costado.",
+    "En su mensaje, la corporación del Barrio de la Soledad presenta la intervención como una forma de poner en valor una pieza de su historia y de asegurar su conservación para que siga al servicio del culto. La hermandad ha acompañado el anuncio con imágenes del fotógrafo Pedro Sánchez.",
+    "## Una semana de actos en la Soledad",
+    "La Función Principal del domingo 15, en la que se estrenó el cáliz, cerró los cultos al Cristo Yacente y la presidió Antonio Santos Moreno, párroco de Santa María de la Estrella y director espiritual de la hermandad. Ese mismo fin de semana, voluntarios de la corporación <a href='#soledad-caridad-banco-alimentos-brigada-nocturna'>colaboraron en la Gran Recogida del Banco de Alimentos</a> y su Diputación de Caridad entregó mantas y ropa de abrigo a La Brigada Nocturna.",
+    "La próxima cita es el sábado 21 de noviembre, a las 12.00, en la capilla de Nuestra Señora de la Soledad, donde la hermandad <a href='#soledad-jarrillo-soleaero-2026-fernando-rasero'>entregará el V Jarrillo Soleaero a Fernando Rasero Pérez</a>. Después del acto, la casa hermandad quedará abierta para una convivencia con los asistentes.",
+    "<span class='howto'><b>Próximo acto.</b> Entrega del V Jarrillo Soleaero: sábado 21 de noviembre de 2026, a las 12.00, en la capilla de Nuestra Señora de la Soledad (Coria del Río).</span>"
+   ],
+   "seo": [
+    "soledad-coria-restaura-caliz-plata-cristo-yacente",
+    "La Soledad de Coria restaura un antiguo cáliz de plata",
+    "La Hermandad de la Soledad de Coria del Río estrenó el 15 de noviembre, en la función al Cristo Yacente, un antiguo cáliz de plata restaurado.",
+    [
+     "Hermandad de la Soledad",
+     "Cristo Yacente",
+     "patrimonio cofrade",
+     "cáliz",
+     "Barrio de la Soledad"
+    ]
+   ]
+  },
   {
    "id": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
    "sec": "economia",

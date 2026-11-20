@@ -1,15 +1,8 @@
 window.TIEMPO = {
  "fuente": "AEMET",
  "fuente_url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/coria-del-rio-id41034",
- "elaborado": "2026-11-19T20:59:07",
+ "elaborado": "2026-11-20T06:45:10",
  "dias": [
-  {
-   "fecha": "2026-11-18",
-   "cielo": "Cubierto con lluvia escasa",
-   "max": 25,
-   "min": 19,
-   "lluvia": 90
-  },
   {
    "fecha": "2026-11-19",
    "cielo": "Intervalos nubosos con lluvia escasa",
