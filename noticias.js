@@ -105,6 +105,184 @@ window.EP = {
  ],
  "noticias": [
   {
+   "id": "noche-blanca-flamenco-coria-2026",
+   "sec": "cultura",
+   "kicker": "Noche Blanca del Flamenco",
+   "iso": "2026-11-21",
+   "hora": "22:59",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1461700716092594",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Noche Blanca del Flamenco recorre Coria del Río del Kiosco de la Música a la escalera del Cerro",
+   "sub": "Una pasarela de complementos con alumnas del CEPER, el cante de Antonio Sánchez «El Cipri» y la guitarra del Conservatorio Pedro Gámez Laserna marcaron la cita del viernes 20.",
+   "caption": "Participantes en la pasarela de complementos flamencos de la Noche Blanca del Flamenco, bajo la carpa de Protección Civil.",
+   "foto": "noche-blanca-flamenco-coria-2026-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "claves": [
+    "La Noche Blanca del Flamenco se celebró el viernes 20 de noviembre de 2026 en varios espacios de Coria del Río.",
+    "Arrancó en el Kiosco de la Música con una pasarela de complementos flamencos de Complementos Berila protagonizada por alumnas del CEPER Ribera del Guadalquivir.",
+    "Antonio Sánchez «El Cipri» cantó en la puerta del Ayuntamiento por bulerías, soleares y fandangos.",
+    "La jornada terminó en la escalera del Cerro con alumnos de guitarra del Conservatorio Pedro Gámez Laserna."
+   ],
+   "body": [
+    "Coria del Río celebró el viernes 20 de noviembre la Noche Blanca del Flamenco, un recorrido por varios espacios del municipio con moda flamenca, cante y guitarra que empezó en el Kiosco de la Música y terminó en la escalera del Cerro. Así lo ha contado el Ayuntamiento en su perfil de Facebook.",
+    "## Pasarela en el Kiosco de la Música",
+    "La primera parada fue una pasarela de complementos flamencos montada en el Kiosco de la Música con la colaboración de la firma Complementos Berila. Desfilaron por la alfombra roja alumnas del CEPER Ribera del Guadalquivir, el centro de educación permanente de Coria. Protección Civil instaló una carpa para que las participantes pudieran resguardarse del sol y prepararse antes de salir, según la publicación municipal.",
+    "## Cante en la puerta del Ayuntamiento",
+    "El recorrido siguió en la puerta del Ayuntamiento, donde actuó el cantaor Antonio Sánchez, «El Cipri». Su repertorio pasó por bulerías, soleares y fandangos, de acuerdo con el Consistorio, que destaca la respuesta del público.",
+    "El cierre, organizado por el CEPER de Coria del Río, fue en la escalera del Cerro. Allí, alumnos de guitarra del Conservatorio Pedro Gámez Laserna interpretaron varias piezas dedicadas a la Generación del 27, el grupo de poetas de los años veinte en el que figuran Federico García Lorca, Rafael Alberti y Luis Cernuda, entre otros.",
+    "El Ayuntamiento presenta la cita como una celebración de una de las señas de identidad del pueblo y agradece su participación a las personas, entidades y colaboradores que la hicieron posible. No ha detallado cuánta gente asistió a cada parada.",
+    "## Más flamenco la próxima semana",
+    "La programación flamenca continúa el martes 24 de noviembre con la conferencia cantada <a href='#conferencia-fandangos-kiko-valle'>«Por un puñao de fandangos», de Kiko Valle</a>, en el Centro Cultural de la Villa Pastora Soler, con Antonio Moya a la guitarra y entrada libre.",
+    "<span class='howto'>Próxima cita flamenca: conferencia «Por un puñao de fandangos», de Kiko Valle. Martes 24 de noviembre, 20.00, Centro Cultural de la Villa Pastora Soler. Entrada libre.</span>"
+   ],
+   "seo": [
+    "noche-blanca-flamenco-coria-del-rio-2026",
+    "Noche Blanca del Flamenco en Coria del Río: pasarela y cante",
+    "Coria del Río celebró la Noche Blanca del Flamenco con pasarela de complementos, cante de El Cipri y guitarra en la escalera del Cerro el 20 de noviembre.",
+    [
+     "Noche Blanca del Flamenco",
+     "flamenco",
+     "CEPER Ribera del Guadalquivir",
+     "El Cipri",
+     "Conservatorio Pedro Gámez Laserna",
+     "Kiosco de la Música"
+    ]
+   ]
+  },
+  {
+   "id": "coria-cf-la-palma-domingo-guadalquivir",
+   "sec": "deportes",
+   "kicker": "Coria CF",
+   "iso": "2026-11-21",
+   "hora": "22:59",
+   "src": "Coria CF (Facebook)",
+   "fuente_url": "https://www.facebook.com/2069782470890433/posts/2076378070230873",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Coria CF recibe a La Palma, segunda, en un domingo con cuatro partidos en el Estadio Guadalquivir",
+   "sub": "El Puebla CF jugará también en Coria su partido de liga porque su estadio de San Sebastián está en resiembra.",
+   "caption": "Cartel del Coria CF para el partido ante La Palma CF del domingo 22 de noviembre.",
+   "foto": "coria-cf-la-palma-cartel-of.jpg",
+   "fotocredito": "Facebook del Coria CF",
+   "encuadre": "contain",
+   "claves": [
+    "El Coria CF recibe a La Palma CF el domingo 22 de noviembre a las 12.00 en el Estadio Guadalquivir, en la jornada 12 de División de Honor Sénior.",
+    "El Coria suma 18 puntos y La Palma, 21.",
+    "El Estadio Guadalquivir acoge ese día otros tres partidos, entre ellos el Puebla CF-Villanueva, por la resiembra del estadio de La Puebla del Río."
+   ],
+   "body": [
+    "El Coria CF recibe el domingo 22 de noviembre, a las 12.00, a La Palma CF en el Estadio Guadalquivir de Coria del Río, en la duodécima jornada de la División de Honor Sénior. El club, que ha anunciado la jornada en su perfil de Facebook, presenta el partido como relevante en la pelea por la cabeza de la liga.",
+    "El conjunto ribereño llega con 18 puntos y el visitante, con 21. Una victoria coriana dejaría a los dos equipos empatados en la clasificación. El Coria viene de <a href='#coria-cf-gana-rinconada'>ganar 0-2 en La Rinconada</a> el domingo 15 de noviembre, con goles de Carlos Rojas y Segua.",
+    "## Cuatro partidos en el Guadalquivir",
+    "El del primer equipo no es el único encuentro del día en el estadio coriano. A las 14.15, el Infantil B del Coria CF juega en Tercera Andaluza ante el tercer clasificado de su grupo. Según el club, el equipo encadena tres jornadas seguidas sin perder.",
+    "A las 17.30 se disputa en Coria un partido de Segunda Andaluza Sénior en el que no participa ningún equipo local: el Puebla CF-Villanueva. El club de La Puebla del Río juega esta jornada en el Estadio Guadalquivir porque el césped de su campo, el Estadio San Sebastián, está en resiembra, explica el Coria CF.",
+    "Cierra el día, a las 19.30, el Juvenil B del Coria CF, que recibe al CD Colegio Claret en Segunda Andaluza Juvenil. El equipo que entrena Mario Sales suma ocho puntos, por seis de su rival, al que el club considera un competidor directo.",
+    "El fin de semana deportivo en Coria incluye también baloncesto: el Club Baloncesto Coria abrió gratis el partido de Tercera FEB de este sábado dentro de su <a href='#cb-coria-recogida-alimentos-entrada-gratis'>campaña de recogida de alimentos</a>.",
+    "<span class='howto'>Domingo 22 de noviembre, Estadio Guadalquivir. 12.00: Coria CF-La Palma CF (División de Honor Sénior). 14.15: Coria CF Infantil B (Tercera Andaluza Infantil). 17.30: Puebla CF-Villanueva (Segunda Andaluza Sénior). 19.30: Coria CF Juvenil B-CD Colegio Claret (Segunda Andaluza Juvenil).</span>"
+   ],
+   "seo": [
+    "coria-cf-la-palma-estadio-guadalquivir-jornada-12",
+    "Coria CF-La Palma: duelo por arriba en el Guadalquivir",
+    "El Coria CF, con 18 puntos, recibe a La Palma CF, con 21, el domingo 22 a las 12.00. El Puebla CF también juega en el Guadalquivir por la resiembra.",
+    [
+     "Coria CF",
+     "La Palma CF",
+     "Estadio Guadalquivir",
+     "División de Honor Sénior",
+     "Puebla CF",
+     "fútbol base"
+    ]
+   ]
+  },
+  {
+   "id": "convenio-subvencion-asociacion-hasekura-2026",
+   "sec": "cultura",
+   "kicker": "Coria y Japón",
+   "iso": "2026-11-21",
+   "hora": "22:59",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1461635659432433",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río firma con la Asociación Hasekura su convenio anual de subvención",
+   "sub": "El alcalde, Modesto González, y el delegado de Cultura y Turismo, Victoriano Cancelo, rubricaron el acuerdo con la entidad que difunde la cultura japonesa.",
+   "caption": "Firma del convenio de subvención entre el Ayuntamiento de Coria del Río y la Asociación Hasekura.",
+   "foto": "convenio-hasekura-2026-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "claves": [
+    "El Ayuntamiento de Coria del Río y la Asociación Hasekura han firmado el convenio de subvención anual de la entidad.",
+    "Firmaron por el Ayuntamiento el alcalde, Modesto González, y el delegado de Cultura y Turismo, Victoriano Cancelo.",
+    "La Asociación Hasekura se dedica a difundir en Coria la cultura japonesa, vinculada a la escala de la embajada de Hasekura Tsunenaga en 1614."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha firmado con la Asociación Hasekura el convenio de subvención anual que financia parte de la actividad de esta entidad, dedicada a difundir la cultura japonesa en el municipio. Lo ha anunciado el Consistorio en su perfil de Facebook este sábado 21 de noviembre.",
+    "Por parte municipal firmaron el alcalde, Modesto González, y el delegado de Cultura y Turismo, Victoriano Cancelo. El Ayuntamiento no ha detallado el importe de la subvención ni las actividades concretas que cubre el convenio.",
+    "## Cultura y turismo",
+    "Según el Consistorio, el acuerdo responde a su interés por difundir la cultura japonesa, que considera parte de la historia y la identidad de Coria, y sirve además para reforzar la agenda cultural local y el turismo internacional, porque atrae cada año a visitantes de otros países.",
+    "El vínculo de Coria con Japón se remonta a 1614, cuando la embajada de Hasekura Tsunenaga hizo escala en el municipio. Parte de la comitiva se quedó a vivir en Coria y el apellido Japón es hoy frecuente entre sus vecinos.",
+    "La firma llega pocas semanas después de que el municipio celebrara la <a href='#semana-cultura-japonesa-coria-2026'>decimonovena Semana de la Cultura Japonesa</a> y días después de la <a href='#minamishimabara-visita-coria'>visita de una delegación de la ciudad japonesa de Minamishimabara</a>, encabezada por su alcalde, Aikawa Taketoshi, a la que también recibieron Modesto González y Victoriano Cancelo."
+   ],
+   "seo": [
+    "convenio-subvencion-asociacion-hasekura-coria-2026",
+    "Coria firma su convenio anual con la Asociación Hasekura",
+    "El alcalde Modesto González y el delegado Victoriano Cancelo firman la subvención anual a la Asociación Hasekura, que difunde la cultura japonesa en Coria.",
+    [
+     "Asociación Hasekura",
+     "Coria y Japón",
+     "Hasekura Tsunenaga",
+     "Victoriano Cancelo",
+     "Modesto González",
+     "subvenciones"
+    ]
+   ]
+  },
+  {
+   "id": "concierto-solidario-orfeon-sevilla-coria",
+   "sec": "cultura",
+   "kicker": "Concierto solidario",
+   "iso": "2026-11-21",
+   "hora": "22:59",
+   "src": "Club Baloncesto Coria (Facebook)",
+   "fuente_url": "https://www.facebook.com/1805624228234571/posts/1812984827498511",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Orfeón de Sevilla dará dos conciertos en Coria del Río el 12 y 13 de diciembre a beneficio de la AECC",
+   "sub": "Los organiza el Club Baloncesto Coria en el Centro Cultural de la Villa Pastora Soler, con entradas a 15 euros.",
+   "caption": "Cartel del concierto solidario del Orfeón de Sevilla en el Centro Cultural de la Villa Pastora Soler.",
+   "foto": "concierto-solidario-orfeon-sevilla-coria-cartel-of.jpg",
+   "fotocredito": "Facebook del Club Baloncesto Coria",
+   "encuadre": "contain",
+   "claves": [
+    "El Orfeón de Sevilla actuará en el Centro Cultural de la Villa Pastora Soler de Coria del Río el sábado 12 de diciembre a las 20.00 y el domingo 13 a las 19.00.",
+    "Lo organiza el Club Baloncesto Coria, con la colaboración del Ayuntamiento, a beneficio de la Asociación Española Contra el Cáncer.",
+    "La entrada general cuesta 15 euros y se vende en entradium.com."
+   ],
+   "body": [
+    "El Orfeón de Sevilla ofrecerá dos conciertos solidarios en el Centro Cultural de la Villa Pastora Soler de Coria del Río, el sábado 12 de diciembre a las 20.00 y el domingo 13 a las 19.00. La recaudación será para la Asociación Española Contra el Cáncer (AECC), según ha anunciado el Club Baloncesto Coria, que organiza la cita, en su perfil de Facebook.",
+    "El club ha trasladado la convocatoria a sus socios y les anima a participar. En el cartel figuran como colaboradores el Ayuntamiento de Coria del Río y el propio Orfeón de Sevilla.",
+    "## Artistas invitados",
+    "Junto al coro actuarán varios músicos invitados: Emilio Bautista al piano, Luis Salto al contrabajo, Antonio Alcántara a la batería y Marta del Pozo como voz, con Elena Gauna en la dirección. El cartel anuncia además una participación especial de Ehapo Santander como voz.",
+    "La entrada general cuesta 15 euros y se compra en la plataforma Entradium. El club no ha detallado si habrá venta en taquilla el día del concierto.",
+    "El concierto se suma a otra iniciativa solidaria del Club Baloncesto Coria en estas semanas: la <a href='#cb-coria-recogida-alimentos-entrada-gratis'>recogida de alimentos</a> que la entidad mantiene abierta hasta el 14 de diciembre. En su mensaje, el club vincula ambas acciones con los valores del deporte fuera de la cancha.",
+    "<span class='howto'>Concierto solidario del Orfeón de Sevilla. Sábado 12 de diciembre, 20.00, y domingo 13 de diciembre, 19.00. Centro Cultural de la Villa Pastora Soler, Coria del Río. Entrada general: 15 euros en entradium.com. A beneficio de la Asociación Española Contra el Cáncer.</span>"
+   ],
+   "seo": [
+    "concierto-solidario-orfeon-sevilla-coria-aecc",
+    "Orfeón de Sevilla: concierto solidario en Coria del Río",
+    "El Orfeón de Sevilla actúa el 12 y 13 de diciembre en el Centro Cultural Pastora Soler de Coria a beneficio de la AECC. Entradas a 15 euros en Entradium.",
+    [
+     "Orfeón de Sevilla",
+     "Club Baloncesto Coria",
+     "AECC",
+     "Centro Cultural de la Villa Pastora Soler",
+     "concierto solidario",
+     "Navidad"
+    ]
+   ]
+  },
+  {
    "id": "estrella-martin-cano-hermano-mayor",
    "sec": "hermandades",
    "kicker": "Hermandad de la Estrella",
