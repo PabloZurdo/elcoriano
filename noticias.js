@@ -1,17 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-20",
+  "actualizado": "2026-11-21",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "20 nov, 20.45",
-   "que": "Misa de réquiem por los hermanos difuntos del Gran Poder",
-   "donde": "Capilla de la Hermandad del Gran Poder",
-   "hasta": "2026-11-20",
-   "noticia": "gran-poder-requiem-difuntos-2026"
-  },
   {
    "cuando": "21 nov, 12.00",
    "que": "Entrega del V Jarrillo Soleaero a Fernando Rasero Pérez",
@@ -111,6 +104,52 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "estrella-martin-cano-hermano-mayor",
+   "sec": "hermandades",
+   "kicker": "Hermandad de la Estrella",
+   "iso": "2026-11-21",
+   "hora": "07:58",
+   "src": "Hermandad Sacramental de San José (Facebook)",
+   "fuente_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02ArPQxvkXRkikRfGxW4wJTtFtRjogE8H3ewZmSWkwg1vfeXKfG7X44pxqinzwFT9hl&id=61551796482920",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "José Manuel Martín Cano, elegido hermano mayor de la Hermandad de la Estrella, patrona de Coria del Río",
+   "sub": "Encabezaba la única candidatura presentada al cabildo del jueves 19 y seguirá como secretario primero de la Hermandad de San José.",
+   "caption": "Datos del cabildo general de elecciones de la Hermandad de la Estrella.",
+   "foto": "estrella-martin-cano-hermano-mayor-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "José Manuel Martín Cano ha sido elegido hermano mayor de la Hermandad Sacramental de Nuestra Señora de la Estrella Coronada, patrona de Coria del Río.",
+    "El cabildo general de elecciones se celebró el jueves 19 de noviembre, de 19.00 a 21.30, en la casa hermandad.",
+    "Su candidatura fue la única presentada, según comunicó la Hermandad de la Estrella el día 18.",
+    "Martín Cano es secretario primero de la Hermandad Sacramental de San José y mantendrá ese cargo."
+   ],
+   "body": [
+    "José Manuel Martín Cano ha sido elegido hermano mayor de la Hermandad Sacramental de Nuestra Señora de la Estrella Coronada, patrona de Coria del Río, en el cabildo general de elecciones que la corporación celebró el jueves 19 de noviembre en su casa hermandad. Así lo ha comunicado la Hermandad Sacramental de San José en su perfil de Facebook.",
+    "La Hermandad de San José ha felicitado públicamente a Martín Cano porque forma parte de su Junta de Gobierno, en la que ocupa el cargo de secretario primero. Según su publicación, del viernes 20, seguirá desempeñando esa responsabilidad en la corporación de la Parroquia de San José a la vez que asume la dirección de la hermandad de la patrona.",
+    "## Una sola candidatura",
+    "La elección no tuvo competencia. La Hermandad de la Estrella informó en su perfil de Facebook el miércoles 18, una vez cerrado el plazo de presentación, de que solo se había registrado una candidatura, la encabezada por Martín Cano. En ese comunicado la hermandad precisó que la lista estaba pendiente de la aprobación de la autoridad eclesiástica y convocó el cabildo para el jueves 19, de 19.00 a 21.30, en la casa hermandad.",
+    "El cabildo, que El Coriano <a href='#borriquita-xxv-aniversario-cristo-salud'>incluyó el miércoles en su agenda cofrade</a>, coincidió con una semana de movimientos en las juntas y los cargos de las hermandades de Coria. La propia Hermandad de San José <a href='#san-jose-renueva-vestidores-capataces'>renovó el miércoles a sus vestidores y a dos de sus capataces</a>, días después de nombrar a un <a href='#san-jose-nuevo-capataz-piedad'>nuevo capataz para el paso de la Piedad</a>.",
+    "La Hermandad de la Estrella no había detallado en sus redes, a primera hora del sábado 21, el resultado de la votación ni la composición completa de la nueva junta de gobierno.",
+    "## Agradecimiento del nuevo hermano mayor",
+    "Martín Cano ha respondido a la felicitación en la misma publicación de la Hermandad de San José. «Me siento profundamente agradecido por tantas palabras de afecto y buenos deseos», escribió el nuevo hermano mayor, que dio las gracias a la corporación y a quienes le han hecho llegar su enhorabuena."
+   ],
+   "seo": [
+    "jose-manuel-martin-cano-hermano-mayor-estrella-coria",
+    "Martín Cano, hermano mayor de la Estrella de Coria del Río",
+    "La Hermandad de la Estrella, patrona de Coria del Río, elige hermano mayor a José Manuel Martín Cano, cabeza de la única candidatura del cabildo del 19.",
+    [
+     "Hermandad de la Estrella",
+     "José Manuel Martín Cano",
+     "hermano mayor",
+     "Hermandad de San José",
+     "cabildo de elecciones",
+     "patrona de Coria"
+    ]
+   ]
+  },
   {
    "id": "aldi-abre-supermercado-coria-del-rio",
    "sec": "economia",
@@ -1401,7 +1440,7 @@ window.EP = {
     "## Cuatro objetivos",
     "Según la publicación municipal, las Patrullas Verdes tendrán cuatro tareas: promover el reciclaje y las buenas prácticas ambientales; cuidar parques, jardines y zonas comunes; sensibilizar a los vecinos sobre la importancia de mantener limpio el municipio, e implicar al conjunto de la ciudadanía en el cuidado de Coria.",
     "El Ayuntamiento enmarca la iniciativa en la Agenda 2030 y sostiene que un pueblo más limpio y sostenible empieza con pequeños gestos. El anuncio no detalla cuántas personas pueden participar, si hace falta inscribirse antes, qué delegación municipal coordinará el grupo ni con qué frecuencia actuarán las patrullas una vez formadas.",
-    "La convocatoria se suma a otras iniciativas municipales de participación vecinal de este otoño, como los <a href='#absentismo-lucero-2026'>caminos escolares del Barrio del Lucero</a> contra el absentismo.",
+    "La convocatoria se suma a otras iniciativas municipales de participación vecinal de este otoño, como los caminos escolares del Barrio del Lucero contra el absentismo.",
     "<span class='howto'><b>Patrullas Verdes.</b> Jornada formativa el martes 24 de noviembre de 2026, a las 16.30, en la Casa de Barrio de Coria del Río. Abierta a los vecinos que quieran participar. Información: Ayuntamiento de Coria del Río.</span>"
    ],
    "seo": [
@@ -1583,130 +1622,6 @@ window.EP = {
      "banda de música",
      "clases de viento",
      "Coria del Río cultura"
-    ]
-   ]
-  },
-  {
-   "id": "marcha-contra-cancer-2026",
-   "sec": "coria",
-   "kicker": "Salud",
-   "iso": "2026-10-21",
-   "src": "Ayuntamiento de Coria del Río (Facebook)",
-   "fuente_url": "https://www.facebook.com/aytocoriario/posts/pfbid02F2Gd2sQS97Hdm9wN1yvQvaUW3hVyQTPAfDeWq3iW3XHZHYUw8ZXXzQMWX6dw3dLVl",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "Coria del Río celebra el 31 de octubre su marcha contra el cáncer, dedicada al de ovario",
-   "sub": "La salida es a las 16.30 horas desde la Plaza Jesús Cautivo, y la inscripción, con camiseta y bolsa, cuesta 8 euros",
-   "caption": "Presentación de la X Marcha contra el Cáncer de Coria del Río, con las camisetas de este año.",
-   "foto": "marcha-contra-cancer-2026-of.jpg",
-   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
-   "claves": [
-    "La X Marcha contra el Cáncer de Coria del Río se celebrará el sábado 31 de octubre.",
-    "La salida es a las 16.30 horas desde la Plaza Jesús Cautivo y la llegada, a las 18.00, al Quiosco de la Música.",
-    "La edición de este año se dedica al cáncer de ovario y su color será el turquesa.",
-    "La inscripción, con camiseta y bolsa, cuesta 8 euros y se tramita en la sede de la Junta Local de la AECC."
-   ],
-   "body": [
-    "El Ayuntamiento de Coria del Río ha presentado la décima edición de la marcha contra el cáncer, que se celebrará el sábado 31 de octubre. Así lo ha publicado el Consistorio en su perfil de Facebook.",
-    "En la presentación estuvieron miembros de la Junta Local de la Asociación Española contra el Cáncer (AECC), junto al alcalde, Modesto González, y la delegada de Salud, Conchi Renedo.",
-    "Este año la marcha pone el foco en el cáncer de ovario, por eso el color de la convocatoria será el turquesa. La salida es a las 16.30 horas desde la Plaza Jesús Cautivo. El recorrido pasa por varias calles del municipio y termina a las 18.00 horas en el Quiosco de la Música.",
-    "## Inscripción y camiseta",
-    "Para participar hay que inscribirse y adquirir la camiseta y la bolsa, que cuestan 8 euros. Se pueden comprar en la sede de la Junta Local de la AECC, en la calle Carretero, 13. Allí se atiende de lunes a viernes de 11.00 a 13.00 y de 18.00 a 20.00 horas, y los sábados de 11.00 a 13.30 horas.",
-    "<span class='howto'><b>X Marcha contra el Cáncer.</b> Sábado 31 de octubre de 2026. Salida, 16.30 horas, Plaza Jesús Cautivo. Llegada, 18.00 horas, Quiosco de la Música. Inscripción, camiseta y bolsa: 8 euros, en la Junta Local de la AECC (calle Carretero, 13).</span>"
-   ],
-   "seo": [
-    "marcha-contra-cancer-coria-2026",
-    "Marcha contra el cáncer en Coria del Río: 31 de octubre",
-    "La X Marcha contra el Cáncer de Coria del Río sale el 31 de octubre a las 16.30 horas, dedicada al cáncer de ovario, con inscripción de 8 euros.",
-    [
-     "Marcha contra el cáncer",
-     "Coria del Río",
-     "AECC",
-     "cáncer de ovario",
-     "Plaza Jesús Cautivo",
-     "Quiosco de la Música"
-    ]
-   ]
-  },
-  {
-   "id": "erasmus-jornadas-2026",
-   "sec": "coria",
-   "kicker": "Europa",
-   "iso": "2026-10-21",
-   "src": "El Coriano",
-   "fuente_url": "https://www.youtube.com/watch?v=6AQTCZ9J5sQ&t=0s",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "Coria del Río celebra el jueves 22 de octubre unas jornadas Erasmus+ en la Plaza del Ayuntamiento",
-   "sub": "La cita, de 10.30 a 15.00 horas, reúne actividades, juegos y un photocall sobre experiencias internacionales e idiomas",
-   "caption": "Participantes en el encuentro Erasmus+ celebrado en Coria del Río.",
-   "foto": "erasmus-jornadas-2026-tv.jpg",
-   "fotocredito": "Coriavisión",
-   "claves": [
-    "Coria del Río celebra el jueves 22 de octubre unas jornadas Erasmus+ en la Plaza del Ayuntamiento.",
-    "La jornada va de 10.30 a 15.00 horas e incluye actividades, juegos, un photocall y sorpresas.",
-    "El Ayuntamiento la plantea como una ocasión para conocer las oportunidades que ofrece Europa sin salir del municipio."
-   ],
-   "body": [
-    "El Ayuntamiento de Coria del Río organiza el jueves 22 de octubre unas jornadas Erasmus+ en la Plaza del Ayuntamiento, de 10.30 a 15.00 horas. Así lo ha publicado el Consistorio en su perfil de Facebook.",
-    "La jornada incluye actividades, juegos, un photocall y otras sorpresas. Según el mensaje municipal, la idea es dar a conocer experiencias internacionales, aprendizaje, idiomas y nuevas culturas, y animar a los vecinos a informarse sin salir de Coria.",
-    "El Consistorio sostiene que Europa también se construye desde los pueblos, con la participación y las ideas de sus vecinos. La publicación no detalla qué entidades participan ni si hace falta inscribirse con antelación.",
-    "<span class='howto'><b>Jornadas Erasmus+.</b> Jueves 22 de octubre de 2026, de 10.30 a 15.00 horas. Plaza del Ayuntamiento de Coria del Río. La publicación no indica inscripción previa.</span>"
-   ],
-   "seo": [
-    "jornadas-erasmus-coria-del-rio-2026",
-    "Jornadas Erasmus+ en Coria del Río: 22 de octubre",
-    "El jueves 22 de octubre, de 10.30 a 15.00 horas, la Plaza del Ayuntamiento de Coria del Río acoge unas jornadas Erasmus+ con actividades y juegos.",
-    [
-     "Erasmus+",
-     "Coria del Río",
-     "Plaza del Ayuntamiento",
-     "juventud",
-     "formación en Europa",
-     "agenda"
-    ]
-   ]
-  },
-  {
-   "id": "absentismo-lucero-2026",
-   "sec": "coria",
-   "kicker": "Educación",
-   "iso": "2026-10-21",
-   "src": "Ayuntamiento de Coria del Río (Facebook)",
-   "fuente_url": "https://www.facebook.com/aytocoriario/posts/pfbid02rCRZCucF1nzS75aiQ6J7PDq8vWBUSfKbodAyF3MnMZFYxV45zoidcu2KHANureLyl",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "El Barrio del Lucero organiza caminos escolares para prevenir el absentismo en Coria del Río",
-   "sub": "Las jornadas del 14 y el 16 de octubre acompañaron a familias y menores hasta dos colegios, con desayuno escolar y recorridos",
-   "caption": "Una de las actividades de los caminos escolares en el Barrio del Lucero.",
-   "foto": "absentismo-lucero-2026-of.jpg",
-   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
-   "claves": [
-    "El Barrio del Lucero ha puesto en marcha caminos escolares para prevenir el absentismo y acompañar a menores y familias al colegio.",
-    "Las jornadas de los días 14 y 16 de octubre incluyeron desayuno escolar, animación y recorridos familiares.",
-    "Una iniciativa vecinal, el «autobús escolar», permite ir al colegio en grupo.",
-    "El programa lo impulsa la Delegación de Bienestar Social del Ayuntamiento, con la colaboración de Policía Local y Protección Civil."
-   ],
-   "body": [
-    "El Barrio del Lucero ha puesto en marcha caminos escolares para prevenir el absentismo y acompañar a menores y familias al colegio, según ha publicado el Ayuntamiento de Coria del Río en su perfil de Facebook. La iniciativa forma parte de las actuaciones de la Delegación de Bienestar Social, Mayores, Educación y Programas Europeos con motivo del inicio del curso.",
-    "El primer recorrido salió el miércoles 14 de octubre desde la Casa de Barrio hasta uno de los colegios del barrio. El viernes 16, las familias acompañaron a los niños hasta el otro centro. Las jornadas incluyeron desayuno escolar, animación y recorridos familiares.",
-    "## El autobús escolar",
-    "Una de las iniciativas es el «autobús escolar», impulsado por vecinos, que consiste en ir al colegio en grupo. El Ayuntamiento lo describe como una forma de desplazarse de manera más segura, accesible y sostenible, y de reforzar los vínculos entre familias y centros.",
-    "El programa se desarrolla en el marco del Proyecto de Dinamización de la Casa de Barrio y de la Agenda 2030. En él colaboran Vedelar, ERACIS+, la Delegación de Festejos, la Policía Local, Tráfico y Transportes, Protección Civil y los propios centros educativos.",
-    "La publicación no indica cuántos menores y familias han participado ni qué resultados ha tenido el programa en materia de absentismo.",
-    "<span class='howto'><b>Caminos escolares del Lucero.</b> Las jornadas se celebraron los días 14 y 16 de octubre de 2026. El primer recorrido salió de la Casa de Barrio. Para informarse sobre próximas actividades, hay que dirigirse a la Delegación de Bienestar Social del Ayuntamiento.</span>"
-   ],
-   "seo": [
-    "caminos-escolares-barrio-lucero-coria",
-    "Caminos escolares en el Barrio del Lucero de Coria del Río",
-    "El Barrio del Lucero organiza caminos escolares para prevenir el absentismo: desayuno escolar, recorridos familiares y el autobús escolar vecinal.",
-    [
-     "Barrio del Lucero",
-     "absentismo escolar",
-     "caminos escolares",
-     "Casa de Barrio",
-     "Coria del Río",
-     "educación"
     ]
    ]
   },
