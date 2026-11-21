@@ -116,10 +116,10 @@ window.EP = {
    "elaboracion": "ia",
    "title": "José Manuel Martín Cano, elegido hermano mayor de la Hermandad de la Estrella, patrona de Coria del Río",
    "sub": "Encabezaba la única candidatura presentada al cabildo del jueves 19 y seguirá como secretario primero de la Hermandad de San José.",
-   "caption": "Datos del cabildo general de elecciones de la Hermandad de la Estrella.",
-   "foto": "estrella-martin-cano-hermano-mayor-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "José Manuel Martín Cano, nuevo hermano mayor, en una imagen difundida por la hermandad.",
+   "foto": "estrella-martin-cano-hermano-mayor-of.jpg",
+   "fotocredito": "Facebook de la Hermandad Sacramental de San José",
+   "encuadre": "center 22%",
    "claves": [
     "José Manuel Martín Cano ha sido elegido hermano mayor de la Hermandad Sacramental de Nuestra Señora de la Estrella Coronada, patrona de Coria del Río.",
     "El cabildo general de elecciones se celebró el jueves 19 de noviembre, de 19.00 a 21.30, en la casa hermandad.",
@@ -205,9 +205,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río abre hasta el 4 de diciembre el apadrinamiento de cajas nido para vencejos",
    "sub": "Los vecinos y comercios interesados deben pedirlo por correo electrónico; se dará una caja por vivienda o local, por orden de llegada.",
-   "caption": "Plazo y condiciones de la campaña de cajas nido de vencejos del Ayuntamiento de Coria del Río.",
-   "foto": "vencejos-cajas-nido-coria-2026-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
+   "caption": "Cartel de la campaña de apadrinamiento de cajas nido de vencejos.",
+   "foto": "vencejos-cajas-nido-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río ofrece a vecinos y comercios apadrinar cajas nido de vencejos.",
     "Las solicitudes se envían a medioambiente@coriadelrio.es hasta el 4 de diciembre de 2026.",
@@ -238,7 +238,8 @@ window.EP = {
     ]
    ],
    "iso": "2026-11-20",
-   "hora": "22:58"
+   "hora": "22:58",
+   "encuadre": "contain"
   },
   {
    "id": "cb-coria-recogida-alimentos-entrada-gratis",
@@ -250,9 +251,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Club Baloncesto Coria recoge alimentos y abre gratis el partido de Tercera FEB del sábado",
    "sub": "La campaña dura hasta el 14 de diciembre; el domingo el Primera Nacional recibe a Labradores y el Coria CF se mide a La Palma en el Guadalquivir.",
-   "caption": "Fechas de la recogida de alimentos y del I Torneo de Navidad U12 del Club Baloncesto Coria.",
-   "foto": "cb-coria-recogida-alimentos-tercera-feb-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
+   "caption": "Cartel de la campaña de recogida de alimentos del Club Baloncesto Coria.",
+   "foto": "cb-coria-recogida-alimentos-cartel-of.jpg",
+   "fotocredito": "Facebook del Club Baloncesto Coria",
    "claves": [
     "El Club Baloncesto Coria recoge alimentos del 21 de noviembre al 14 de diciembre.",
     "La entrada al partido de Tercera FEB del sábado 21 de noviembre es gratuita y se invita a llevar un alimento.",
@@ -283,7 +284,8 @@ window.EP = {
     ]
    ],
    "iso": "2026-11-20",
-   "hora": "22:58"
+   "hora": "22:58",
+   "encuadre": "contain"
   },
   {
    "id": "ies-rodrigo-caro-plogging-ribera-guadalquivir",
@@ -295,9 +297,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Alumnos de primero de ESO del IES Rodrigo Caro recogen basura en la ribera del Guadalquivir en Coria",
    "sub": "La actividad, organizada por los departamentos de Educación Física y Plástica, combina caminata, reciclaje y material para clase.",
-   "caption": "La ribera del Guadalquivir a su paso por Coria del Río.",
-   "foto": "generica-rio.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Alumnos del IES Rodrigo Caro, durante la jornada de recogida de basura en la ribera del Guadalquivir.",
+   "foto": "ies-rodrigo-caro-plogging-tv.jpg",
+   "fotocredito": "Coriavisión",
    "claves": [
     "Alumnos de primero de ESO del IES Rodrigo Caro recogieron residuos en la ribera del Guadalquivir el viernes 20 de noviembre.",
     "La actividad, llamada plogging, une caminata o carrera con la recogida de basura y la organizan los departamentos de Educación Física y Plástica.",
@@ -344,9 +346,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Hermandad de la Soledad de Coria recupera un antiguo cáliz de plata y lo vuelve a usar en la misa",
    "sub": "La pieza, una donación de hace años, no servía para la liturgia por su deterioro y se estrenó restaurada en la función al Cristo Yacente.",
-   "caption": "Imagen de recurso de la sección de Hermandades.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "El cáliz de plata recuperado por la Hermandad de la Soledad, en una imagen difundida por la hermandad.",
+   "foto": "soledad-caliz-plata-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Soledad",
    "claves": [
     "La Hermandad de la Soledad de Coria del Río ha restaurado un antiguo cáliz de plata de ley destinado al culto.",
     "La pieza se estrenó el domingo 15 de noviembre en la Función Principal de los cultos al Santísimo Cristo Yacente.",
@@ -433,10 +435,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río retira escombros y basura del tramo entre las calles Alhambra y Virgen de la Salud",
    "sub": "El Consistorio recuerda que la recogida de muebles y enseres en la puerta de casa es gratuita y se pide en el 955 891 091.",
-   "caption": "Gráfico con el teléfono municipal de recogida gratuita de muebles y enseres.",
-   "foto": "retirada-escombros-alhambra-virgen-salud-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "Restos acumulados antes de la limpieza, en una imagen difundida por el Ayuntamiento.",
+   "foto": "retirada-escombros-alhambra-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río retiró el jueves 19 de noviembre escombros y basura del tramo que une las calles Alhambra y Virgen de la Salud.",
     "Según el Consistorio, algunas personas usan ese espacio como vertedero.",
@@ -479,9 +480,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río abre hasta el 9 de diciembre la inscripción en los cursos de Inserta2 para personas desempleadas",
    "sub": "Los cursos son presenciales y se financian con el Fondo Social Europeo Plus dentro del programa estatal ÉFESO",
-   "caption": "Plazo de inscripción en los cursos presenciales del proyecto Inserta2 para personas desempleadas.",
-   "foto": "inserta2-inscripcion-cursos-9-diciembre-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
+   "caption": "Cartel de los cursos gratuitos del proyecto Inserta2.",
+   "foto": "inserta2-cursos-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "encuadre": "contain",
    "claves": [
     "El Ayuntamiento de Coria del Río ha abierto la inscripción en los cursos presenciales del proyecto Inserta2 para personas desempleadas.",
@@ -524,9 +525,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Hermandad de San José de Coria renueva a sus dos vestidores y a los capataces del palio y del Señor de la Paz",
    "sub": "Leandro González, Rafael López, Mario Álvarez y Miguel Ángel Pérez seguirán en sus cargos con la nueva Junta de Gobierno",
-   "caption": "Hermandad Sacramental de San José de Coria del Río, en una imagen de archivo.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Comunicado de la Hermandad Sacramental de San José sobre la renovación de sus cargos de confianza.",
+   "foto": "san-jose-vestidores-capataces-of.jpg",
+   "fotocredito": "Facebook de la Hermandad Sacramental de San José",
    "claves": [
     "La Junta de Gobierno de la Hermandad Sacramental de San José ha renovado cuatro cargos de confianza.",
     "Leandro González Ruiz y Rafael López Tello siguen como vestidores; Mario Álvarez Abad y Miguel Ángel Pérez Pascual, como capataces.",
@@ -556,7 +557,8 @@ window.EP = {
      "Gracia y Esperanza",
      "Semana Santa 2027"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "25n-campana-ayuntamiento-2026",
@@ -619,9 +621,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río pide a la Junta que repare las humedades del edificio de los juzgados",
    "sub": "El alcalde visitó el miércoles las instalaciones a petición de las juezas y del personal, que reclaman obras desde 2024.",
-   "caption": "Ilustración genérica de la sección Coria.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "El edificio de los juzgados de Coria del Río, en el vídeo difundido por el Ayuntamiento tras la visita.",
+   "foto": "juzgados-coria-humedades-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El alcalde de Coria del Río, Modesto González Márquez, visitó el miércoles 18 de noviembre el edificio de los juzgados junto a varias concejalas del gobierno municipal.",
     "La visita se hizo a petición de las juezas y del personal, que denuncian filtraciones de agua, humedades y malos olores.",
@@ -648,7 +650,8 @@ window.EP = {
      "humedades",
      "edificios públicos"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "ovac-oficina-virtual-atencion-ciudadania",
@@ -662,9 +665,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Coria del Río abrirá una oficina virtual para atender a los vecinos por videollamada con cita previa",
    "sub": "El Ayuntamiento presentó la herramienta en la XIII Feria de la Innovación y Nuevas Tecnologías, en el Pabellón de la Navegación de Sevilla.",
-   "caption": "Ilustración genérica de la sección Coria.",
-   "foto": "generica-coria.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Imagen difundida por el Ayuntamiento de Coria del Río con el anuncio de la oficina virtual.",
+   "foto": "ovac-oficina-virtual-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río pondrá en marcha en los próximos días la Oficina Virtual de Atención a la Ciudadanía (OVAC).",
     "Los vecinos podrán pedir cita y ser atendidos por un empleado municipal mediante una videollamada, sin desplazarse.",
@@ -705,9 +708,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La escuela de tamborileros de «el Manriqueño» enseña en Coria a tocar la gaita rociera y el tamboril",
    "sub": "La familia lleva cuatro generaciones tocando; dos hermanos dan las clases desde 2019 y animan a las mujeres a apuntarse.",
-   "caption": "Ilustración genérica de la sección Cultura.",
-   "foto": "generica-cultura.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Un tamboril en la sede de la escuela de tamborileros de «el Manriqueño».",
+   "foto": "escuela-tamborileros-manriqueno-tv.jpg",
+   "fotocredito": "Coriavisión",
    "claves": [
     "La escuela de tamborileros de Antonio Díaz «el Manriqueño» enseña en Coria del Río a tocar la gaita rociera y el tamboril.",
     "La tradición familiar empezó con el bisabuelo; desde 2019 las clases las dan dos hermanos que recogieron el testigo de su abuelo.",
@@ -752,10 +755,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La San Silvestre Coriana se correrá el domingo 27 de diciembre con cinco kilómetros por el Paseo Fluvial",
    "sub": "La inscripción cuesta 3 euros y habrá trofeos para los tres primeros de cada categoría y premios de 50 y 100 euros a los mejores disfraces.",
-   "caption": "Datos de la San Silvestre Coriana 2026.",
-   "foto": "san-silvestre-coriana-2026-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "Presentación de la San Silvestre Coriana 2026 en el Ayuntamiento.",
+   "foto": "san-silvestre-coriana-presentacion-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "La San Silvestre Coriana se celebrará el domingo 27 de diciembre con un recorrido de cinco kilómetros de ida y vuelta por el Paseo Fluvial.",
     "La organiza el Club Atletismo Coria con la colaboración del Ayuntamiento de Coria del Río.",
@@ -799,9 +801,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La Hermandad de la Soledad de Coria entrega el sábado 21 el V Jarrillo Soleaero a Fernando Rasero Pérez",
    "sub": "El acto será a las 12.00 en la capilla de la Virgen de la Soledad y terminará con una convivencia en la casa hermandad.",
-   "caption": "Ilustración genérica de la sección Hermandades.",
-   "foto": "generica-hermandades.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Cartel del V Jarrillo Soleaero, que la Hermandad de la Soledad entrega a Fernando Rasero Pérez.",
+   "foto": "soledad-jarrillo-soleaero-2026-cartel-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Soledad",
    "claves": [
     "La Junta de Gobierno de la Hermandad de la Soledad de Coria del Río ha concedido el Jarrillo Soleaero 2026 a su hermano Fernando Rasero Pérez.",
     "Es la quinta edición de este reconocimiento, con el que la hermandad premia la trayectoria cofrade y el compromiso con la corporación.",
@@ -829,7 +831,8 @@ window.EP = {
      "Barrio de la Soledad",
      "casa hermandad"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "conferencia-fandangos-kiko-valle",
@@ -843,9 +846,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "Kiko Valle da el martes 24 en Coria del Río la conferencia cantada «Por un puñao de fandangos»",
    "sub": "La cita será a las 20.00 en el Centro Cultural de la Villa Pastora Soler, con la guitarra de Antonio Moya y entrada libre.",
-   "caption": "Ilustración genérica de la sección Cultura.",
-   "foto": "generica-cultura.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Cartel de la conferencia cantada «Por un puñao de fandangos», de Kiko Valle.",
+   "foto": "conferencia-fandangos-kiko-valle-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Centro Cultural de la Villa Pastora Soler acoge el martes 24 de noviembre, a las 20.00, la conferencia «Por un puñao de fandangos».",
     "La imparte Kiko Valle con el subtítulo «Conferencia ilustrada al cante por un crítico osado», con Antonio Moya a la guitarra.",
@@ -871,7 +874,8 @@ window.EP = {
      "Centro Cultural de la Villa Pastora Soler",
      "conferencias"
     ]
-   ]
+   ],
+   "encuadre": "contain"
   },
   {
    "id": "cb-coria-n1-masculino-gana-huelva",
@@ -978,10 +982,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El Ayuntamiento de Coria del Río prevé recibir antes de fin de año el Avance del nuevo Plan General",
    "sub": "La empresa redactora, Territorio y Ciudad, ha presentado el diagnóstico territorial y la planimetría que delimitará los tipos de suelo del término",
-   "caption": "Gráfico sobre el calendario del Avance del Plan General de Ordenación Municipal de Coria del Río.",
-   "foto": "pgom-avance-territorio-ciudad-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "Reunión de trabajo sobre el Avance del Plan General, en una imagen difundida por el Ayuntamiento.",
+   "foto": "pgom-avance-reunion-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "claves": [
     "El Ayuntamiento de Coria del Río se reunió el martes 17 de noviembre de 2026 con Territorio y Ciudad, la empresa que redacta el nuevo Plan General de Ordenación Municipal (PGOM).",
     "El equipo redactor presentó el diagnóstico territorial y la planimetría que servirá para delimitar los tipos de suelo del término municipal.",
