@@ -98,6 +98,138 @@ window.EP = {
  ],
  "noticias": [
   {
+   "id": "borriquita-celebra-xxv-aniversario-cristo-salud",
+   "sec": "hermandades",
+   "kicker": "Cristo de la Salud",
+   "iso": "2026-11-22",
+   "hora": "22:58",
+   "src": "El Coriano",
+   "fuente_url": "https://www.facebook.com/reel/1431772895788646/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Borriquita celebra en San José los 25 años del Cristo de la Salud con misa e himno del Coro Chico",
+   "sub": "El párroco José Iván Martín Pascual presidió la eucaristía de Cristo Rey, en la que también intervino el hermano mayor Joaquín Carrabeo.",
+   "caption": "El párroco de San José, José Iván Martín Pascual, en el altar durante la misa por el XXV aniversario del Cristo de la Salud.",
+   "foto": "borriquita-xxv-misa-tv.jpg",
+   "fotocredito": "Coriavisión",
+   "claves": [
+    "La Hermandad de la Borriquita celebró el domingo 22 de noviembre, festividad de Cristo Rey, el XXV aniversario del Santísimo Cristo de la Salud en la Parroquia de San José.",
+    "La misa la presidió el párroco de San José, José Iván Martín Pascual, y el Coro Chico interpretó el himno al Cristo de la Salud.",
+    "En el acto intervino también el hermano mayor Joaquín Carrabeo."
+   ],
+   "body": [
+    "La Hermandad de la Borriquita de Coria del Río celebró el domingo 22 de noviembre, festividad de Cristo Rey, el XXV aniversario de la llegada a Coria de su titular, el Santísimo Cristo de la Salud en su Sagrada Entrada en Jerusalén, con una misa en la Parroquia de San José a la que se sumó la comunidad parroquial.",
+    "La eucaristía, prevista para las 12.00, la presidió el párroco de San José, José Iván Martín Pascual, que pronunció la homilía del aniversario. Como estaba anunciado, la celebración sirvió para dar gracias por los 25 años de culto a la imagen.",
+    "## El himno, a cargo del Coro Chico",
+    "El Coro Chico interpretó durante la celebración el himno al Cristo de la Salud. También tomó la palabra el hermano mayor Joaquín Carrabeo, que dedicó su intervención a los 25 años de la imagen en Coria.",
+    "La Hermandad Sacramental de San José, que había anunciado su colaboración en el aniversario, organizaba después de la misa una convivencia en su nueva casa hermandad, abierta a la comunidad parroquial, como se recogió en la <a href='#borriquita-xxv-aniversario-cristo-salud'>previa de la efeméride</a>.",
+    "## Una semana de cultos en Coria",
+    "El aniversario del Señor de la Salud cerró una semana con varias citas en las hermandades corianas. La Hermandad de la Estrella, patrona de Coria del Río, eligió nuevo hermano mayor a <a href='#estrella-martin-cano-hermano-mayor'>José Manuel Martín Cano</a>, y el Gran Poder celebró el viernes 20 su <a href='#gran-poder-requiem-difuntos-2026'>misa de réquiem por los hermanos difuntos</a>.",
+    "La Borriquita felicitó además ese mismo domingo a las bandas y coros que acompañan a sus titulares con motivo de Santa Cecilia, patrona de los músicos, entre ellos el Coro Chico y la Banda Municipal de Música de Coria del Río.",
+    "<span class='howto'><b>Dónde verlo.</b> La homilía del párroco, las palabras del hermano mayor y el himno interpretado por el Coro Chico pueden verse completos en el perfil de Facebook de Coriavisión.</span>"
+   ],
+   "seo": [
+    "borriquita-xxv-aniversario-cristo-de-la-salud-coria",
+    "Borriquita: 25 años del Cristo de la Salud en Coria",
+    "La Borriquita celebró en la Parroquia de San José de Coria del Río el XXV aniversario del Cristo de la Salud con misa e himno del Coro Chico.",
+    [
+     "Hermandad de la Borriquita",
+     "Cristo de la Salud",
+     "Parroquia de San José",
+     "Coro Chico",
+     "Cristo Rey",
+     "hermandades de Coria"
+    ]
+   ]
+  },
+  {
+   "id": "coria-cf-empata-la-palma",
+   "sec": "deportes",
+   "kicker": "Coria CF",
+   "iso": "2026-11-22",
+   "hora": "22:58",
+   "src": "Coria CF (Facebook)",
+   "fuente_url": "https://www.facebook.com/2069782470890433/posts/2077596196775727",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Coria CF empata 0-0 con La Palma en el Estadio Guadalquivir y sigue a tres puntos de su rival",
+   "sub": "Los porteros evitaron el gol en un partido igualado; Andrés Terán y Angelma tuvieron las ocasiones más claras del equipo coriano.",
+   "caption": "Cartel del Coria CF con el resultado final del partido ante La Palma CF.",
+   "foto": "coria-cf-la-palma-empate-of.jpg",
+   "fotocredito": "Facebook del Coria CF",
+   "encuadre": "contain",
+   "claves": [
+    "El Coria CF y La Palma CF empataron 0-0 el domingo 22 de noviembre en el Estadio Guadalquivir, en la jornada 12 de División de Honor Sénior.",
+    "Con el empate, el Coria pasa de 18 a 19 puntos y La Palma, de 21 a 22.",
+    "El próximo partido del Coria CF es a domicilio, en Montalbán."
+   ],
+   "body": [
+    "El Coria CF empató 0-0 con La Palma CF el domingo 22 de noviembre en el Estadio Guadalquivir de Coria del Río, en la duodécima jornada de la División de Honor Sénior. El club ha dado el resultado en su perfil de Facebook, donde describe el encuentro como muy igualado entre dos equipos que aspiran a subir de categoría.",
+    "Según el Coria CF, los dos conjuntos tuvieron ocasiones para desempatar, pero los porteros evitaron el gol en ambas áreas. Por parte coriana, las oportunidades más claras fueron de Andrés Terán y Angelma, señala el club.",
+    "## Tres puntos de distancia",
+    "El partido enfrentaba a dos equipos de la zona alta. El Coria llegaba con 18 puntos y La Palma, con 21, de modo que una victoria local habría igualado a los dos en la clasificación, como se adelantó en la <a href='#coria-cf-la-palma-domingo-guadalquivir'>previa de la jornada</a>. Con el empate, el conjunto ribereño suma 19 puntos y el visitante, 22: la distancia entre ambos sigue siendo de tres puntos.",
+    "El Coria venía de <a href='#coria-cf-gana-rinconada'>ganar 0-2 en La Rinconada</a> el domingo 15 de noviembre. Tras el empate, el club insiste en que el objetivo es seguir peleando por los puestos altos de la tabla.",
+    "## Próxima jornada en Montalbán",
+    "El equipo jugará la próxima jornada fuera de casa, en Montalbán. El club no ha detallado todavía el día ni la hora del encuentro.",
+    "<span class='howto'><b>Resultado.</b> Coria CF 0 - La Palma CF 0 (División de Honor Sénior, jornada 12). Domingo 22 de noviembre, Estadio Guadalquivir. Próximo partido: en Montalbán.</span>"
+   ],
+   "seo": [
+    "coria-cf-empate-la-palma-division-honor-jornada-12",
+    "Coria CF 0-0 La Palma en el Estadio Guadalquivir",
+    "El Coria CF empató 0-0 con La Palma CF en Coria del Río en la jornada 12 de División de Honor Sénior y se queda con 19 puntos, a tres del equipo onubense.",
+    [
+     "Coria CF",
+     "La Palma CF",
+     "Estadio Guadalquivir",
+     "División de Honor Sénior",
+     "Andrés Terán",
+     "fútbol"
+    ]
+   ]
+  },
+  {
+   "id": "ayuntamiento-actuaciones-avispas-coria",
+   "sec": "coria",
+   "kicker": "Control de plagas",
+   "iso": "2026-11-22",
+   "hora": "22:58",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1462666745995991",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Ayuntamiento de Coria del Río actúa en varios puntos del municipio por el aumento de avispas",
+   "sub": "Los trabajos los hace una empresa de control de plagas a partir de los avisos de los vecinos en la aplicación Línea Verde y en Medio Ambiente.",
+   "caption": "Un operario trata el arbolado de una zona verde de Coria del Río durante las actuaciones contra las avispas.",
+   "foto": "avispas-control-plagas-coria-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "claves": [
+    "El Ayuntamiento de Coria del Río ha hecho en las últimas semanas actuaciones contra las avispas en distintos puntos del municipio.",
+    "Los trabajos los realiza una empresa especializada en control de plagas.",
+    "Las actuaciones responden a avisos de vecinos recibidos por la aplicación Línea Verde y por la Delegación de Medio Ambiente."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ha llevado a cabo en las últimas semanas actuaciones en distintos puntos del municipio ante el aumento de la presencia de avispas. Así lo ha publicado el Consistorio en su perfil de Facebook el domingo 22 de noviembre.",
+    "Los trabajos los realiza una empresa especializada en control de plagas. Según el Ayuntamiento, han servido para atender las solicitudes y los avisos que los vecinos han trasladado a través de la aplicación Línea Verde y de la Delegación de Medio Ambiente.",
+    "## Avisos de los vecinos",
+    "Las imágenes difundidas por el Consistorio muestran a un operario con equipo de protección tratando el arbolado de una zona verde.",
+    "El Ayuntamiento no ha detallado en qué calles o zonas se ha actuado ni cuántos avisos ha recibido. Sí asegura que seguirá atendiendo las necesidades de los vecinos.",
+    "Las actuaciones se suman a otros trabajos municipales de mantenimiento del espacio público de las últimas semanas, como la <a href='#retirada-escombros-alhambra-virgen-salud'>retirada de escombros entre las calles Alhambra y Virgen de la Salud</a>.",
+    "<span class='howto'><b>Cómo avisar.</b> Los vecinos que detecten avisperos o una presencia anómala de avispas pueden comunicarlo al Ayuntamiento de Coria del Río a través de la aplicación Línea Verde o de la Delegación de Medio Ambiente. Teléfono del Ayuntamiento: 954 77 00 50.</span>"
+   ],
+   "seo": [
+    "avispas-coria-del-rio-control-plagas-linea-verde",
+    "Avispas en Coria del Río: actuaciones del Ayuntamiento",
+    "El Ayuntamiento de Coria del Río ha tratado varios puntos del municipio por el aumento de avispas, con una empresa de plagas y tras avisos vecinales.",
+    [
+     "avispas",
+     "control de plagas",
+     "Línea Verde",
+     "Medio Ambiente",
+     "Ayuntamiento de Coria del Río"
+    ]
+   ]
+  },
+  {
    "id": "pastora-soler-encendido-navidad-madrid",
    "sec": "cultura",
    "kicker": "Pastora Soler",
@@ -259,6 +391,7 @@ window.EP = {
    ],
    "body": [
     "El Coria CF recibe el domingo 22 de noviembre, a las 12.00, a La Palma CF en el Estadio Guadalquivir de Coria del Río, en la duodécima jornada de la División de Honor Sénior. El club, que ha anunciado la jornada en su perfil de Facebook, presenta el partido como relevante en la pelea por la cabeza de la liga.",
+    "El partido terminó con <a href='#coria-cf-empata-la-palma'>empate a cero</a>: el Coria suma 19 puntos y La Palma, 22.",
     "El conjunto ribereño llega con 18 puntos y el visitante, con 21. Una victoria coriana dejaría a los dos equipos empatados en la clasificación. El Coria viene de <a href='#coria-cf-gana-rinconada'>ganar 0-2 en La Rinconada</a> el domingo 15 de noviembre, con goles de Carlos Rojas y Segua.",
     "## Cuatro partidos en el Guadalquivir",
     "El del primer equipo no es el único encuentro del día en el estadio coriano. A las 14.15, el Infantil B del Coria CF juega en Tercera Andaluza ante el tercer clasificado de su grupo. Según el club, el equipo encadena tres jornadas seguidas sin perder.",
@@ -279,7 +412,8 @@ window.EP = {
      "Puebla CF",
      "fútbol base"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-22T22:58"
   },
   {
    "id": "convenio-subvencion-asociacion-hasekura-2026",
