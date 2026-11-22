@@ -1,17 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-21",
+  "actualizado": "2026-11-22",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "21 nov, 12.00",
-   "que": "Entrega del V Jarrillo Soleaero a Fernando Rasero Pérez",
-   "donde": "Capilla de la Soledad",
-   "noticia": "soledad-jarrillo-soleaero-2026-fernando-rasero",
-   "hasta": "2026-11-21"
-  },
   {
    "cuando": "22 nov, 12.00",
    "que": "Coria CF - La Palma",
@@ -104,6 +97,98 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "pastora-soler-encendido-navidad-madrid",
+   "sec": "cultura",
+   "kicker": "Pastora Soler",
+   "iso": "2026-11-22",
+   "hora": "08:00",
+   "src": "El Coriano",
+   "fuente_url": "https://www.youtube.com/watch?v=JQQc1UHtl1o&t=0s",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La coriana Pastora Soler canta «Quédate conmigo» en el encendido de las luces de Navidad de Madrid",
+   "sub": "La artista actuó el sábado 21 de noviembre en la plaza de Cibeles, en la ceremonia que da paso al alumbrado navideño de la capital.",
+   "caption": "Pastora Soler, durante su actuación en el encendido de las luces de Navidad en la plaza de Cibeles de Madrid.",
+   "foto": "pastora-soler-encendido-navidad-madrid-tv.jpg",
+   "fotocredito": "Coriavisión",
+   "claves": [
+    "Pastora Soler, natural de Coria del Río, cantó «Quédate conmigo» el sábado 21 de noviembre en el encendido de las luces de Navidad de Madrid.",
+    "La ceremonia se celebró a las 19.00 en la plaza de Cibeles y la presentó el humorista Carlos Latre.",
+    "Con «Quédate conmigo» la artista representó a España en el Festival de Eurovisión de 2012."
+   ],
+   "body": [
+    "La cantante coriana Pastora Soler interpretó «Quédate conmigo» el sábado 21 de noviembre en la ceremonia de encendido de las luces de Navidad de Madrid, celebrada a las 19.00 en la plaza de Cibeles. La artista de Coria del Río fue la principal voz invitada de un acto que abre el alumbrado navideño de la capital.",
+    "En la grabación de la actuación se ve a Pastora Soler, con un vestido rojo, cantar primero en solitario y después acompañada por un coro vestido de blanco. «Quédate conmigo» es la canción con la que representó a España en el Festival de Eurovisión de 2012, celebrado en Bakú.",
+    "## Un acto con drones y fuegos artificiales",
+    "Según el programa difundido por el Ayuntamiento de Madrid, el humorista Carlos Latre condujo la ceremonia, en la que también participaron el Coro Talía y jóvenes cantantes de Crescendo: Creamos Ópera, un programa de la Fundación Amigos del Teatro Real. El momento del encendido correspondió a cinco niños de Ceuta, con los que la capital quiso mostrar su apoyo a la ciudad autónoma.",
+    "La celebración incluyó una exhibición de 500 drones, la primera de ese tipo en el centro de Madrid según el Ayuntamiento, y un castillo de fuegos artificiales. El alumbrado suma más de 14 millones de bombillas led en más de 250 puntos de los 21 distritos y estará encendido hasta el 6 de enero de 2027.",
+    "## Una vecina con nombre propio en Coria",
+    "Pastora Soler da nombre al Centro Cultural de la Villa de Coria, el principal escenario municipal, donde el 12 y el 13 de diciembre se celebrarán los <a href='#concierto-solidario-orfeon-sevilla-coria'>conciertos solidarios del Orfeón de Sevilla</a>. Su actuación en Madrid coincide con una semana de flamenco en el pueblo, que celebró el viernes su <a href='#noche-blanca-flamenco-coria-2026'>Noche Blanca del Flamenco</a>.",
+    "<span class='howto'>La actuación completa de Pastora Soler en Cibeles se puede ver en el canal de YouTube de Coriavisión. Las luces de Navidad de Madrid se encienden cada día a las 18.00 hasta el 6 de enero de 2027.</span>"
+   ],
+   "seo": [
+    "pastora-soler-quedate-conmigo-encendido-luces-navidad-madrid",
+    "Pastora Soler canta en el encendido de Navidad de Madrid",
+    "La coriana Pastora Soler cantó «Quédate conmigo» el 21 de noviembre en Cibeles, en el encendido de las luces de Navidad de Madrid, con Carlos Latre.",
+    [
+     "Pastora Soler",
+     "Quédate conmigo",
+     "luces de Navidad",
+     "Madrid",
+     "Cibeles",
+     "Eurovisión"
+    ]
+   ]
+  },
+  {
+   "id": "mas-sevilla-turistico-coria-dehesa-atalaya",
+   "sec": "coria",
+   "kicker": "Turismo activo",
+   "iso": "2026-11-22",
+   "hora": "08:00",
+   "src": "BOP de Sevilla",
+   "fuente_url": "https://bopsevilla.dipusevilla.es/publica/buscador-anuncios/anuncio/Concesion-definitiva-de-subvenciones-en-regimen-de-concurrencia-competitiva-a-municipios-salvo-la-capital-y-los-Ayuntamientos-beneficiarios-de-la-convocatoria-2025-para-el-programa-MAS-Sevilla-Tu/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Diputación concede 500.000 euros a Coria del Río para infraestructuras de turismo activo en la dehesa La Atalaya",
+   "sub": "Es la cantidad máxima del programa Más Sevilla Turístico 2026, que reparte 19,5 millones entre 44 ayuntamientos y adelanta el pago completo.",
+   "caption": "Principales cifras de la subvención del programa Más Sevilla Turístico 2026 para Coria del Río.",
+   "foto": "mas-sevilla-turistico-atalaya-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "La Diputación de Sevilla ha concedido de forma definitiva 500.000 euros al Ayuntamiento de Coria del Río dentro del programa Más Sevilla Turístico 2026.",
+    "El dinero es para el proyecto básico de construcción de infraestructuras de turismo activo en la dehesa La Atalaya.",
+    "El programa reparte 19.515.830,40 euros entre 44 ayuntamientos de los 59 que lo pidieron.",
+    "La Diputación pagará por adelantado el 100 % de cada subvención tras publicarse la concesión."
+   ],
+   "body": [
+    "La Diputación de Sevilla ha concedido de forma definitiva 500.000 euros al Ayuntamiento de Coria del Río para el proyecto básico de construcción de infraestructuras de turismo activo en la dehesa La Atalaya. La ayuda forma parte del programa Más Sevilla Turístico 2026 y el acuerdo se ha publicado en el Boletín Oficial de la Provincia (BOP) del viernes 20 de noviembre.",
+    "La concesión la aprobó el Pleno de la Diputación en su sesión ordinaria del 5 de noviembre. Coria recibe la cantidad máxima que permitían las bases, que fijaban un tope de 500.000 euros por entidad local y cubren el 100 % del presupuesto solicitado para cada actuación.",
+    "## Qué financia el programa",
+    "Más Sevilla Turístico 2026 subvenciona inversiones municipales que impulsen el turismo en tres líneas: alojamientos turísticos (hoteles, albergues, apartamentos, campings o casas rurales), áreas de pernocta para autocaravanas e infraestructuras de turismo activo que puedan atraer visitantes. El proyecto de Coria está incluido en esta última línea, la tercera.",
+    "La convocatoria estaba abierta a todos los ayuntamientos y entidades locales autónomas de la provincia salvo la capital y los municipios que ya obtuvieron ayuda en la edición de 2025. El plazo de solicitud corrió del 15 de junio al 3 de julio y se presentaron 59 peticiones de otros tantos ayuntamientos.",
+    "La Diputación reparte en total 19.515.830,40 euros entre 44 ayuntamientos. De las solicitudes restantes, siete fueron excluidas por no cumplir los requisitos y ocho se quedaron sin ayuda por falta de crédito, entre ellas las de los municipios vecinos de Gelves y Camas. La Puebla del Río obtiene 237.048,68 euros para un área de pernocta de autocaravanas.",
+    "## Pago por adelantado",
+    "En septiembre, el Pleno provincial cambió las bases para sustituir el pago fraccionado previsto al principio por un anticipo del 100 % de la subvención. Las transferencias a los ayuntamientos se harán efectivas tras la publicación de la concesión definitiva. La Diputación justifica el cambio en la necesidad de garantizar la suficiencia financiera de los municipios desde el inicio de los proyectos y de impulsar la ejecución inmediata de las inversiones.",
+    "El anuncio del BOP identifica la actuación como un proyecto básico, pero no detalla qué instalaciones se construirán en la dehesa ni el calendario de las obras. El turismo es una de las líneas que el Ayuntamiento vincula a su agenda cultural, como recordó al firmar el <a href='#convenio-subvencion-asociacion-hasekura-2026'>convenio anual con la Asociación Hasekura</a>.",
+    "<span class='howto'><b>Más Sevilla Turístico 2026.</b> Subvención para Coria del Río: 500.000 euros. Proyecto: infraestructuras de turismo activo en la dehesa La Atalaya. Publicado en el BOP de Sevilla número 225, del 20 de noviembre de 2026 (código BOP-SE-2026-225006). Contra el acuerdo cabe recurso de reposición en un mes o contencioso-administrativo en dos meses.</span>"
+   ],
+   "seo": [
+    "diputacion-500000-euros-coria-del-rio-turismo-activo-dehesa-atalaya",
+    "Coria del Río recibe 500.000 euros para turismo activo",
+    "La Diputación de Sevilla concede 500.000 euros a Coria del Río para infraestructuras de turismo activo en la dehesa La Atalaya, con pago anticipado.",
+    [
+     "Diputación de Sevilla",
+     "Más Sevilla Turístico",
+     "turismo activo",
+     "dehesa La Atalaya",
+     "subvenciones",
+     "BOP de Sevilla"
+    ]
+   ]
+  },
   {
    "id": "noche-blanca-flamenco-coria-2026",
    "sec": "cultura",
