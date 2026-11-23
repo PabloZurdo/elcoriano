@@ -77,6 +77,189 @@ window.EP = {
  ],
  "noticias": [
   {
+   "id": "semillas-igualdad-exposicion-huerta-rita",
+   "sec": "cultura",
+   "kicker": "Semillas de Igualdad",
+   "iso": "2026-11-23",
+   "hora": "23:03",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1463861445876521",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La exposición «Semillas de Igualdad» llega a Coria del Río con ocho paneles sobre mujeres que abrieron camino",
+   "sub": "La muestra itinerante de UGT, con la Diputación y el Ayuntamiento, puede verse en el Centro de Servicios Sociales Huerta Rita e incluye a las corianas Clara Grima y Aída Platero.",
+   "caption": "Gráfico con los datos de la exposición «Semillas de Igualdad» en Coria del Río.",
+   "foto": "semillas-igualdad-exposicion-huerta-rita-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río inauguró el lunes 23 de noviembre la exposición itinerante «Semillas de Igualdad».",
+    "La muestra tiene ocho paneles y está en el pasillo del Centro de Servicios Sociales Huerta Rita.",
+    "La promueve UGT, con la colaboración de la Diputación de Sevilla y del Ayuntamiento.",
+    "Entre las mujeres que recoge están las corianas Clara Grima y Aída Platero."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río inauguró el lunes 23 de noviembre la exposición itinerante «Semillas de Igualdad», una muestra de ocho paneles sobre mujeres que han contribuido a transformar la sociedad. Puede visitarse desde ese día en el pasillo del Centro de Servicios Sociales Huerta Rita, según ha publicado el Consistorio en su perfil de Facebook.",
+    "La iniciativa la promueve el sindicato UGT, con la colaboración de la Diputación de Sevilla y del propio Ayuntamiento. Según el Consistorio, el objetivo es visibilizar el papel de mujeres que, en ámbitos distintos, abrieron camino y derribaron barreras.",
+    "Al acto inaugural asistieron el alcalde, Modesto González, y las delegadas municipales Almudena Bizcocho y María José Cantón. Por parte de UGT acudieron Puri Gil, secretaria de Igualdad, Mujer y Diversidad, y Juan Bautista, en representación de la Secretaría General provincial del sindicato.",
+    "## Dos corianas en los paneles",
+    "La muestra pone el foco también en mujeres de Coria del Río. El Ayuntamiento cita a dos: Clara Grima, profesora de Matemáticas Aplicadas de la Universidad de Sevilla, y Aída Platero, investigadora del Instituto de Biomedicina de Sevilla.",
+    "Según el Consistorio, la exposición invita a mirar al pasado, cuando el trabajo de muchas mujeres quedó silenciado; a reconocer los avances del presente, y a reflexionar sobre lo que falta para que las oportunidades sean iguales y no haya desigualdades por razón de género.",
+    "La muestra abre la semana del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer, para la que el Ayuntamiento ha preparado <a href='#25n-campana-ayuntamiento-2026'>una campaña y una marcha</a> con el Centro Municipal de Información a la Mujer. En octubre, el Consistorio aprobó por unanimidad su <a href='#plan-igualdad-ayuntamiento-2026'>primer Plan de Igualdad municipal</a>.",
+    "<span class='howto'><b>Semillas de Igualdad.</b> Exposición itinerante de ocho paneles. Pasillo del Centro de Servicios Sociales Huerta Rita, Coria del Río, desde el lunes 23 de noviembre. Horario y fecha de clausura: el Ayuntamiento no los ha detallado. <b>Marcha del 25N:</b> miércoles 25 de noviembre, 10.00, desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento.</span>"
+   ],
+   "seo": [
+    "semillas-igualdad-exposicion-coria-del-rio-huerta-rita",
+    "«Semillas de Igualdad», exposición en Coria del Río",
+    "La muestra itinerante «Semillas de Igualdad», de UGT, abre en Coria del Río con ocho paneles en Huerta Rita y las corianas Clara Grima y Aída Platero.",
+    [
+     "Semillas de Igualdad",
+     "UGT",
+     "Diputación de Sevilla",
+     "Clara Grima",
+     "Aída Platero",
+     "25N",
+     "Huerta Rita"
+    ]
+   ]
+  },
+  {
+   "id": "psoe-paseo-maritimo-financiacion-mas-sevilla",
+   "sec": "politica",
+   "kicker": "Paseo Marítimo",
+   "iso": "2026-11-23",
+   "hora": "23:03",
+   "src": "PSOE de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/reel/4474672919449180/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El PSOE de Coria sostiene que la reforma del Paseo Marítimo se paga con el Plan Más Sevilla de la Diputación",
+   "sub": "El Ayuntamiento presentó en octubre la obra como una inversión municipal de un millón de euros, la mayor en el paseo desde su creación hace más de 30 años.",
+   "caption": "Gráfico con los datos de la obra del Paseo Marítimo de Coria del Río.",
+   "foto": "psoe-paseo-maritimo-financiacion-mas-sevilla-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El PSOE de Coria del Río afirma que la reforma del Paseo Marítimo se financia con el Plan Más Sevilla de la Diputación de Sevilla.",
+    "El Ayuntamiento anunció el 9 de octubre la obra como una inversión municipal de un millón de euros.",
+    "Las obras renuevan más de 7.000 metros cuadrados en tres tramos, con un plazo previsto de seis meses."
+   ],
+   "body": [
+    "El PSOE de Coria del Río sostiene que la renovación del Paseo Marítimo se financia con el Plan Más Sevilla de la Diputación de Sevilla y no con dinero municipal, como defiende el Ayuntamiento. Lo afirma su portavoz, David Díaz, en un vídeo que el partido publicó el lunes 23 de noviembre en su perfil de Facebook.",
+    "«El Ayuntamiento está diciendo que este dinero sale de las arcas municipales y no es así», asegura Díaz en la grabación. «Esto viene de una financiación de la Diputación de Sevilla a través del plan Más Sevilla», añade.",
+    "En el mismo vídeo, el portavoz socialista recuerda que el paseo lo impulsaron gobiernos socialistas y sostiene que en la última década se ha deteriorado «sin que haya recibido nunca la gestión y la atención necesaria». El partido acompaña la grabación con un mensaje en el que acusa al alcalde, Modesto González (Andalucía por Sí), de intentar «ponerse medallas» con la obra.",
+    "Díaz afirma que su partido defenderá las inversiones que mejoren el municipio, pero reclama que los vecinos sepan de dónde sale el dinero de cada actuación.",
+    "## La versión del Ayuntamiento",
+    "El Ayuntamiento anunció el 9 de octubre el inicio de los trabajos con una <a href='https://www.ayto-coriadelrio.es/es/actualidad/noticias/Comienzan-las-obras-de-renovacion-integral-del-Paseo-Maritimo-de-Coria-del-Rio/' target='_blank' rel='noopener'>nota</a> en la que habla de una «inversión municipal de un millón de euros», la mayor actuación en el paseo desde su creación, hace más de 30 años. Según esa nota, la obra afecta a más de 7.000 metros cuadrados y tiene un plazo de ejecución de seis meses.",
+    "El Consistorio explicó entonces que el paseo pertenece al Dominio Público Marítimo-Terrestre y que, tras años de reclamaciones ante el Ministerio competente, obtuvo autorización para ejecutar la obra directamente y asumió su financiación. «No podemos dejar que nuestro paseo se siga deteriorando», dijo el alcalde al anunciar el proyecto.",
+    "Ninguna de las dos partes ha publicado el documento que acredite el origen de los fondos. La Diputación sí ha concedido este mes a Coria, dentro de otra línea del mismo plan, Más Sevilla Turístico, <a href='#mas-sevilla-turistico-coria-dehesa-atalaya'>500.000 euros para infraestructuras de turismo activo en la dehesa La Atalaya</a>, según el Boletín Oficial de la Provincia.",
+    "## Tres tramos",
+    "Las obras se dividen en tres tramos: del restaurante Esturión al cruce de la calle Batán con la avenida de Andalucía; de la calle Batán al embarcadero, y del embarcadero a la desembocadura del arroyo Riopudio. Incluyen nueva solería, una barandilla de acero inoxidable en lugar de la balaustrada, bancos nuevos, mejoras en la evacuación de las aguas pluviales y arquetas para el alumbrado de la Feria.",
+    "<span class='howto'><b>Obra del Paseo Marítimo.</b> Inicio: 9 de octubre de 2026, según el Ayuntamiento. Plazo de ejecución previsto: seis meses. Superficie: más de 7.000 metros cuadrados. Importe anunciado: un millón de euros.</span>"
+   ],
+   "seo": [
+    "psoe-paseo-maritimo-coria-plan-mas-sevilla-financiacion",
+    "Paseo Marítimo de Coria: el PSOE señala al Plan Más Sevilla",
+    "El PSOE de Coria del Río afirma que el Plan Más Sevilla paga la obra del Paseo Marítimo; el Ayuntamiento la presentó como inversión municipal de un millón.",
+    [
+     "Paseo Marítimo",
+     "PSOE",
+     "David Díaz",
+     "Plan Más Sevilla",
+     "Diputación de Sevilla",
+     "Modesto González",
+     "Andalucía por Sí"
+    ]
+   ]
+  },
+  {
+   "id": "soledad-entrega-jarrillo-soleaero-fernando-rasero",
+   "sec": "hermandades",
+   "kicker": "Jarrillo Soleaero",
+   "iso": "2026-11-23",
+   "hora": "23:03",
+   "src": "Hermandad de la Soledad (Facebook)",
+   "fuente_url": "https://www.facebook.com/1568403328657029/posts/1576234994540529",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Soledad de Coria entrega el V Jarrillo Soleaero a Fernando Rasero, vestidor de la Virgen",
+   "sub": "La hermandad reconoce su trabajo en el taller de bordados y su labor como vestidor de Nuestra Señora de la Soledad Coronada.",
+   "caption": "Gráfico sobre la entrega del V Jarrillo Soleaero de la Hermandad de la Soledad de Coria del Río.",
+   "foto": "soledad-entrega-jarrillo-soleaero-fernando-rasero-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "La Hermandad de la Soledad de Coria del Río entregó el sábado 21 de noviembre el V Jarrillo Soleaero a Fernando Rasero Pérez.",
+    "La hermandad destaca su entrega al taller de bordados y su labor como vestidor de la Virgen de la Soledad.",
+    "El acto se celebró en la capilla de la hermandad."
+   ],
+   "body": [
+    "La Hermandad de la Soledad de Coria del Río entregó el sábado 21 de noviembre el V Jarrillo Soleaero a su hermano Fernando Rasero Pérez, en un acto celebrado en la capilla de la hermandad. Así lo ha contado la corporación en su perfil de Facebook, donde ha publicado imágenes de la entrega.",
+    "El Jarrillo Soleaero es la distinción con la que la hermandad reconoce a hermanos que, según su descripción, han hecho de su vida un ejemplo de fe y de entrega a sus titulares. Esta es su quinta edición. La concesión la acordó la Junta de Gobierno en cabildo de oficiales, como <a href='#soledad-jarrillo-soleaero-2026-fernando-rasero'>anunció la hermandad la semana pasada</a>.",
+    "En su mensaje, la Soledad detalla ahora la trayectoria del distinguido: su entrega al taller de bordados de la hermandad y su labor como vestidor de Nuestra Señora de la Soledad Coronada. La corporación destaca también que ha transmitido a su familia la devoción a la Soledad.",
+    "La hermandad presenta el reconocimiento como una muestra de gratitud por «tantos años de entrega y fidelidad» y traslada a Rasero su enhorabuena.",
+    "## Semanas de actividad",
+    "La entrega cierra unas semanas de actividad para la hermandad del Barrio de la Soledad. A mediados de noviembre, su Diputación de Caridad colaboró en la Gran Recogida del Banco de Alimentos y <a href='#soledad-caridad-banco-alimentos-brigada-nocturna'>donó mantas y ropa de abrigo a La Brigada Nocturna</a>. La corporación ha recuperado además <a href='#soledad-restaura-caliz-plata'>un antiguo cáliz de plata</a>, que volvió a usar el 15 de noviembre en la Función Principal al Santísimo Cristo Yacente.",
+    "<span class='howto'><b>Hermandad de la Soledad.</b> Capilla de Nuestra Señora de la Soledad, Barrio de la Soledad, Coria del Río. La hermandad informa de sus actos en su perfil de Facebook.</span>"
+   ],
+   "seo": [
+    "jarrillo-soleaero-fernando-rasero-hermandad-soledad-coria",
+    "V Jarrillo Soleaero para Fernando Rasero en Coria",
+    "La Hermandad de la Soledad de Coria del Río entregó el sábado el V Jarrillo Soleaero a Fernando Rasero Pérez por su labor en bordados y como vestidor.",
+    [
+     "Hermandad de la Soledad",
+     "Jarrillo Soleaero",
+     "Fernando Rasero Pérez",
+     "Virgen de la Soledad",
+     "bordados"
+    ]
+   ]
+  },
+  {
+   "id": "cb-coria-cantera-cierre-primera-fase",
+   "sec": "deportes",
+   "kicker": "Baloncesto base",
+   "iso": "2026-11-23",
+   "hora": "23:03",
+   "src": "Club Baloncesto Coria (Facebook)",
+   "fuente_url": "https://www.facebook.com/1805624228234571/posts/1815208330609494",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El infantil masculino del CB Coria cierra la primera fase con cinco victorias en cinco partidos",
+   "sub": "El mini femenino XL también termina invicto, con cuatro de cuatro, y el infantil femenino gana a Estepa y es segundo de su grupo.",
+   "caption": "Gráfico con los resultados de la cantera del Club Baloncesto Coria en la primera fase.",
+   "foto": "cb-coria-cantera-cierre-primera-fase-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El infantil masculino XL del Club Baloncesto Coria cierra la primera fase con cinco victorias en cinco partidos.",
+    "El mini femenino XL termina también invicto, con cuatro victorias.",
+    "El infantil femenino ganó a Estepa y es segundo de su grupo."
+   ],
+   "body": [
+    "El equipo infantil masculino XL del Club Baloncesto Coria, de Coria del Río, ha cerrado la primera fase de su competición con cinco victorias en cinco partidos, según ha publicado el club en su perfil de Facebook este lunes 23 de noviembre. No es el único equipo de la cantera que termina la fase sin perder.",
+    "El mini femenino XL acaba también invicto, con cuatro victorias en cuatro partidos, y el club anima a sus jugadoras a «seguir trabajando». El infantil femenino, por su parte, ganó su partido del fin de semana ante Estepa y es segundo de su grupo al terminar la primera vuelta. El club no ha publicado los marcadores.",
+    "Hace una semana, la entidad ya había destacado que su infantil masculino <a href='#cb-coria-infantil-lider-invicto'>cerraba la primera vuelta líder y sin derrotas</a>. Entre los mayores, el N1 masculino <a href='#cb-coria-n1-masculino-gana-huelva'>ganó 91-45 al Huelva La Luz</a> el 15 de noviembre y es segundo de su grupo.",
+    "El sénior masculino tenía programado para este lunes 23, a las 20.30, el partido ante el Club Baloncesto Los Palacios en el pabellón municipal de Coria.",
+    "## El Coria CF, a Montalbán",
+    "En fútbol, el Coria CF, que el domingo 22 <a href='#coria-cf-empata-la-palma'>empató 0-0 con La Palma CF</a> en el Estadio Guadalquivir en un duelo de la parte alta de la tabla, visitará Montalbán en la próxima jornada, según ha anunciado el club. La entidad ha publicado también en sus redes los resultados de su cantera del fin de semana del 20 al 22 de noviembre.",
+    "<span class='howto'><b>Próximo partido del Coria CF.</b> Visita a Montalbán en la próxima jornada de la División de Honor Sénior. El club no ha anunciado todavía el día ni la hora.</span>"
+   ],
+   "seo": [
+    "cb-coria-cantera-infantil-mini-invictos-primera-fase",
+    "CB Coria: infantil y mini, invictos en la primera fase",
+    "El infantil masculino XL del Club Baloncesto Coria cierra la primera fase con 5 de 5 y el mini femenino XL acaba invicto; el Coria CF visitará Montalbán.",
+    [
+     "Club Baloncesto Coria",
+     "baloncesto base",
+     "infantil masculino",
+     "mini femenino",
+     "Coria CF",
+     "Montalbán"
+    ]
+   ]
+  },
+  {
    "id": "coria-generales-secciones-2016-2023",
    "sec": "politica",
    "kicker": "Elecciones generales",
