@@ -4,13 +4,6 @@ window.TIEMPO = {
  "elaborado": "2026-11-22T21:23:08",
  "dias": [
   {
-   "fecha": "2026-11-21",
-   "cielo": "Nuboso con lluvia",
-   "max": 24,
-   "min": 10,
-   "lluvia": 100
-  },
-  {
    "fecha": "2026-11-22",
    "cielo": "Despejado",
    "max": 21,

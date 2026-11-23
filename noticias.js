@@ -1,31 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-22",
+  "actualizado": "2026-11-23",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "22 nov, 12.00",
-   "que": "Coria CF - La Palma",
-   "donde": "Estadio Guadalquivir",
-   "noticia": "coria-cf-gana-rinconada",
-   "hasta": "2026-11-22"
-  },
-  {
-   "cuando": "22 nov, 12.00",
-   "que": "Misa por el XXV aniversario del Cristo de la Salud (Borriquita)",
-   "donde": "Parroquia de San José",
-   "noticia": "borriquita-xxv-aniversario-cristo-salud",
-   "hasta": "2026-11-22"
-  },
-  {
-   "cuando": "22 nov, 12.30",
-   "que": "Real Círculo de Labradores - CB Coria (N1 masculino)",
-   "donde": "CD Mar de Plata, Sevilla",
-   "noticia": "cb-coria-n1-masculino-gana-huelva",
-   "hasta": "2026-11-22"
-  },
   {
    "cuando": "23 nov, 20.30",
    "que": "CB Coria - CB Los Palacios (sénior masculino)",
@@ -97,6 +76,154 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "coria-generales-secciones-2016-2023",
+   "sec": "politica",
+   "kicker": "Elecciones generales",
+   "iso": "2026-11-23",
+   "hora": "07:40",
+   "src": "Ministerio del Interior",
+   "fuente_url": "https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El PSOE ganó en Coria del Río las cuatro últimas generales y el PP fue primero en cinco secciones en 2023",
+   "sub": "La participación cayó al 63,4 % en 2023, la más baja de las cuatro citas, según los resultados por mesa del Ministerio del Interior",
+   "caption": "Voto válido del PSOE, el PP y Vox en Coria del Río en las generales de 2016, abril de 2019, noviembre de 2019 y 2023. El PSOE fue primero en las cuatro.",
+   "foto": "coria-generales-secciones-2016-2023-gfx3.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El PSOE fue el partido más votado en Coria del Río en las generales de 2016, abril de 2019, noviembre de 2019 y 2023, siempre por encima del 39 % del voto válido.",
+    "En 2023 el PP fue primero en cinco de las 18 secciones censales de Coria; en las dos elecciones de 2019 no ganó ninguna.",
+    "La participación en Coria fue del 63,4 % en 2023, frente al 70,3 % de abril de 2019.",
+    "Los datos salen de los resultados por mesa del Ministerio del Interior y no incluyen el voto de los residentes en el extranjero."
+   ],
+   "body": [
+    "El PSOE fue el partido más votado en Coria del Río en las cuatro elecciones generales celebradas entre 2016 y 2023, siempre con más del 39 % del voto válido. En julio de 2023 el PP fue primero en cinco de las 18 secciones censales del municipio, según los resultados por mesa del Ministerio del Interior analizados por El Coriano.",
+    "El análisis llega a seis días de las generales del domingo 29 de noviembre. Una sección censal agrupa a los electores de unas calles concretas, que votan en una o varias mesas. Coria tuvo 18 secciones en las cuatro elecciones.",
+    "## El voto en el conjunto de Coria",
+    "En 2016 el PSOE logró el 40,8 % en Coria, por delante del PP (22,0 %), la candidatura de Podemos e IU (20,2 %) y Ciudadanos (13,5 %). En abril de 2019 subió al 42,3 %, con Ciudadanos (15,2 %) como segunda fuerza. En noviembre de 2019 obtuvo el 39,9 % y Vox quedó segundo con el 19,2 %.",
+    "En 2023 el PSOE sumó el 41,6 %. El PP subió al 26,4 %, desde el 12,3 % de noviembre de 2019. Vox logró el 15,8 % y Sumar, el 13,0 %. Ciudadanos no se presentó.",
+    "Andalucía por Sí (AxSí), el partido del alcalde, Modesto González Márquez, solo concurrió a las generales en las dos elecciones de 2019. En abril obtuvo en Coria 242 votos, el 1,5 % del voto válido, y en noviembre, 453 votos, el 3,0 %. En las dos fue la sexta candidatura más votada del municipio. No se presentó en 2016 ni en 2023.",
+    "## El mapa por secciones",
+    "El PSOE ganó en 15 secciones en 2016, en las 18 en abril de 2019, en 17 en noviembre de 2019 y en 13 en 2023. El PP fue primero en dos secciones en 2016 y en cinco en 2023. Ciudadanos ganó una en 2016 y Vox, una en noviembre de 2019.",
+    "Las cinco secciones donde ganó el PP en 2023 lo hicieron por márgenes estrechos. Su mejor resultado, el 39,4 %, fue en la sección de la avenida de Andalucía y las calles Batán y Jesús y María, donde el PSOE obtuvo el 35,5 %. También fue primero en la de la Barriada de Fátima (38,0 %) y en la de las calles Canalejas, Caura y Colón (38,4 %).",
+    "El mejor dato del PSOE en 2023, el 53,6 %, se dio en la sección de las calles Antonio Gutiérrez, Francisco Gutiérrez y Martinete. Vox alcanzó su máximo, el 22,0 %, en la de la Gran Avenida y las calles Esclusa e Isleta.",
+    "## Menos participación",
+    "En 2023 votaron 15.156 de los 23.905 electores residentes en Coria, el 63,4 %. Fue la participación más baja de las cuatro generales: el 64,2 % en 2016, el 70,3 % en abril de 2019 y el 65,6 % en noviembre de 2019. Por secciones, osciló entre el 71,9 % de la de la avenida de Andalucía y el 56,1 % de la de la calle Antonio Gutiérrez.",
+    "<span class='howto'>Datos: resultados por mesa de las generales de junio de 2016, abril de 2019, noviembre de 2019 y julio de 2023 (Ministerio del Interior, Infoelectoral). Las calles de cada sección salen del callejero del censo electoral del INE de julio de 2023. Porcentajes sobre voto válido; participación sobre el censo de residentes en España, sin el voto desde el extranjero. Los límites de algunas secciones cambian entre elecciones. Los colegios abren el domingo 29 de noviembre de 9.00 a 20.00.</span>"
+   ],
+   "seo": [
+    "voto-secciones-coria-del-rio-generales",
+    "Voto por secciones en Coria del Río: generales 2016-2023",
+    "El PSOE ganó en Coria del Río las generales de 2016 a 2023 y el PP fue primero en cinco de sus 18 secciones censales en 2023, según Interior.",
+    [
+     "elecciones generales",
+     "secciones censales",
+     "participación electoral",
+     "PSOE",
+     "PP",
+     "Vox",
+     "Ministerio del Interior"
+    ]
+   ]
+  },
+  {
+   "id": "accidentes-trafico-coria-2025-dgt",
+   "sec": "sucesos",
+   "kicker": "Seguridad vial",
+   "iso": "2026-11-23",
+   "hora": "07:40",
+   "src": "DGT",
+   "fuente_url": "https://www.dgt.es/menusecundario/dgt-en-cifras/dgt-en-cifras-resultados/dgt-en-cifras-detalle/Ficheros-de-microdatos-de-accidentes-con-victimas-2025/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río registra 49 accidentes con víctimas en 2025, el máximo desde 2016, por los siniestros urbanos",
+   "sub": "La DGT anota 31 accidentes en las calles de Coria, cuando hasta 2023 contaba entre cero y cuatro al año; en carretera hubo 18",
+   "caption": "Accidentes de tráfico con víctimas en Coria del Río entre 2016 y 2025, separados por vías urbanas e interurbanas, según la DGT.",
+   "foto": "accidentes-trafico-coria-2025-dgt-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "Coria del Río registró 49 accidentes de tráfico con víctimas en 2025, frente a 33 en 2024 y 22 en 2016.",
+    "31 de los 49 accidentes de 2025 fueron en vías urbanas; entre 2016 y 2023 la DGT anotaba entre cero y cuatro al año en el casco urbano.",
+    "Los accidentes de 2025 dejaron 65 víctimas, ninguna mortal, y tres heridos hospitalizados.",
+    "La A-8058 fue la carretera con más accidentes con víctimas en el término de Coria en 2025, con 10."
+   ],
+   "body": [
+    "Coria del Río registró 49 accidentes de tráfico con víctimas en 2025, la cifra más alta desde 2016, según los microdatos de la Dirección General de Tráfico (DGT) publicados en octubre de 2026. Fueron 33 en 2024. La subida se concentra en las calles del municipio: 31 de los 49 accidentes ocurrieron en vías urbanas.",
+    "Entre 2016 y 2023, la estadística de la DGT anotaba en Coria entre cero y cuatro accidentes urbanos con víctimas al año. En 2024 recogió 19 y en 2025, 31. Los accidentes urbanos llegan a la estadística a través de los partes que la Policía Local envía a la DGT, y con estos datos no se puede saber si antes de 2024 hubo menos siniestros en las calles o si se comunicaron menos.",
+    "## En carretera, cifras estables",
+    "En las vías interurbanas del término hubo 18 accidentes con víctimas en 2025, cuatro más que en 2024. La serie se ha movido entre siete (2022) y 21 (2016) en la última década. La A-8058 sumó 10 accidentes en 2025, la SE-3206, cinco, y la A-8051, tres.",
+    "Los 49 accidentes de 2025 dejaron 65 víctimas: ningún fallecido, tres heridos que necesitaron hospitalización y 62 heridos leves. En 2024 hubo 42 víctimas y un fallecido, en un atropello en una vía urbana en enero. Entre 2016 y 2025, la estadística recoge tres muertes por accidentes de tráfico en el término de Coria.",
+    "## Atropellos, el tipo más frecuente",
+    "El tipo de accidente más repetido en Coria en 2025 fue el atropello a personas, con 11 casos, seguido de las colisiones fronto-laterales (10) y laterales (siete).",
+    "En los municipios vecinos, Camas pasó de 69 accidentes con víctimas en 2024 a 94 en 2025, y San Juan de Aznalfarache, de 19 a 28. En el conjunto de la provincia de Sevilla la subida fue del 4,2 %, hasta 4.946 accidentes.",
+    "La estadística solo incluye los accidentes con al menos un herido o fallecido, no los que causan solo daños materiales. Los fallecidos se cuentan hasta 30 días después del accidente. Cada siniestro se asigna al municipio donde ocurre, no al domicilio de los implicados.",
+    "<span class='howto'>Datos: microdatos de accidentes con víctimas de la DGT, años 2016 a 2025 (el de 2025 se publicó el 20 de octubre de 2026). Accidente urbano o interurbano según la vía. La DGT publica cada otoño los datos del año anterior: los de 2026 saldrán previsiblemente en el otoño de 2027.</span>"
+   ],
+   "seo": [
+    "accidentes-trafico-coria-del-rio-2025-dgt",
+    "Accidentes de tráfico en Coria del Río: 49 en 2025",
+    "Coria del Río registró 49 accidentes de tráfico con víctimas en 2025, el máximo desde 2016, con 31 en vías urbanas, según los microdatos de la DGT.",
+    [
+     "accidentes de tráfico",
+     "DGT",
+     "seguridad vial",
+     "A-8058",
+     "atropellos",
+     "Policía Local de Coria del Río"
+    ]
+   ]
+  },
+  {
+   "id": "sociedades-creadas-coria-2026-borme",
+   "sec": "economia",
+   "kicker": "Empresas",
+   "iso": "2026-11-23",
+   "hora": "07:40",
+   "src": "BORME",
+   "fuente_url": "https://www.boe.es/diario_borme/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río suma 62 sociedades nuevas en 2026, un 37,8 % más que el año pasado",
+   "sub": "El BORME publicó hasta el 20 de noviembre 17 constituciones más que en el mismo periodo de 2025; la provincia de Sevilla crece un 10,8 %",
+   "caption": "Sociedades mercantiles constituidas por cada 10.000 habitantes en Coria del Río, Camas, San Juan de Aznalfarache y la provincia de Sevilla en 2026.",
+   "foto": "sociedades-creadas-coria-2026-borme-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El BORME publicó entre el 1 de enero y el 20 de noviembre de 2026 la constitución de 62 sociedades con domicilio en Coria del Río, frente a 45 en el mismo periodo de 2025.",
+    "Coria registra 19,8 sociedades nuevas por cada 10.000 habitantes, por debajo de la media de la provincia de Sevilla, de 23,6.",
+    "En la provincia se constituyeron 4.669 sociedades, un 10,8 % más que en 2025.",
+    "48 de las 62 sociedades de Coria se crearon con 3.000 euros de capital o menos."
+   ],
+   "body": [
+    "El Boletín Oficial del Registro Mercantil (BORME) publicó entre el 1 de enero y el 20 de noviembre de 2026 la constitución de 62 sociedades con domicilio social en Coria del Río, un 37,8 % más que las 45 del mismo periodo de 2025, según el recuento de El Coriano.",
+    "El crecimiento de Coria supera al de la provincia de Sevilla, donde se constituyeron 4.669 sociedades, un 10,8 % más que las 4.215 del año anterior. Coria es el municipio número 14 de la provincia por número de sociedades nuevas.",
+    "## Por debajo de la media en relación con la población",
+    "Pese a la subida, Coria sigue por debajo de la media provincial si se tiene en cuenta su población. Con el padrón del INE a 1 de enero de 2025, suma 19,8 sociedades nuevas por cada 10.000 habitantes, frente a 23,6 en el conjunto de la provincia.",
+    "Entre los municipios vecinos, Camas pasó de 56 a 75 sociedades nuevas y alcanza 25,8 por cada 10.000 habitantes. San Juan de Aznalfarache bajó de 28 a 26, con 11,1 por cada 10.000.",
+    "## Empresas pequeñas",
+    "La mayoría de las sociedades de Coria nace con poco capital. De las 62, 48 declararon 3.000 euros o menos. Solo dos superaron los 60.000 euros, y la mayor se constituyó con 141.000. Desde la Ley 18/2022, de creación y crecimiento de empresas, una sociedad limitada puede constituirse con un euro, pero ninguna de las de Coria declaró menos de 3.000.",
+    "La construcción y la actividad inmobiliaria aparecen en el objeto social de 15 de las nuevas sociedades, y la hostelería, en ocho. Muchas empresas declaran varias actividades a la vez, por lo que estas cifras no suman el total.",
+    "El recuento no mide toda la actividad emprendedora: no incluye a los trabajadores autónomos, que no se inscriben en el Registro Mercantil, ni descuenta las sociedades que se disuelven. El domicilio social es el que figura en la escritura de constitución y no siempre coincide con el lugar donde la empresa trabaja.",
+    "<span class='howto'>Datos: anuncios de constitución publicados en la sección primera del BORME (Registro Mercantil de Sevilla) del 1 de enero al 20 de noviembre de 2025 y de 2026, contados por el municipio del domicilio social. Población: padrón continuo del INE a 1 de enero de 2025. El Coriano actualizará el recuento con el año completo en enero.</span>"
+   ],
+   "seo": [
+    "sociedades-creadas-coria-del-rio-2026",
+    "Sociedades creadas en Coria del Río en 2026: 62",
+    "El BORME publicó hasta el 20 de noviembre 62 sociedades nuevas con domicilio en Coria del Río, un 37,8 % más que en 2025; la provincia creció un 10,8 %.",
+    [
+     "creación de empresas",
+     "BORME",
+     "Registro Mercantil de Sevilla",
+     "sociedades limitadas",
+     "emprendimiento",
+     "Camas"
+    ]
+   ]
+  },
   {
    "id": "borriquita-celebra-xxv-aniversario-cristo-salud",
    "sec": "hermandades",
@@ -441,7 +568,7 @@ window.EP = {
     "## Cultura y turismo",
     "Según el Consistorio, el acuerdo responde a su interés por difundir la cultura japonesa, que considera parte de la historia y la identidad de Coria, y sirve además para reforzar la agenda cultural local y el turismo internacional, porque atrae cada año a visitantes de otros países.",
     "El vínculo de Coria con Japón se remonta a 1614, cuando la embajada de Hasekura Tsunenaga hizo escala en el municipio. Parte de la comitiva se quedó a vivir en Coria y el apellido Japón es hoy frecuente entre sus vecinos.",
-    "La firma llega pocas semanas después de que el municipio celebrara la <a href='#semana-cultura-japonesa-coria-2026'>decimonovena Semana de la Cultura Japonesa</a> y días después de la <a href='#minamishimabara-visita-coria'>visita de una delegación de la ciudad japonesa de Minamishimabara</a>, encabezada por su alcalde, Aikawa Taketoshi, a la que también recibieron Modesto González y Victoriano Cancelo."
+    "La firma llega pocas semanas después de que el municipio celebrara la decimonovena Semana de la Cultura Japonesa y días después de la <a href='#minamishimabara-visita-coria'>visita de una delegación de la ciudad japonesa de Minamishimabara</a>, encabezada por su alcalde, Aikawa Taketoshi, a la que también recibieron Modesto González y Victoriano Cancelo."
    ],
    "seo": [
     "convenio-subvencion-asociacion-hasekura-coria-2026",
@@ -1661,7 +1788,7 @@ window.EP = {
     "La comitiva fue recibida por el alcalde de Coria del Río, Modesto González Márquez, y por el delegado municipal de Turismo y Cultura, Victoriano Cancelo. Según la nota municipal, en la reunión se repasaron los puntos de conexión entre las dos localidades, desde su pasado histórico hasta posibles líneas de cooperación cultural, turística y económica.",
     "## Del Tōrō Nagashi a la Embajada Keicho",
     "Uno de los asuntos que el Ayuntamiento destaca es el Tōrō Nagashi, la ceremonia japonesa de farolillos flotantes que Coria ha incorporado a su calendario cultural. También se habló de la Embajada Keicho y de la figura de Hasekura Tsunenaga, cuya comitiva hizo escala en Coria del Río en 1614 y dejó parte de sus miembros en el municipio, origen del apellido Japón que hoy llevan muchos corianos.",
-    "La agenda incluyó además la Semana de la Cultura Japonesa, cuya <a href='#semana-cultura-japonesa-coria-2026'>decimonovena edición se inauguró en octubre</a>, las actividades de la Asociación Hasekura y la posibilidad de colaborar en el ámbito deportivo.",
+    "La agenda incluyó además la Semana de la Cultura Japonesa, cuya decimonovena edición se inauguró en octubre, las actividades de la Asociación Hasekura y la posibilidad de colaborar en el ámbito deportivo.",
     "## Turismo, agricultura y arroz",
     "El Consistorio señala que las dos delegaciones compartieron experiencias en turismo, agricultura y economía local, con especial atención a la producción y la cultura del arroz en las marismas del Guadalquivir, su gastronomía y el paisaje que forma este cultivo en el entorno de Coria. La nota no concreta ningún acuerdo firmado ni fechas para próximos encuentros.",
     "Como recuerdo de la visita, Modesto González entregó al alcalde japonés varios libros sobre la historia de Coria del Río y su relación con Japón, un licor elaborado en la localidad y una pieza de cerámica con la imagen del municipio. El Ayuntamiento presenta la visita como una oportunidad para mantener viva esa historia compartida y abrir nuevas vías de intercambio entre Coria y Japón."
@@ -1899,129 +2026,6 @@ window.EP = {
      "Ayuntamiento de Coria",
      "igualdad salarial",
      "plantilla municipal"
-    ]
-   ]
-  },
-  {
-   "id": "campeonato-espana-caballos-jovenes-doma-vaquera",
-   "sec": "deportes",
-   "kicker": "Doma vaquera",
-   "iso": "2026-10-23",
-   "src": "Ayuntamiento de Coria del Río",
-   "fuente_url": "https://www.ayto-coriadelrio.es/es/actualidad/noticias/Coria-del-Rio-reune-este-fin-de-semana-a-la-elite-de-la-doma-vaquera-con-el-Campeonato-de-Espana-de-Caballos-Jovenes/",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "Coria del Río acoge el Campeonato de España de Caballos Jóvenes de doma vaquera",
-   "sub": "La prueba se celebra el sábado 24 y el domingo 25 de octubre en el solar municipal de Pueblo Andaluz y está dedicada a Joaquín Olivera Peña",
-   "caption": "Presentación del Campeonato de España de Caballos Jóvenes de doma vaquera en el Ayuntamiento de Coria del Río.",
-   "foto": "campeonato-espana-caballos-jovenes-doma-vaquera-of.jpg",
-   "fotocredito": "Ayuntamiento de Coria del Río",
-   "claves": [
-    "El Campeonato de España de Caballos Jóvenes de doma vaquera se celebra el sábado 24 y el domingo 25 de octubre en Coria del Río.",
-    "La prueba está dedicada a Joaquín Olivera Peña y la organiza Francisco Antonio Ortega, Tono.",
-    "El Ayuntamiento colocará el rótulo del parque Joaquín Olivera Peña en el callejero coincidiendo con el campeonato.",
-    "El acceso a la competición depende del proceso de clasificación de la Real Federación Hípica Española."
-   ],
-   "body": [
-    "Coria del Río acoge el sábado 24 y el domingo 25 de octubre el Campeonato de España de Caballos Jóvenes de doma vaquera, una prueba de ámbito nacional dedicada a Joaquín Olivera Peña, figura de la disciplina.",
-    "La programación empieza a primera hora del sábado en el solar municipal de Pueblo Andaluz, entre el río Pudio y la Blanca Paloma. La competición valora la formación, la técnica, la precisión y la compenetración entre jinete y caballo. Para participar hay que superar el proceso de clasificación de la Real Federación Hípica Española.",
-    "La presentación oficial se hizo el miércoles 21 de octubre en el Salón de Plenos. Participaron el alcalde, Modesto González; Francisco Antonio Ortega, Tono, organizador de la prueba; la gerente general de la Federación Andaluza, Pilar Fernández, y el jinete local José Manuel Martín.",
-    "## Un parque con el nombre de Joaquín Olivera",
-    "Coincidiendo con el campeonato, el Ayuntamiento colocará el rótulo que incorpora al callejero el parque Joaquín Olivera Peña. «Es necesario apostar por esta disciplina y por el mundo ecuestre en general», señaló el alcalde, que destacó el arraigo del caballo en el municipio, tanto en la afición como en el tejido empresarial.",
-    "Según la nota municipal, el Ayuntamiento quiere seguir acogiendo pruebas como esta para dinamizar la actividad local y proyectar el nombre de Coria en el panorama nacional de la doma vaquera.",
-    "<span class='howto'>Dónde y cuándo: solar municipal de Pueblo Andaluz, entre el río Pudio y la Blanca Paloma, sábado 24 y domingo 25 de octubre. La programación empieza el sábado a primera hora. El acceso a la competición depende de la clasificación de la Real Federación Hípica Española.</span>"
-   ],
-   "seo": [
-    "campeonato-espana-caballos-jovenes-doma-vaquera-coria-del-rio",
-    "Campeonato de España de doma vaquera en Coria del Río",
-    "Coria del Río acoge el 24 y 25 de octubre el Campeonato de España de Caballos Jóvenes de doma vaquera, dedicado a Joaquín Olivera Peña.",
-    [
-     "doma vaquera",
-     "Coria del Río",
-     "Campeonato de España",
-     "caballos jóvenes",
-     "Joaquín Olivera Peña",
-     "Real Federación Hípica Española"
-    ]
-   ]
-  },
-  {
-   "id": "semana-cultura-japonesa-coria-2026",
-   "sec": "cultura",
-   "kicker": "Coria y Japón",
-   "iso": "2026-10-23",
-   "src": "El Coriano",
-   "fuente_url": "https://www.youtube.com/watch?v=q6KEbVSkGTc",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "Coria del Río inaugura la decimonovena Semana de la Cultura Japonesa",
-   "sub": "La edición incluye una exposición de poemas haiku y actividades abiertas a todos los públicos",
-   "caption": "Un momento de la inauguración de la XIX Semana de Cultura Japonesa en la sala Martínez de León.",
-   "foto": "semana-cultura-japonesa-coria-2026-tv.jpg",
-   "fotocredito": "Coriavisión",
-   "claves": [
-    "Coria del Río celebra la decimonovena Semana de la Cultura Japonesa, con inauguración oficial.",
-    "El programa incluye una exposición de poemas japoneses, los haikus, y actividades para todos los públicos.",
-    "El acto subraya el refuerzo de la relación entre Coria del Río y Japón."
-   ],
-   "body": [
-    "Coria del Río celebra la decimonovena edición de su Semana de la Cultura Japonesa. El Coriano ha seguido la inauguración oficial, que incluye una exposición de poemas japoneses, los haikus.",
-    "La organización quiere acercar la cultura japonesa a toda la ciudadanía, tanto a quienes la descubren como a quienes ya la conocen y quieren profundizar en ella. Por eso el programa de la semana combina actividades para todos los públicos.",
-    "En el acto se insistió en el refuerzo permanente de esta relación, que según se explicó va más allá del ámbito municipal y llega a la comarca y a la provincia, con participación de público de fuera de la localidad. El evento se ha convertido en una cita anual del calendario local.",
-    "Coria del Río es la localidad a la que llegó en 1614 la embajada de Hasekura Tsunenaga, y el vínculo con Japón sigue presente en su vida cultural."
-   ],
-   "seo": [
-    "semana-cultura-japonesa-coria-del-rio-2026",
-    "Semana de la Cultura Japonesa en Coria del Río 2026",
-    "Coria del Río inaugura la decimonovena Semana de la Cultura Japonesa, con una exposición de haikus y actividades abiertas a todos los públicos.",
-    [
-     "Coria del Río",
-     "cultura japonesa",
-     "haikus",
-     "Coria y Japón",
-     "Hasekura Tsunenaga",
-     "Semana de la Cultura Japonesa"
-    ]
-   ]
-  },
-  {
-   "id": "escuela-musica-agrupacion-san-lucas",
-   "sec": "cultura",
-   "kicker": "Escuela de música",
-   "iso": "2026-10-23",
-   "src": "El Coriano",
-   "fuente_url": "https://www.youtube.com/watch?v=RUN8tV_OkS8",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "La escuela de la Agrupación San Lucas de Coria forma a unos diez alumnos",
-   "sub": "La banda ofrece clases de viento metal y percusión a niños y adultos, sin necesidad de comprar el instrumento",
-   "caption": "El nuevo local de ensayo de la escuela de música de la Agrupación Musical San Lucas.",
-   "foto": "escuela-musica-agrupacion-san-lucas-tv.jpg",
-   "fotocredito": "Coriavisión",
-   "claves": [
-    "La escuela de la Agrupación San Lucas de Coria del Río tiene cerca de diez alumnos en sus clases.",
-    "La banda presta el instrumento y el traje a quien empieza, y las edades van desde los cinco hasta los cuarenta años.",
-    "Los ensayos son los lunes, miércoles y jueves, y se puede acudir a cualquier día de ensayo."
-   ],
-   "body": [
-    "La escuela de la Agrupación San Lucas, vinculada a la parroquia de Santa María de la Estrella, forma a los jóvenes y adultos que tocan en los actos de la localidad. Tiene cerca de diez alumnos, tanto principiantes como componentes de la banda que quieren mejorar su sonido.",
-    "El Coriano visitó la sede después de la Romería de San Lucas, en la que la agrupación acompañó al patrón. Por la escuela pasan personas de cinco a cuarenta años.",
-    "## Clases y niveles",
-    "Quienes empiezan de cero tienen una media hora de clase propia para aprender lo básico. Quienes ya tocan y quieren perfeccionarse se agrupan por nivel, hacen ejercicios conjuntos y tocan en grupos pequeños de dos o tres personas.",
-    "Los instrumentos que se enseñan son de viento metal y de percusión: cornetas, trompetas, bombardinos, trombones, tubas, tambor y bombo y plato. La banda proporciona el instrumento y el traje, por lo que no es necesario comprar nada para empezar.",
-    "<span class='howto'>Cómo apuntarse: pasar por la sede de la banda en cualquier día de ensayo o hablar con la directiva. Los miércoles hay personal en la sede toda la tarde. Los ensayos son los lunes, miércoles y jueves.</span>"
-   ],
-   "seo": [
-    "escuela-musica-agrupacion-san-lucas-coria",
-    "Escuela de música de la Agrupación San Lucas, en Coria",
-    "La escuela de la Agrupación San Lucas de Coria del Río forma a unos diez alumnos, con instrumentos y traje prestados por la banda.",
-    [
-     "Coria del Río",
-     "Agrupación San Lucas",
-     "escuela de música",
-     "banda de música",
-     "clases de viento",
-     "Coria del Río cultura"
     ]
    ]
   },
