@@ -28,8 +28,8 @@ window.EP = {
   },
   {
    "cuando": "26 nov, 18.00",
-   "que": "Pasacalles y encendido del alumbrado de Navidad",
-   "donde": "Puerta del Ayuntamiento",
+   "que": "Pasacalles, presentación de la programación (19.00) y encendido del alumbrado de Navidad (19.30)",
+   "donde": "Del Paseo Tierno Galván al Ayuntamiento",
    "noticia": "encendido-alumbrado-navidad-coria-2026",
    "hasta": "2026-11-26"
   },
@@ -73,9 +73,197 @@ window.EP = {
    "donde": "Casa hermandad del Cautivo",
    "noticia": "cautivo-iguala-ensayos-costaleros-2027",
    "hasta": "2027-01-08"
+  },
+  {
+   "cuando": "25 ene, 21.00",
+   "que": "Igualá de la cuadrilla de la Virgen del Dulce Nombre (Hermandad del Cautivo)",
+   "donde": "Casa hermandad del Cautivo",
+   "noticia": "cautivo-dulce-nombre-iguala-costaleros-2027",
+   "hasta": "2027-01-25"
   }
  ],
  "noticias": [
+  {
+   "id": "arbol-navidad-ganchillo-coria-2026",
+   "sec": "cultura",
+   "kicker": "Navidad 2026",
+   "iso": "2026-11-24",
+   "hora": "23:01",
+   "src": "El Coriano",
+   "fuente_url": "https://www.youtube.com/watch?v=-nh4YP8VCsg&t=0s",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Vecinas de Coria del Río tejen a ganchillo un árbol de Navidad de cinco metros para el Ayuntamiento",
+   "sub": "Colaboradoras de la Casa de Barrio y de la Asociación Victoria 10 preparan también un segundo árbol, de tres metros, y apuran el trabajo para el encendido del jueves 26",
+   "caption": "Gráfico con las medidas de los dos árboles de Navidad de ganchillo que preparan vecinas de Coria del Río.",
+   "foto": "arbol-navidad-ganchillo-coria-2026-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "Un grupo de vecinas de Coria del Río teje a ganchillo dos árboles de Navidad: uno de cinco metros para el Ayuntamiento y otro de tres para la Casa de Barrio.",
+    "Participan colaboradoras de la Casa de Barrio y de la Asociación Victoria 10; el proyecto arrancó en mayo.",
+    "El árbol del Ayuntamiento debe estar listo para el encendido del alumbrado, el jueves 26 de noviembre."
+   ],
+   "body": [
+    "Un grupo de vecinas de Coria del Río está terminando a contrarreloj un árbol de Navidad de ganchillo de cinco metros de altura que se colocará en el Ayuntamiento y se inaugurará con el encendido del alumbrado navideño, previsto para la tarde del jueves 26 de noviembre. El trabajo se reparte entre la Casa de Barrio y la Asociación Victoria 10.",
+    "No es el único. Las tejedoras preparan un segundo árbol, de tres metros, que quedará en la Casa de Barrio. La prioridad ahora es el del Ayuntamiento, explicaron a El Coriano, porque la estructura metálica sobre la que se monta llegó tarde y no pudieron empezar a coser las piezas sobre ella hasta esta misma semana.",
+    "## De una idea en mayo a la estructura",
+    "El proyecto empezó a fraguarse el pasado mes de mayo en la Asociación Victoria 10. Una de las colaboradoras de la Casa de Barrio recordó que entonces «era como un sueño» y que ahora se está «materializando» en la estructura que ya se levanta junto al edificio.",
+    "El árbol se forma con cientos de cuadrados de ganchillo, los llamados granny, que las participantes miden, clasifican por tamaño y cosen uno a uno. Para que todos queden iguales, Toñi, una de las tejedoras, utiliza una tabla de madera con cuatro varillas de hierro: coloca los cuadrados encima, los humedece con un pulverizador y los deja secar apilados hasta que quedan con la misma medida.",
+    "En el grupo hay tejedoras veteranas y otras que se han sumado hace pocas semanas. Algunas reconocían que les daba vergüenza acercarse al principio; otras, que llegan de otras aficiones y se han apuntado por gusto al ganchillo. Todas coinciden en que la labor «relaja» y en el ambiente de las tardes de costura.",
+    "El encendido del alumbrado será el punto de partida de la <a href='#encendido-alumbrado-navidad-coria-2026'>programación navideña del Ayuntamiento</a>, que se dará a conocer en el mismo acto.",
+    "<span class='howto'><b>Dónde verlo.</b> El árbol de cinco metros se inaugurará el jueves 26 de noviembre en el Ayuntamiento de Coria del Río (calle Cervantes, 69), dentro del acto de encendido del alumbrado: pasacalles a las 18.00, presentación de la programación a las 19.00 y encendido a las 19.30. El reportaje completo puede verse en el canal de YouTube de Coriavisión.</span>"
+   ],
+   "seo": [
+    "arbol-navidad-ganchillo-coria-del-rio-ayuntamiento",
+    "Árbol de Navidad de ganchillo de 5 metros en Coria del Río",
+    "Vecinas de Coria del Río tejen a ganchillo un árbol de Navidad de cinco metros para el Ayuntamiento, que se estrena con el alumbrado del 26 de noviembre.",
+    [
+     "Navidad",
+     "ganchillo",
+     "árbol de Navidad",
+     "Casa de Barrio",
+     "Asociación Victoria 10",
+     "Ayuntamiento de Coria del Río"
+    ]
+   ]
+  },
+  {
+   "id": "pp-psoe-campana-29n-mercadillo-coria",
+   "sec": "politica",
+   "kicker": "Elecciones 29N",
+   "iso": "2026-11-24",
+   "hora": "23:01",
+   "src": "El Coriano",
+   "fuente_url": "https://www.youtube.com/watch?v=l6r2ZQBnO-s&t=0s",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "PP y PSOE piden el voto en el mercadillo de Coria del Río a cinco días de las generales",
+   "sub": "Lourdes Fuster y Andrés Parrado, números 4 y 11 del PP al Congreso por Sevilla, defienden el «cambio»; los socialistas apelan a las pensiones y la vivienda",
+   "caption": "Gráfico sobre la recta final de la campaña de las elecciones generales del 29 de noviembre en Coria del Río.",
+   "foto": "campana-29n-mercadillo-coria-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El PP y el PSOE hicieron campaña este martes 24 de noviembre en el mercadillo de Coria del Río, a cinco días de las elecciones generales.",
+    "Por el PP acudieron Lourdes Fuster Martínez y Andrés Parrado, números 4 y 11 de su lista al Congreso por Sevilla.",
+    "El PSOE local pidió el voto con un mensaje centrado en las pensiones, los derechos sociales, la vivienda y la educación pública."
+   ],
+   "body": [
+    "El Partido Popular (PP) y el PSOE han llevado este martes 24 de noviembre la campaña de las elecciones generales al mercadillo de Coria del Río, donde ambos partidos han pedido el voto a cinco días de la cita con las urnas del domingo 29.",
+    "Por el PP estuvieron Lourdes Fuster Martínez, número 4 de su candidatura al Congreso de los Diputados por Sevilla, y Andrés Parrado, presidente y portavoz del partido en Coria y número 11 de la misma lista. En declaraciones a El Coriano, Fuster sostuvo que el domingo «nos jugamos nuestro país» y prometió, si su partido gobierna con Alberto Núñez Feijóo, «cambiar las mentiras por honradez» y «la propaganda por hechos».",
+    "## Los ejes del PP",
+    "Parrado resumió el programa de su partido en tres puntos: defender a las clases medias y a las familias trabajadoras ante la subida del coste de la vida, renovar las infraestructuras del país y, en sus palabras, derribar el «muro» que a su juicio ha levantado el Gobierno de Pedro Sánchez para tender «puentes de concordia». Entre las infraestructuras pendientes en Sevilla citó el puente del Centenario y el cierre de la SE-40.",
+    "El dirigente local afirmó que el PP fue el partido más votado en Coria en las dos últimas elecciones autonómicas y se marcó como objetivo serlo también, por primera vez, en unas generales en el municipio y en la provincia.",
+    "## El PSOE, en el mismo mercadillo",
+    "El PSOE de Coria del Río también ha estado en el mercadillo este martes, según ha publicado en su perfil de Facebook. Los socialistas aseguran que han recorrido el pueblo para dar a conocer su programa y que en las elecciones del domingo se juegan «seguir revalorizando las pensiones», conquistar derechos sociales y afrontar retos como la vivienda. El partido se presenta como garante de una educación pública, universal y gratuita y critica las propuestas de la «ultraderecha y sus socios».",
+    "Los resultados de las últimas convocatorias en Coria, sección a sección, pueden consultarse en el <a href='#coria-generales-secciones-2016-2023'>análisis de las generales de 2016 a 2023</a> que publicó este periódico.",
+    "<span class='howto'><b>Elecciones generales.</b> Domingo 29 de noviembre. Los colegios electorales abren de 9.00 a 20.00. Para votar hay que llevar DNI, pasaporte o permiso de conducir originales y en vigor. Las declaraciones del PP pueden verse completas en el canal de YouTube de Coriavisión.</span>"
+   ],
+   "seo": [
+    "campana-elecciones-29n-coria-del-rio-pp-psoe-mercadillo",
+    "Elecciones 29N: PP y PSOE, en el mercadillo de Coria",
+    "El PP y el PSOE pidieron el voto en el mercadillo de Coria del Río a cinco días de las elecciones generales del 29 de noviembre. Qué defendió cada partido.",
+    [
+     "elecciones generales",
+     "29N",
+     "PP",
+     "PSOE",
+     "Lourdes Fuster",
+     "Andrés Parrado",
+     "campaña electoral"
+    ]
+   ]
+  },
+  {
+   "id": "cautivo-dulce-nombre-iguala-costaleros-2027",
+   "sec": "hermandades",
+   "kicker": "Lunes Santo",
+   "iso": "2026-11-24",
+   "hora": "23:01",
+   "src": "Hermandad del Cautivo (Facebook)",
+   "fuente_url": "https://www.facebook.com/1602534325242911/posts/1611174821045528",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Los costaleros de la Virgen del Dulce Nombre, del Cautivo, tendrán su igualá el 25 de enero",
+   "sub": "El equipo de capataces de Héctor García Autor fija cuatro ensayos en febrero y marzo antes del Lunes Santo, que en 2027 cae el 22 de marzo",
+   "caption": "Calendario de la igualá y los ensayos de la cuadrilla de Nuestra Señora del Dulce Nombre de María.",
+   "foto": "cautivo-dulce-nombre-iguala-2027-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "La cuadrilla de costaleros de Nuestra Señora del Dulce Nombre de María, de la Hermandad del Cautivo de Coria del Río, tiene la igualá el lunes 25 de enero de 2027, a las 21.00, en la casa hermandad.",
+    "Los ensayos serán los lunes 8 y 22 de febrero y 8 y 15 de marzo, a las 21.00.",
+    "El equipo de capataces lo encabeza Héctor García Autor."
+   ],
+   "body": [
+    "La Hermandad de Nuestro Padre Jesús Cautivo de Coria del Río ha convocado a la cuadrilla de costaleros de Nuestra Señora del Dulce Nombre de María a la igualá, que será el lunes 25 de enero de 2027, a las 21.00, en la casa hermandad. Así lo ha publicado la corporación en su perfil de Facebook.",
+    "La convocatoria parte del equipo de capataces de la Virgen, que encabeza Héctor García Autor, y mira a la próxima salida procesional de la hermandad el Lunes Santo, que en 2027 se celebra el 22 de marzo.",
+    "## Cuatro ensayos, todos en lunes",
+    "Tras la igualá, en la que los capataces miden a los costaleros y les asignan su sitio bajo las trabajaderas, la cuadrilla tiene previstos cuatro ensayos: los lunes 8 y 22 de febrero y los lunes 8 y 15 de marzo. Todas las citas son a las 21.00. El último ensayo queda a una semana justa del Lunes Santo.",
+    "El calendario de la Virgen se suma al que la hermandad ya había anunciado para el paso de su titular: los costaleros del Cautivo tienen <a href='#cautivo-iguala-ensayos-costaleros-2027'>su igualá el viernes 8 de enero</a> y tres ensayos en sábado, el 16 de enero, el 6 de febrero y el 13 de marzo. Así, las dos cuadrillas de la corporación ensayarán en días distintos de la semana.",
+    "La hermandad no ha detallado en su publicación el punto de salida ni el recorrido de los ensayos.",
+    "<span class='howto'><b>Calendario de la cuadrilla del Dulce Nombre.</b> Igualá: lunes 25 de enero de 2027, 21.00, casa hermandad. Ensayos: lunes 8 y 22 de febrero y lunes 8 y 15 de marzo de 2027, a las 21.00. Lunes Santo: 22 de marzo de 2027.</span>"
+   ],
+   "seo": [
+    "dulce-nombre-cautivo-coria-iguala-ensayos-costaleros",
+    "Dulce Nombre del Cautivo: igualá el 25 de enero en Coria",
+    "Los costaleros del Dulce Nombre, de la Hermandad del Cautivo de Coria del Río, tienen igualá el 25 de enero y cuatro ensayos antes del Lunes Santo.",
+    [
+     "Hermandad del Cautivo",
+     "Dulce Nombre de María",
+     "costaleros",
+     "igualá",
+     "Lunes Santo",
+     "Semana Santa 2027"
+    ]
+   ]
+  },
+  {
+   "id": "coria-cf-montalbeno-santaella-29n",
+   "sec": "deportes",
+   "kicker": "Coria CF",
+   "iso": "2026-11-24",
+   "hora": "23:01",
+   "src": "Coria CF (Facebook)",
+   "fuente_url": "https://www.facebook.com/2069782470890433/posts/2080136159855064",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Coria CF jugará ante el Montalbeño el domingo 29 a las 17.00 en Santaella",
+   "sub": "El equipo coriano, con 19 puntos tras el 0-0 ante La Palma, disputa la jornada 13 de División de Honor Sénior el mismo día de las elecciones generales",
+   "caption": "Gráfico con la fecha, la hora y el lugar del partido entre el Montalbeño y el Coria CF.",
+   "foto": "coria-cf-montalbeno-santaella-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El Coria CF visitará al Montalbeño el domingo 29 de noviembre, a las 17.00, en la División de Honor Sénior.",
+    "El partido se jugará en el campo municipal Virgen del Valle de Santaella (Córdoba), según el club.",
+    "El Coria suma 19 puntos tras empatar 0-0 con La Palma CF en la jornada 12."
+   ],
+   "body": [
+    "El Coria CF jugará su próximo partido de la División de Honor Sénior en el campo del Montalbeño el domingo 29 de noviembre, a las 17.00, según ha anunciado el club coriano en su perfil de Facebook. El encuentro se disputará en el campo municipal Virgen del Valle de Santaella, en la provincia de Córdoba.",
+    "Hasta ahora el club solo había avanzado que el equipo visitaría Montalbán en esta jornada, sin día ni hora. El cartel publicado este martes concreta la cita y sitúa el partido en Santaella, localidad vecina de Montalbán de Córdoba. El club no explica en su publicación el motivo de jugar en ese campo.",
+    "## Tras el empate con La Palma",
+    "El equipo ribereño llega al partido con 19 puntos, después de <a href='#coria-cf-empata-la-palma'>empatar 0-0 con La Palma CF</a> el domingo 22 en el Estadio Guadalquivir, en un duelo de la zona alta de la tabla. Antes había ganado 0-2 en La Rinconada. La jornada coincide con el día de las elecciones generales, que se celebran ese mismo domingo.",
+    "El Coria CF ha publicado también esta semana los resultados de su cantera del fin de semana del 20 al 22 de noviembre y ha enviado ánimos a un jugador de su equipo juvenil que se lesionó en el último partido.",
+    "## La cantera del CB Coria, sin freno",
+    "En baloncesto, el Club Baloncesto Coria ha celebrado en Facebook una nueva victoria de uno de sus equipos en el pabellón municipal, la cuarta de la temporada para ese conjunto, aunque no ha detallado rival ni marcador. El club ha destacado además los partidos de sus equipos premini masculino y babys durante el fin de semana. La semana pasada, su infantil masculino XL <a href='#cb-coria-cantera-cierre-primera-fase'>cerró la primera fase con cinco victorias en cinco partidos</a>.",
+    "<span class='howto'><b>Próximo partido.</b> Montalbeño - Coria CF. División de Honor Sénior, jornada 13. Domingo 29 de noviembre, 17.00. Campo municipal Virgen del Valle, Santaella (Córdoba).</span>"
+   ],
+   "seo": [
+    "coria-cf-montalbeno-santaella-division-honor-jornada-13",
+    "Coria CF visita al Montalbeño el domingo 29 en Santaella",
+    "El Coria CF juega ante el Montalbeño el domingo 29 de noviembre a las 17.00 en Santaella, en la jornada 13 de División de Honor Sénior, con 19 puntos.",
+    [
+     "Coria CF",
+     "Montalbeño",
+     "División de Honor Sénior",
+     "Santaella",
+     "fútbol",
+     "Club Baloncesto Coria"
+    ]
+   ]
+  },
   {
    "id": "encendido-alumbrado-navidad-coria-2026",
    "sec": "cultura",
@@ -83,33 +271,33 @@ window.EP = {
    "iso": "2026-11-24",
    "hora": "08:03",
    "src": "Ayuntamiento de Coria del Río (Facebook)",
-   "fuente_url": "https://www.facebook.com/reel/2127779667848496/",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1464904202438912",
    "firma": "Redacción El Coriano",
    "elaboracion": "ia",
    "title": "Coria del Río encenderá el alumbrado de Navidad el jueves 26 de noviembre tras un pasacalles",
-   "sub": "El Ayuntamiento presentará en el mismo acto, ante la Casa Consistorial, la programación navideña del municipio",
+   "sub": "El pasacalles saldrá a las 18.00 del Paseo Tierno Galván y el Ayuntamiento presentará a las 19.00 la programación, que irá hasta el 5 de enero",
    "caption": "Cartela con la fecha y la hora del encendido del alumbrado navideño de Coria del Río.",
    "foto": "encendido-alumbrado-navidad-coria-2026-gfx.jpg",
    "fotocredito": "Gráfico El Coriano",
    "encuadre": "contain",
    "claves": [
-    "El alumbrado navideño de Coria del Río se encenderá el jueves 26 de noviembre en la puerta del Ayuntamiento.",
-    "Los actos empezarán a las 18.00 con un pasacalles.",
-    "El Ayuntamiento detallará en ese acto la programación de Navidad del municipio."
+    "El alumbrado navideño de Coria del Río se encenderá el jueves 26 de noviembre a las 19.30 en la puerta del Ayuntamiento.",
+    "Antes, a las 18.00, saldrá un pasacalles desde el Paseo Tierno Galván, y a las 19.00 se presentará la programación.",
+    "La Navidad municipal irá del 26 de noviembre al 5 de enero."
    ],
    "body": [
-    "El Ayuntamiento de Coria del Río encenderá el alumbrado de Navidad el jueves 26 de noviembre en la puerta de la Casa Consistorial, después de un pasacalles que comenzará a las 18.00, según ha anunciado en su perfil de Facebook la noche del lunes 23.",
-    "La institución municipal presenta el encendido como el inicio de las fiestas navideñas en el municipio. En el mismo acto, frente al Ayuntamiento, en la calle Cervantes, dará a conocer la programación prevista para las próximas semanas, de la que por ahora no ha avanzado actividades, horarios ni lugares. El Consistorio ha acompañado el anuncio de la etiqueta #Navidadcoriana2026.",
+    "El Ayuntamiento de Coria del Río encenderá el alumbrado de Navidad el jueves 26 de noviembre, a las 19.30, en la puerta de la Casa Consistorial, después de un pasacalles que saldrá a las 18.00 del Paseo Tierno Galván, junto al Centro de Salud Blas Infante. Así lo ha detallado el Consistorio en su perfil de Facebook este martes 24, tras un primer avance la noche del lunes 23.",
+    "A las 19.00, antes del encendido, el Ayuntamiento presentará la programación de Navidad, que irá del 26 de noviembre al 5 de enero y de la que por ahora no ha avanzado actividades, horarios ni lugares. En el acto se inaugurará también el <a href='#arbol-navidad-ganchillo-coria-2026'>árbol de ganchillo de cinco metros</a> que tejen vecinas del municipio. El Consistorio acompaña sus anuncios de la etiqueta #Navidadcoriana2026.",
     "## Una semana con varias citas",
     "El encendido llega en una semana con otras convocatorias en la calle. El miércoles 25, a las 10.00, está prevista la marcha contra la violencia de género que organiza el Ayuntamiento con motivo del 25N, desde la plaza Santa Ángela de la Cruz hasta la Casa Consistorial, dentro de <a href='#25n-campana-ayuntamiento-2026'>la programación municipal por el Día Internacional para la Eliminación de la Violencia contra la Mujer</a>. El domingo 29 se celebran elecciones generales, con los colegios electorales abiertos en todo el municipio.",
     "La Navidad ha tenido ya presencia coriana fuera del pueblo: la cantante <a href='#pastora-soler-encendido-navidad-madrid'>Pastora Soler interpretó «Quédate conmigo» en el encendido de las luces de Madrid</a> el sábado 21 de noviembre.",
-    "Según la previsión de la Agencia Estatal de Meteorología (AEMET) para Coria del Río, el jueves 26 habrá intervalos nubosos, con una máxima de 18 grados, una mínima de 6 y un 15 % de probabilidad de lluvia.",
-    "<span class='howto'>Encendido del alumbrado navideño de Coria del Río. Cuándo: jueves 26 de noviembre; el pasacalles empieza a las 18.00 y después se encenderán las luces. Dónde: puerta del Ayuntamiento, calle Cervantes, 69. En el acto se presentará la programación de Navidad. Acceso libre.</span>"
+    "Según la última previsión de la Agencia Estatal de Meteorología (AEMET) para Coria del Río, el jueves 26 estará poco nuboso, con una máxima de 18 grados, una mínima de 7 y sin probabilidad de lluvia.",
+    "<span class='howto'>Encendido del alumbrado navideño de Coria del Río. Cuándo: jueves 26 de noviembre. Pasacalles: 18.00, desde el Paseo Tierno Galván (junto al Centro de Salud Blas Infante). Presentación de la programación: 19.00. Encendido: 19.30. Dónde: puerta del Ayuntamiento, calle Cervantes, 69. La programación navideña se extenderá hasta el 5 de enero. Acceso libre.</span>"
    ],
    "seo": [
     "encendido-alumbrado-navidad-coria-del-rio-2026",
-    "Alumbrado de Navidad en Coria del Río: jueves 26 a las 18.00",
-    "Coria del Río encenderá su alumbrado navideño el jueves 26 de noviembre tras un pasacalles a las 18.00 ante el Ayuntamiento, donde dará su programa.",
+    "Alumbrado de Navidad en Coria del Río: jueves 26, 19.30",
+    "Coria del Río encenderá su alumbrado navideño el jueves 26 de noviembre a las 19.30, tras un pasacalles a las 18.00; la Navidad irá hasta el 5 de enero.",
     [
      "Navidad",
      "alumbrado navideño",
@@ -117,7 +305,8 @@ window.EP = {
      "pasacalles",
      "Navidad coriana 2026"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-24T23:01"
   },
   {
    "id": "nombramiento-asesora-gabinete-alcaldia-bop",
@@ -147,7 +336,7 @@ window.EP = {
     "## Una de siete plazas",
     "El nombramiento ocupa una de las siete plazas de personal eventual de asesores de gabinete que creó el Pleno municipal en la sesión del 29 de junio de 2023, al modificar la relación de puestos de trabajo, en el área de Alcaldía, y la plantilla. Todas son a jornada completa y tienen la misma retribución, según el texto de la resolución.",
     "El personal eventual es la figura que la Ley Reguladora de las Bases del Régimen Local, en su artículo 104, reserva a los puestos de confianza o asesoramiento especial. No se cubre por oposición: lo nombra y lo cesa libremente el alcalde, y su cese es automático cuando termina el mandato de la autoridad a la que asesora. La resolución fija un plazo de diez días desde la notificación para la toma de posesión y ordena dar cuenta al Pleno en su primera sesión ordinaria.",
-    "El mismo número del BOP incluye un segundo anuncio del Ayuntamiento de Coria del Río, titulado «Cese de personal eventual con funciones de confianza o asesoramiento especial».",
+    "El mismo número del BOP publica el cese de otra asesora de Gabinete de Alcaldía, María Teresa Estévez Franco, por la resolución 3886/2026, de 11 de noviembre, firmada por la teniente de alcalde delegada de Recursos Humanos, Régimen Interior y Limpieza, Silvia Gracia Galán. El cese tiene efectos desde ese mismo 11 de noviembre y el anuncio no indica el motivo. Días después, Teresa Estévez juró su cargo de concejala del Ayuntamiento.",
     "<span class='howto'>Dónde consultarlo: BOP de Sevilla número 227, del martes 24 de noviembre de 2026, sección de Ayuntamientos, Coria del Río. El anuncio del nombramiento está en bopsevilla.dipusevilla.es. La resolución se dará a conocer al Pleno en su próxima sesión ordinaria.</span>"
    ],
    "seo": [
@@ -162,7 +351,8 @@ window.EP = {
      "BOP de Sevilla",
      "plantilla municipal"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-24T23:01"
   },
   {
    "id": "semillas-igualdad-exposicion-huerta-rita",
