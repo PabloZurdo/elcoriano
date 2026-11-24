@@ -1,17 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-23",
+  "actualizado": "2026-11-24",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "23 nov, 20.30",
-   "que": "CB Coria - CB Los Palacios (sénior masculino)",
-   "donde": "Pabellón municipal de Coria",
-   "noticia": "cb-coria-n1-masculino-gana-huelva",
-   "hasta": "2026-11-23"
-  },
   {
    "cuando": "24 nov, 16.30",
    "que": "Jornada formativa de las Patrullas Verdes",
@@ -32,6 +25,13 @@ window.EP = {
    "donde": "De la Plaza Santa Ángela de la Cruz al Ayuntamiento",
    "noticia": "25n-campana-ayuntamiento-2026",
    "hasta": "2026-11-25"
+  },
+  {
+   "cuando": "26 nov, 18.00",
+   "que": "Pasacalles y encendido del alumbrado de Navidad",
+   "donde": "Puerta del Ayuntamiento",
+   "noticia": "encendido-alumbrado-navidad-coria-2026",
+   "hasta": "2026-11-26"
   },
   {
    "cuando": "29 nov",
@@ -76,6 +76,94 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "encendido-alumbrado-navidad-coria-2026",
+   "sec": "cultura",
+   "kicker": "Navidad 2026",
+   "iso": "2026-11-24",
+   "hora": "08:03",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/reel/2127779667848496/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río encenderá el alumbrado de Navidad el jueves 26 de noviembre tras un pasacalles",
+   "sub": "El Ayuntamiento presentará en el mismo acto, ante la Casa Consistorial, la programación navideña del municipio",
+   "caption": "Cartela con la fecha y la hora del encendido del alumbrado navideño de Coria del Río.",
+   "foto": "encendido-alumbrado-navidad-coria-2026-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El alumbrado navideño de Coria del Río se encenderá el jueves 26 de noviembre en la puerta del Ayuntamiento.",
+    "Los actos empezarán a las 18.00 con un pasacalles.",
+    "El Ayuntamiento detallará en ese acto la programación de Navidad del municipio."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río encenderá el alumbrado de Navidad el jueves 26 de noviembre en la puerta de la Casa Consistorial, después de un pasacalles que comenzará a las 18.00, según ha anunciado en su perfil de Facebook la noche del lunes 23.",
+    "La institución municipal presenta el encendido como el inicio de las fiestas navideñas en el municipio. En el mismo acto, frente al Ayuntamiento, en la calle Cervantes, dará a conocer la programación prevista para las próximas semanas, de la que por ahora no ha avanzado actividades, horarios ni lugares. El Consistorio ha acompañado el anuncio de la etiqueta #Navidadcoriana2026.",
+    "## Una semana con varias citas",
+    "El encendido llega en una semana con otras convocatorias en la calle. El miércoles 25, a las 10.00, está prevista la marcha contra la violencia de género que organiza el Ayuntamiento con motivo del 25N, desde la plaza Santa Ángela de la Cruz hasta la Casa Consistorial, dentro de <a href='#25n-campana-ayuntamiento-2026'>la programación municipal por el Día Internacional para la Eliminación de la Violencia contra la Mujer</a>. El domingo 29 se celebran elecciones generales, con los colegios electorales abiertos en todo el municipio.",
+    "La Navidad ha tenido ya presencia coriana fuera del pueblo: la cantante <a href='#pastora-soler-encendido-navidad-madrid'>Pastora Soler interpretó «Quédate conmigo» en el encendido de las luces de Madrid</a> el sábado 21 de noviembre.",
+    "Según la previsión de la Agencia Estatal de Meteorología (AEMET) para Coria del Río, el jueves 26 habrá intervalos nubosos, con una máxima de 18 grados, una mínima de 6 y un 15 % de probabilidad de lluvia.",
+    "<span class='howto'>Encendido del alumbrado navideño de Coria del Río. Cuándo: jueves 26 de noviembre; el pasacalles empieza a las 18.00 y después se encenderán las luces. Dónde: puerta del Ayuntamiento, calle Cervantes, 69. En el acto se presentará la programación de Navidad. Acceso libre.</span>"
+   ],
+   "seo": [
+    "encendido-alumbrado-navidad-coria-del-rio-2026",
+    "Alumbrado de Navidad en Coria del Río: jueves 26 a las 18.00",
+    "Coria del Río encenderá su alumbrado navideño el jueves 26 de noviembre tras un pasacalles a las 18.00 ante el Ayuntamiento, donde dará su programa.",
+    [
+     "Navidad",
+     "alumbrado navideño",
+     "Ayuntamiento de Coria del Río",
+     "pasacalles",
+     "Navidad coriana 2026"
+    ]
+   ]
+  },
+  {
+   "id": "nombramiento-asesora-gabinete-alcaldia-bop",
+   "sec": "politica",
+   "kicker": "Personal eventual",
+   "iso": "2026-11-24",
+   "hora": "08:03",
+   "src": "BOP de Sevilla",
+   "fuente_url": "https://bopsevilla.dipusevilla.es/export/sites/bop/.galleries/Documentos-Anuncios-en-PDF/firmado-1795478431537-final-39611915.pdf",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El alcalde de Coria del Río nombra a una asesora de gabinete con un sueldo de 30.750 euros brutos al año",
+   "sub": "El BOP publica la resolución del 18 de noviembre que nombra personal eventual a Alejandra Blázquez González, en una de las siete plazas que creó el Pleno en 2023",
+   "caption": "Retribución anual bruta del puesto de asesor de gabinete, según la resolución publicada en el BOP de Sevilla.",
+   "foto": "nombramiento-asesora-gabinete-alcaldia-bop-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "El alcalde, Modesto González Márquez, nombró el 18 de noviembre a Alejandra Blázquez González asesora de gabinete, como personal eventual.",
+    "El puesto tiene una retribución bruta de 30.750,02 euros al año en 14 pagas.",
+    "La plaza es una de las siete de asesor de gabinete que creó el Pleno el 29 de junio de 2023.",
+    "El cargo es de libre designación y cesa, como máximo, cuando termine el mandato del alcalde."
+   ],
+   "body": [
+    "El alcalde de Coria del Río, Modesto González Márquez, ha nombrado a Alejandra Blázquez González asesora de gabinete del Ayuntamiento, como personal eventual de confianza, con una retribución bruta de 30.750,02 euros al año, según la resolución que publica este martes 24 de noviembre el Boletín Oficial de la Provincia (BOP) de Sevilla.",
+    "La resolución, con el número 3952/2026, está fechada el 18 de noviembre y firmada por el alcalde. El sueldo se reparte en 14 mensualidades, con pagas dobles en junio y diciembre, y el texto prevé que se le apliquen las subidas salariales que fijen el Real Decreto 14/2025, de 2 de diciembre, y las normas posteriores.",
+    "## Una de siete plazas",
+    "El nombramiento ocupa una de las siete plazas de personal eventual de asesores de gabinete que creó el Pleno municipal en la sesión del 29 de junio de 2023, al modificar la relación de puestos de trabajo, en el área de Alcaldía, y la plantilla. Todas son a jornada completa y tienen la misma retribución, según el texto de la resolución.",
+    "El personal eventual es la figura que la Ley Reguladora de las Bases del Régimen Local, en su artículo 104, reserva a los puestos de confianza o asesoramiento especial. No se cubre por oposición: lo nombra y lo cesa libremente el alcalde, y su cese es automático cuando termina el mandato de la autoridad a la que asesora. La resolución fija un plazo de diez días desde la notificación para la toma de posesión y ordena dar cuenta al Pleno en su primera sesión ordinaria.",
+    "El mismo número del BOP incluye un segundo anuncio del Ayuntamiento de Coria del Río, titulado «Cese de personal eventual con funciones de confianza o asesoramiento especial».",
+    "<span class='howto'>Dónde consultarlo: BOP de Sevilla número 227, del martes 24 de noviembre de 2026, sección de Ayuntamientos, Coria del Río. El anuncio del nombramiento está en bopsevilla.dipusevilla.es. La resolución se dará a conocer al Pleno en su próxima sesión ordinaria.</span>"
+   ],
+   "seo": [
+    "nombramiento-asesora-gabinete-ayuntamiento-coria",
+    "Coria del Río nombra una asesora de gabinete en el BOP",
+    "El alcalde de Coria del Río nombra a Alejandra Blázquez asesora de gabinete, con 30.750 euros brutos al año, según publica el BOP de Sevilla.",
+    [
+     "Ayuntamiento de Coria del Río",
+     "personal eventual",
+     "asesores de gabinete",
+     "Modesto González Márquez",
+     "BOP de Sevilla",
+     "plantilla municipal"
+    ]
+   ]
+  },
   {
    "id": "semillas-igualdad-exposicion-huerta-rita",
    "sec": "cultura",
