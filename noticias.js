@@ -33,18 +33,18 @@ window.EP = {
    "hasta": "2026-11-29"
   },
   {
-   "cuando": "Hasta el 3 dic",
-   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
-   "donde": "Registro del Ayuntamiento o sede electrónica",
-   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
-   "hasta": "2026-12-03"
+   "cuando": "29 nov, 10.30",
+   "que": "Igualá de costaleros del Niño Jesús (Hermandad de la Soledad)",
+   "donde": "Plaza de Nuestra Señora de la Soledad",
+   "noticia": "soledad-nino-jesus-iguala-costaleros-2027",
+   "hasta": "2026-11-29"
   },
   {
-   "cuando": "Hasta el 9 dic",
-   "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
-   "donde": "Ayuntamiento de Coria del Río",
-   "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
-   "hasta": "2026-12-09"
+   "cuando": "2 dic, 18.30",
+   "que": "Presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río» y exposición",
+   "donde": "Biblioteca Pública Municipal Maestro Antonio Pineda",
+   "noticia": "libro-carpinteria-ribera-cultura-fluvial-coria",
+   "hasta": "2026-12-02"
   },
   {
    "cuando": "11 dic, 21.00",
@@ -52,13 +52,6 @@ window.EP = {
    "donde": "Casa hermandad de San José, calle Pepe Hillo, 8",
    "noticia": "gran-poder-toma-posesion-junta-san-jose-igualas",
    "hasta": "2026-12-11"
-  },
-  {
-   "cuando": "Hasta el 20 dic",
-   "que": "Reserva del boletín cuaresmal de San José",
-   "donde": "secretario@sanjosecoria.org",
-   "noticia": "san-jose-nuevo-capataz-piedad",
-   "hasta": "2026-12-20"
   },
   {
    "cuando": "27 dic",
@@ -80,9 +73,208 @@ window.EP = {
    "donde": "Casa hermandad del Cautivo",
    "noticia": "cautivo-dulce-nombre-iguala-costaleros-2027",
    "hasta": "2027-01-25"
+  },
+  {
+   "cuando": "Hasta el 3 dic",
+   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
+   "donde": "Registro del Ayuntamiento o sede electrónica",
+   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
+   "hasta": "2026-12-03"
+  },
+  {
+   "cuando": "Hasta el 9 dic",
+   "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
+   "donde": "Ayuntamiento de Coria del Río",
+   "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
+   "hasta": "2026-12-09"
+  },
+  {
+   "cuando": "Hasta el 20 dic",
+   "que": "Reserva del boletín cuaresmal de San José",
+   "donde": "secretario@sanjosecoria.org",
+   "noticia": "san-jose-nuevo-capataz-piedad",
+   "hasta": "2026-12-20"
   }
  ],
  "noticias": [
+  {
+   "id": "marcha-25n-coria-2026-manifiesto",
+   "sec": "coria",
+   "kicker": "25N",
+   "iso": "2026-11-25",
+   "hora": "23:01",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1465878825674783",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Colectivos y alumnos de todos los colegios e institutos de Coria del Río marchan contra la violencia de género el 25N",
+   "sub": "La concejala de Igualdad, Almudena Bizcocho, leyó a las puertas del Ayuntamiento el manifiesto aprobado por el Pleno, y el acto terminó con un minuto de silencio",
+   "caption": "Escolares con pancartas en la marcha del 25N por las calles de Coria del Río.",
+   "foto": "marcha-25n-coria-2026-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "claves": [
+    "Coria del Río celebró el miércoles 25 de noviembre su marcha por el Día Internacional para la Eliminación de la Violencia contra las Mujeres, con colectivos y alumnos de todos los centros educativos.",
+    "La concejala de Igualdad, Almudena Bizcocho, leyó a las puertas del Ayuntamiento el manifiesto aprobado por el Pleno municipal.",
+    "En el acto se dieron a conocer los ganadores del concurso de dibujo infantil y se proyectó el spot municipal de la campaña 25N 2026.",
+    "El alcalde, Modesto González, cerró las intervenciones antes de un minuto de silencio por las mujeres víctimas de la violencia machista."
+   ],
+   "body": [
+    "Coria del Río ha salido a la calle este miércoles 25 de noviembre, Día Internacional para la Eliminación de la Violencia contra las Mujeres, en una marcha que ha reunido a numerosos colectivos del municipio y a alumnos de todos sus centros educativos, según ha publicado el Ayuntamiento en su perfil de Facebook. El recorrido terminó a las puertas de la Casa Consistorial.",
+    "Allí, la concejala de Igualdad, Almudena Bizcocho, leyó el manifiesto institucional aprobado por el Pleno municipal. El acto incluyó también la entrega de los premios del concurso de dibujo infantil convocado con motivo de la fecha, la proyección del spot de la campaña 25N 2026 y la lectura de una poesía a cargo del Centro de Participación Activa.",
+    "El alcalde, Modesto González, cerró las intervenciones institucionales. Después se guardó un minuto de silencio en recuerdo de las mujeres asesinadas por la violencia machista.",
+    "## Un vídeo sobre el aislamiento",
+    "El Ayuntamiento ha difundido por la tarde el spot que ha producido para esta campaña. El vídeo cuenta la historia de un grupo de amigas que se reúne cada viernes para desayunar y de cómo una de ellas deja de acudir poco a poco a esos encuentros por la influencia de su pareja.",
+    "Con esa situación cotidiana, el Consistorio quiere llamar la atención sobre las formas de violencia que no empiezan con una agresión física, como el control, los celos, el aislamiento y la pérdida progresiva de libertad, y pide a los vecinos que acompañen, escuchen y apoyen a quien pueda estar viviendo una situación así.",
+    "La marcha era la cita central de la <a href='#25n-campana-ayuntamiento-2026'>campaña municipal «Coria del Río mira de frente a la violencia de género»</a>, presentada el 17 de noviembre, que el Centro Municipal de Información a la Mujer completa con charlas, talleres y exposiciones hasta diciembre. Entre ellas está la muestra <a href='#semillas-igualdad-exposicion-huerta-rita'>«Semillas de Igualdad»</a>, abierta en Huerta Rita.",
+    "Los partidos también se sumaron a la jornada en sus redes. El PSOE de Coria del Río publicó por la mañana un mensaje en el que se compromete a seguir trabajando por un municipio «más seguro, justo y con más recursos» para proteger a las víctimas.",
+    "<span class='howto'><b>Ayuda y atención.</b> Teléfono 016, gratuito y disponible las 24 horas; no deja rastro en la factura. También por WhatsApp en el 600 000 016 y por correo electrónico en 016-online@igualdad.gob.es. Teléfono del Instituto Andaluz de la Mujer: 900 200 999. En una emergencia, 112. En Coria del Río atiende el Centro Municipal de Información a la Mujer.</span>"
+   ],
+   "seo": [
+    "marcha-25n-coria-del-rio-2026-manifiesto",
+    "Marcha del 25N en Coria del Río con todos los colegios",
+    "Coria del Río marchó el 25N con colectivos y alumnos de todos sus centros; la concejala Almudena Bizcocho leyó el manifiesto del Pleno en el Ayuntamiento.",
+    [
+     "25N",
+     "violencia de género",
+     "Ayuntamiento de Coria del Río",
+     "Almudena Bizcocho",
+     "Centro Municipal de Información a la Mujer",
+     "igualdad"
+    ]
+   ]
+  },
+  {
+   "id": "libro-carpinteria-ribera-cultura-fluvial-coria",
+   "sec": "rio",
+   "kicker": "Carpintería de ribera",
+   "iso": "2026-11-25",
+   "hora": "23:01",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1466280142301318",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río presenta el 2 de diciembre un libro sobre la carpintería de ribera y su cultura fluvial",
+   "sub": "El acto, en la Biblioteca Municipal Maestro Antonio Pineda, incluye un audiovisual con testimonios y la apertura de una exposición en la Sala Martínez de León",
+   "caption": "Cartel de la presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río».",
+   "foto": "libro-carpinteria-ribera-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "encuadre": "contain",
+   "claves": [
+    "El libro «La carpintería de ribera y la cultura fluvial en Coria del Río» se presenta el miércoles 2 de diciembre a las 18.30.",
+    "La cita es en la planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda.",
+    "El acto incluye un audiovisual con testimonios de protagonistas del oficio y la inauguración de una exposición en la Sala Martínez de León.",
+    "El Ayuntamiento lo plantea como un homenaje a las familias que se dedicaron a la carpintería de ribera."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río presentará el miércoles 2 de diciembre, a las 18.30, el libro «La carpintería de ribera y la cultura fluvial en Coria del Río», según ha anunciado en su perfil de Facebook. La presentación será en la planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda.",
+    "La carpintería de ribera es el oficio de construir y reparar a mano embarcaciones de madera en la orilla del agua. El Consistorio plantea la publicación como un homenaje a las familias corianas que hicieron de ese trabajo su forma de vida y transmitieron sus conocimientos de generación en generación, y lo sitúa dentro del patrimonio cultural ligado al Guadalquivir.",
+    "## Audiovisual y exposición",
+    "La jornada no se limitará al libro. Según el programa municipal, se proyectará un audiovisual con testimonios de protagonistas de esa historia y se inaugurará una exposición en la Sala de Exposiciones Andrés Martínez de León, el espacio municipal que acoge habitualmente las muestras de arte del pueblo.",
+    "El cartel del acto incluye los logotipos del Ministerio de Cultura del Gobierno de España y del Ayuntamiento de Coria del Río. El anuncio municipal no detalla quién firma el libro, cómo se ha financiado la edición ni hasta qué fecha podrá visitarse la exposición.",
+    "El río marca buena parte de la vida del municipio: de la barca que lo cruza a la pesca, y a las actividades que lo usan como aula, como la <a href='#ies-rodrigo-caro-plogging-ribera-guadalquivir'>recogida de basura que hicieron en la ribera los alumnos del IES Rodrigo Caro</a> la semana pasada. El Ayuntamiento acompaña el anuncio con un llamamiento a conocer, reconocer y preservar esta parte de la memoria colectiva.",
+    "<span class='howto'><b>Presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río».</b> Miércoles 2 de diciembre, 18.30. Planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda. Incluye la proyección de un audiovisual y la inauguración de una exposición en la Sala de Exposiciones Andrés Martínez de León.</span>"
+   ],
+   "seo": [
+    "libro-carpinteria-ribera-cultura-fluvial-coria-del-rio",
+    "Carpintería de ribera: libro en Coria del Río el 2 de dic.",
+    "Coria del Río presenta el 2 de diciembre, a las 18.30, un libro sobre la carpintería de ribera, con audiovisual y exposición en la Sala Martínez de León.",
+    [
+     "carpintería de ribera",
+     "cultura fluvial",
+     "Guadalquivir",
+     "Biblioteca Maestro Antonio Pineda",
+     "Sala Andrés Martínez de León",
+     "patrimonio"
+    ]
+   ]
+  },
+  {
+   "id": "soledad-nino-jesus-iguala-costaleros-2027",
+   "sec": "hermandades",
+   "kicker": "Niño Jesús",
+   "iso": "2026-11-25",
+   "hora": "23:01",
+   "src": "Hermandad de la Soledad (Facebook)",
+   "fuente_url": "https://www.facebook.com/1568403328657029/posts/1578206704343358",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Soledad convoca el domingo 29 la igualá de los costaleros del Niño Jesús para la procesión del 2 de enero",
+   "sub": "La cuadrilla y los aspirantes nuevos están citados a las 10.30 en la plaza de la Soledad; la Borriquita recuerda los trece años de su hermanamiento con el Rocío",
+   "caption": "Cartel de la igualá de costaleros del Niño Jesús de la Hermandad de la Soledad.",
+   "foto": "soledad-nino-jesus-iguala-cartel-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Soledad",
+   "encuadre": "contain",
+   "claves": [
+    "La Hermandad de la Soledad de Coria del Río cita a los costaleros del Niño Jesús y a los nuevos aspirantes el domingo 29 de noviembre a las 10.30.",
+    "La igualá y el primer ensayo serán en la plaza de Nuestra Señora de la Soledad, y la hermandad pide acudir con calzado de salida.",
+    "El Niño Jesús saldrá en procesión el 2 de enero de 2027, víspera de la festividad del Dulce Nombre de Jesús."
+   ],
+   "body": [
+    "La Hermandad de la Soledad de Coria del Río ha convocado a la cuadrilla de costaleros del Niño Jesús y a los nuevos aspirantes a la igualá y el primer ensayo, que se celebrarán el domingo 29 de noviembre a las 10.30 en la plaza de Nuestra Señora de la Soledad, según ha publicado en su perfil de Facebook.",
+    "La cita prepara la procesión que el Niño Jesús hace cada 2 de enero por las calles del pueblo, en la víspera de la festividad del Dulce Nombre de Jesús. La próxima será el sábado 2 de enero de 2027, según el cartel difundido por la corporación. La hermandad recuerda a los asistentes que deben ir con calzado de salida.",
+    "La igualá coincide con el domingo de las elecciones generales, una jornada en la que los colegios electorales estarán abiertos de 9.00 a 20.00.",
+    "## Una semana de cuadrillas y aniversarios",
+    "La Soledad se suma así al calendario de convocatorias de costaleros que han abierto otras corporaciones del municipio este mes. El Cautivo ya ha fijado para el 25 de enero la <a href='#cautivo-dulce-nombre-iguala-costaleros-2027'>igualá de la Virgen del Dulce Nombre</a>, y la Hermandad Sacramental de San José ha anunciado el calendario de sus dos cuadrillas, mientras el Gran Poder <a href='#gran-poder-toma-posesion-junta-san-jose-igualas'>toma posesión de su nueva Junta de Gobierno</a> el sábado 28. La propia Soledad entregó el pasado fin de semana el <a href='#soledad-entrega-jarrillo-soleaero-fernando-rasero'>V Jarrillo Soleaero a Fernando Rasero</a>.",
+    "La Hermandad de la Borriquita, por su parte, ha recordado en Facebook que el martes 24 de noviembre se cumplieron trece años desde que firmó su hermanamiento con la Hermandad del Rocío de Coria del Río, sellado en 2013 con una misa de acción de gracias. La corporación afirma que los lazos entre ambas siguen hoy «aún más estrechos».",
+    "<span class='howto'><b>Igualá de costaleros del Niño Jesús.</b> Domingo 29 de noviembre, 10.30. Plaza de Nuestra Señora de la Soledad, Coria del Río. Convocados la cuadrilla y los nuevos aspirantes; hay que acudir con calzado de salida. Procesión del Niño Jesús: sábado 2 de enero de 2027.</span>"
+   ],
+   "seo": [
+    "soledad-nino-jesus-iguala-costaleros-coria-2027",
+    "Igualá del Niño Jesús de la Soledad de Coria, domingo 29",
+    "La Hermandad de la Soledad de Coria del Río cita el domingo 29 de noviembre a las 10.30 a los costaleros del Niño Jesús, que sale el 2 de enero.",
+    [
+     "Hermandad de la Soledad",
+     "Niño Jesús",
+     "costaleros",
+     "igualá",
+     "Hermandad de la Borriquita",
+     "Hermandad del Rocío"
+    ]
+   ]
+  },
+  {
+   "id": "policia-nacional-punto-venta-droga-coria-dos-detenidos",
+   "sec": "sucesos",
+   "kicker": "Tráfico de drogas",
+   "iso": "2026-11-25",
+   "hora": "23:01",
+   "src": "El Coriano",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Policía Nacional desmantela un punto de venta de droga en una vivienda de Coria del Río y detiene a dos personas",
+   "sub": "Los agentes intervinieron cocaína, heroína, una balanza de precisión, más de 1.000 euros y varios cartuchos de escopeta; uno de los detenidos está en prisión provisional",
+   "caption": "Una motocicleta y un coche patrulla de la Policía Nacional. Imagen de recurso.",
+   "foto": "policia-nacional-recurso-wiki.jpg",
+   "fotocredito": "Contando Estrelas / Wikimedia Commons (CC BY-SA 2.0)",
+   "claves": [
+    "La Policía Nacional ha detenido a dos personas como presuntas responsables de un delito contra la salud pública en Coria del Río.",
+    "Los agentes registraron, con autorización judicial, una vivienda que se usaba presuntamente como punto de venta de droga.",
+    "Se intervinieron cocaína, heroína, una balanza de precisión, más de 1.000 euros en efectivo y varios cartuchos de escopeta.",
+    "El juez decretó prisión provisional para uno de los dos detenidos."
+   ],
+   "body": [
+    "La Policía Nacional ha desmantelado un punto de venta de droga que funcionaba en una vivienda de Coria del Río y ha detenido a dos personas como presuntas responsables de un delito contra la salud pública. La operación se ha conocido este miércoles 25 de noviembre.",
+    "La actuación es el resultado de una investigación sobre la venta de sustancias estupefacientes en un domicilio situado en una zona que la Policía considera de especial conflictividad. No se ha precisado en qué barrio está la vivienda.",
+    "## El registro",
+    "Con las pruebas reunidas, los agentes pidieron autorización judicial para entrar en la vivienda y registrarla. En el registro intervinieron cocaína, heroína, una balanza de precisión, más de 1.000 euros en efectivo y varios cartuchos de escopeta. No ha trascendido la cantidad de droga incautada.",
+    "Los dos detenidos pasaron a disposición de la autoridad judicial, que decretó el ingreso en prisión provisional de uno de ellos. La prisión provisional es una medida cautelar que el juez puede acordar mientras se investiga el caso: no es una condena, y los dos investigados mantienen la presunción de inocencia.",
+    "El delito contra la salud pública es el que el Código Penal aplica, entre otros supuestos, a la venta o el tráfico de drogas. Las penas dependen, entre otros factores, de si las sustancias causan o no grave daño a la salud, una categoría en la que los tribunales incluyen la cocaína y la heroína.",
+    "<span class='howto'><b>Cómo denunciar.</b> La venta de droga se puede comunicar a la Policía Nacional en el 091 o, de forma anónima, en el correo antidroga@policia.es. En una emergencia, 112.</span>"
+   ],
+   "seo": [
+    "policia-nacional-punto-venta-droga-coria-del-rio",
+    "Desmantelado un punto de venta de droga en Coria del Río",
+    "La Policía Nacional detiene a dos personas en Coria del Río e interviene cocaína, heroína, más de 1.000 euros y cartuchos de escopeta en una vivienda.",
+    [
+     "Policía Nacional",
+     "tráfico de drogas",
+     "punto de venta",
+     "detenidos",
+     "prisión provisional",
+     "sucesos"
+    ]
+   ]
+  },
   {
    "id": "paro-octubre-2026-coria-2385",
    "sec": "economia",
@@ -234,10 +426,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "PP y PSOE piden el voto en el mercadillo de Coria del Río a cinco días de las generales",
    "sub": "Lourdes Fuster y Andrés Parrado, números 4 y 11 del PP al Congreso por Sevilla, defienden el «cambio»; los socialistas apelan a las pensiones y la vivienda",
-   "caption": "Gráfico sobre la recta final de la campaña de las elecciones generales del 29 de noviembre en Coria del Río.",
-   "foto": "campana-29n-mercadillo-coria-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "A la izquierda, cargos del PP reparten propaganda electoral en el mercadillo de Coria del Río; a la derecha, la mesa informativa del PSOE.",
+   "foto": "campana-29n-mercadillo-pp-psoe-of.jpg",
+   "fotocredito": "Coriavisión (izquierda) y Facebook del PSOE de Coria del Río (derecha)",
    "claves": [
     "El PP y el PSOE hicieron campaña este martes 24 de noviembre en el mercadillo de Coria del Río, a cinco días de las elecciones generales.",
     "Por el PP acudieron Lourdes Fuster Martínez y Andrés Parrado, números 4 y 11 de su lista al Congreso por Sevilla.",
@@ -323,30 +514,32 @@ window.EP = {
    "fuente_url": "https://www.facebook.com/2069782470890433/posts/2080136159855064",
    "firma": "Redacción El Coriano",
    "elaboracion": "ia",
-   "title": "El Coria CF jugará ante el Montalbeño el domingo 29 a las 17.00 en Santaella",
-   "sub": "El equipo coriano, con 19 puntos tras el 0-0 ante La Palma, disputa la jornada 13 de División de Honor Sénior el mismo día de las elecciones generales",
+   "title": "El Coria CF jugará ante el Montalbeño el domingo 29 a las 16.30 en Santaella",
+   "sub": "El equipo coriano, con 19 puntos tras el 0-0 ante La Palma, disputa la jornada 13 de División de Honor Sénior el mismo día de las elecciones generales, y sin Soufiane, que deja el club",
    "caption": "Un jugador del Coria CF, de amarillo, en un partido de esta temporada, en una imagen difundida por el club.",
    "foto": "coria-cf-partido-of.jpg",
    "fotocredito": "Facebook del Coria CF",
    "claves": [
-    "El Coria CF visitará al Montalbeño el domingo 29 de noviembre, a las 17.00, en la División de Honor Sénior.",
+    "El Coria CF visitará al Montalbeño el domingo 29 de noviembre, a las 16.30, en la División de Honor Sénior.",
     "El partido se jugará en el campo municipal Virgen del Valle de Santaella (Córdoba), según el club.",
-    "El Coria suma 19 puntos tras empatar 0-0 con La Palma CF en la jornada 12."
+    "El Coria suma 19 puntos tras empatar 0-0 con La Palma CF en la jornada 12.",
+    "El Coria CF ha anunciado este miércoles la baja de Soufiane."
    ],
    "body": [
-    "El Coria CF jugará su próximo partido de la División de Honor Sénior en el campo del Montalbeño el domingo 29 de noviembre, a las 17.00, según ha anunciado el club coriano en su perfil de Facebook. El encuentro se disputará en el campo municipal Virgen del Valle de Santaella, en la provincia de Córdoba.",
+    "El Coria CF jugará su próximo partido de la División de Honor Sénior en el campo del Montalbeño el domingo 29 de noviembre, a las 16.30, según ha anunciado el club coriano en su perfil de Facebook. El encuentro se disputará en el campo municipal Virgen del Valle de Santaella, en la provincia de Córdoba.",
     "Hasta ahora el club solo había avanzado que el equipo visitaría Montalbán en esta jornada, sin día ni hora. El cartel publicado este martes concreta la cita y sitúa el partido en Santaella, localidad vecina de Montalbán de Córdoba. El club no explica en su publicación el motivo de jugar en ese campo.",
+    "El club ha anunciado además este miércoles 25 en Facebook que Soufiane deja de pertenecer al Coria CF. La entidad le agradece sus servicios y le desea suerte en sus próximos retos, sin detallar el motivo de la salida ni su destino.",
     "## Tras el empate con La Palma",
     "El equipo ribereño llega al partido con 19 puntos, después de <a href='#coria-cf-empata-la-palma'>empatar 0-0 con La Palma CF</a> el domingo 22 en el Estadio Guadalquivir, en un duelo de la zona alta de la tabla. Antes había ganado 0-2 en La Rinconada. La jornada coincide con el día de las elecciones generales, que se celebran ese mismo domingo.",
     "El Coria CF ha publicado también esta semana los resultados de su cantera del fin de semana del 20 al 22 de noviembre y ha enviado ánimos a un jugador de su equipo juvenil que se lesionó en el último partido.",
     "## La cantera del CB Coria, sin freno",
     "En baloncesto, el Club Baloncesto Coria ha celebrado en Facebook una nueva victoria de uno de sus equipos en el pabellón municipal, la cuarta de la temporada para ese conjunto, aunque no ha detallado rival ni marcador. El club ha destacado además los partidos de sus equipos premini masculino y babys durante el fin de semana. La semana pasada, su infantil masculino XL <a href='#cb-coria-cantera-cierre-primera-fase'>cerró la primera fase con cinco victorias en cinco partidos</a>.",
-    "<span class='howto'><b>Próximo partido.</b> Montalbeño - Coria CF. División de Honor Sénior, jornada 13. Domingo 29 de noviembre, 17.00. Campo municipal Virgen del Valle, Santaella (Córdoba).</span>"
+    "<span class='howto'><b>Próximo partido.</b> Montalbeño - Coria CF. División de Honor Sénior, jornada 13. Domingo 29 de noviembre, 16.30. Campo municipal Virgen del Valle, Santaella (Córdoba).</span>"
    ],
    "seo": [
     "coria-cf-montalbeno-santaella-division-honor-jornada-13",
     "Coria CF visita al Montalbeño el domingo 29 en Santaella",
-    "El Coria CF juega ante el Montalbeño el domingo 29 de noviembre a las 17.00 en Santaella, en la jornada 13 de División de Honor Sénior, con 19 puntos.",
+    "El Coria CF juega ante el Montalbeño el domingo 29 de noviembre a las 16.30 en Santaella, en la jornada 13 de División de Honor Sénior, con 19 puntos.",
     [
      "Coria CF",
      "Montalbeño",
@@ -355,7 +548,8 @@ window.EP = {
      "fútbol",
      "Club Baloncesto Coria"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-25T23:01"
   },
   {
    "id": "encendido-alumbrado-navidad-coria-2026",
@@ -413,10 +607,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El alcalde de Coria del Río nombra a una asesora de gabinete con un sueldo de 30.750 euros brutos al año",
    "sub": "El BOP publica la resolución del 18 de noviembre que nombra personal eventual a Alejandra Blázquez González, en una de las siete plazas que creó el Pleno en 2023",
-   "caption": "Retribución anual bruta del puesto de asesor de gabinete, según la resolución publicada en el BOP de Sevilla.",
-   "foto": "nombramiento-asesora-gabinete-alcaldia-bop-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "Fachada del Ayuntamiento de Coria del Río, en la calle Cervantes.",
+   "foto": "ayuntamiento-coria-fachada-wiki.jpg",
+   "fotocredito": "CarlosVdeHabsburgo / Wikimedia Commons (CC BY-SA 4.0)",
    "claves": [
     "El alcalde, Modesto González Márquez, nombró el 18 de noviembre a Alejandra Blázquez González asesora de gabinete, como personal eventual.",
     "El puesto tiene una retribución bruta de 30.750,02 euros al año en 14 pagas.",
