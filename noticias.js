@@ -1,24 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-24",
+  "actualizado": "2026-11-25",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "24 nov, 16.30",
-   "que": "Jornada formativa de las Patrullas Verdes",
-   "donde": "Casa de Barrio",
-   "noticia": "patrullas-verdes-coria",
-   "hasta": "2026-11-24"
-  },
-  {
-   "cuando": "24 nov, 20.00",
-   "que": "Conferencia «Por un puñao de fandangos», de Kiko Valle",
-   "donde": "Centro Cultural de la Villa Pastora Soler",
-   "noticia": "conferencia-fandangos-kiko-valle",
-   "hasta": "2026-11-24"
-  },
   {
    "cuando": "25 nov, 10.00",
    "que": "Marcha del 25N contra la violencia de género",
@@ -32,6 +18,13 @@ window.EP = {
    "donde": "Del Paseo Tierno Galván al Ayuntamiento",
    "noticia": "encendido-alumbrado-navidad-coria-2026",
    "hasta": "2026-11-26"
+  },
+  {
+   "cuando": "28 nov, 20.00",
+   "que": "Jura y toma de posesión de la nueva Junta de Gobierno del Gran Poder",
+   "donde": "Misa de las 20.00 de la Hermandad del Gran Poder",
+   "noticia": "gran-poder-toma-posesion-junta-san-jose-igualas",
+   "hasta": "2026-11-28"
   },
   {
    "cuando": "29 nov",
@@ -52,6 +45,13 @@ window.EP = {
    "donde": "Ayuntamiento de Coria del Río",
    "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
    "hasta": "2026-12-09"
+  },
+  {
+   "cuando": "11 dic, 21.00",
+   "que": "Igualá de la cuadrilla de la Piedad (Hermandad de San José)",
+   "donde": "Casa hermandad de San José, calle Pepe Hillo, 8",
+   "noticia": "gran-poder-toma-posesion-junta-san-jose-igualas",
+   "hasta": "2026-12-11"
   },
   {
    "cuando": "Hasta el 20 dic",
@@ -83,6 +83,102 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "paro-octubre-2026-coria-2385",
+   "sec": "economia",
+   "kicker": "Empleo",
+   "iso": "2026-11-25",
+   "hora": "07:53",
+   "src": "SEPE",
+   "fuente_url": "https://sede.sepe.gob.es/es/portaltrabaja/resources/sede/datos_abiertos/datos/Paro_por_municipios_2026_csv.csv",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El paro baja en Coria del Río a 2.385 personas en octubre, un 10,7 % menos que hace un año",
+   "sub": "Es la cifra de octubre más baja desde 2007 y una caída mayor que la de Camas, San Juan de Aznalfarache y el conjunto de la provincia de Sevilla",
+   "caption": "Gráfico con el paro registrado en Coria del Río en cada mes de octubre desde 2006, según el SEPE.",
+   "foto": "paro-octubre-2026-coria-2385-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "Coria del Río tenía 2.385 parados registrados a final de octubre de 2026, 285 menos que un año antes (un 10,7 % menos), según el SEPE.",
+    "Respecto a septiembre, el paro subió en 13 personas, un 0,5 %.",
+    "En diez años, desde octubre de 2016, el paro registrado en Coria ha bajado un 38,9 %.",
+    "El descenso interanual de Coria supera al de Camas (7,5 %), San Juan de Aznalfarache (4,7 %) y la provincia de Sevilla (9,8 %)."
+   ],
+   "body": [
+    "Coria del Río cerró octubre de 2026 con 2.385 personas inscritas como paradas en las oficinas de empleo, 285 menos que en octubre de 2025, lo que supone un descenso del 10,7 %, según los datos abiertos de paro registrado por municipios del Servicio Público de Empleo Estatal (SEPE).",
+    "En comparación con septiembre, cuando había 2.372 parados, la cifra subió en 13 personas, un 0,5 %.",
+    "Es el dato de octubre más bajo desde 2007, cuando el municipio tenía 1.565 parados. Hace diez años, en octubre de 2016, la cifra era de 3.906, de modo que el paro registrado en Coria ha bajado desde entonces en 1.521 personas, un 38,9 %. En enero de 2013 llegó a haber 5.028 parados.",
+    "## Más descenso que en el entorno",
+    "La bajada interanual de Coria es mayor que la de los municipios vecinos. Camas terminó octubre con 2.580 parados, un 7,5 % menos que hace un año, y San Juan de Aznalfarache con 2.147, un 4,7 % menos. En el conjunto de la provincia de Sevilla, la suma de los 106 municipios da 131.745 parados, un 9,8 % menos que en octubre de 2025.",
+    "En el último mes, Camas sumó 11 parados (un 0,4 % más) y San Juan restó 15 (un 0,7 % menos), mientras que la provincia bajó un 0,3 %. A diez años, el descenso de Coria es similar al de Camas (38,2 %) y la provincia (40,3 %) y mayor que el de San Juan (31,4 %).",
+    "## Quién está en paro en Coria",
+    "Las mujeres son 1.458 de los 2.385 parados, el 61,1 %; los hombres, 927. En el último año el paro femenino ha bajado en 221 personas y el masculino en 64. Los mayores de 45 años suman 1.277 parados, el 53,5 % del total, 190 menos que hace un año. Los menores de 25 son 220, cuatro más que en octubre de 2025.",
+    "Por sectores, los servicios concentran 1.657 parados, el 69,5 %. Les siguen la construcción, con 210; la industria, con 150, y la agricultura, con 144. Otras 224 personas buscan su primer empleo. Todos los sectores tienen menos parados que hace un año.",
+    "El paro registrado cuenta a las personas inscritas como demandantes de empleo sin trabajo en los servicios públicos de empleo. No es la tasa de paro de la Encuesta de Población Activa (EPA), que se calcula por encuesta y no se publica por municipios. Esta información no incluye la afiliación a la Seguridad Social por municipio. Los ficheros abiertos del SEPE no traen los meses de mayo a diciembre de 2013 ni diciembre de 2020.",
+    "<span class='howto'><b>De dónde salen los datos.</b> SEPE, datos abiertos de paro registrado por municipios, octubre de 2026, con la serie desde 2006. Los datos de noviembre por municipios se publicarán en diciembre. Hay plazas abiertas hasta el 9 de diciembre en los <a href='#inserta2-inscripcion-cursos-desempleados-9-diciembre'>cursos de Inserta2 para personas desempleadas</a>.</span>"
+   ],
+   "seo": [
+    "paro-coria-del-rio-octubre-2026-sepe",
+    "Paro en Coria del Río: 2.385 personas en octubre de 2026",
+    "El paro registrado en Coria del Río bajó en octubre de 2026 a 2.385 personas, un 10,7 % menos que un año antes y la cifra de octubre más baja desde 2007.",
+    [
+     "paro registrado",
+     "SEPE",
+     "empleo",
+     "Camas",
+     "San Juan de Aznalfarache",
+     "provincia de Sevilla"
+    ]
+   ]
+  },
+  {
+   "id": "gran-poder-toma-posesion-junta-san-jose-igualas",
+   "sec": "hermandades",
+   "kicker": "Juntas y cuadrillas",
+   "iso": "2026-11-25",
+   "hora": "07:58",
+   "src": "Hermandad del Gran Poder (Facebook)",
+   "fuente_url": "https://www.facebook.com/1603774695120649/posts/1614173630747422",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La nueva Junta de Gobierno del Gran Poder de Coria del Río toma posesión el sábado 28 de noviembre",
+   "sub": "La Hermandad de San José fija para el 11 de diciembre y el 9 de enero las igualás de la Piedad y del palio de Gracia y Esperanza",
+   "caption": "Calendario de la toma de posesión de la junta del Gran Poder y de las citas de la Hermandad de San José.",
+   "foto": "gran-poder-toma-posesion-junta-san-jose-iguala-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "La nueva Junta de Gobierno del Gran Poder de Coria del Río jura y toma posesión el sábado 28 de noviembre en la misa de las 20.00.",
+    "La Hermandad de San José celebrará la igualá de la Piedad el viernes 11 de diciembre, ya con Álvaro Pastor Alés como capataz.",
+    "La cuadrilla del palio de Gracia y Esperanza hará su igualá y primer ensayo el sábado 9 de enero de 2027."
+   ],
+   "body": [
+    "La nueva Junta de Gobierno de la Hermandad de Nuestro Padre Jesús del Gran Poder y Nuestra Señora del Carmen, de Coria del Río, jurará sus cargos y tomará posesión el sábado 28 de noviembre durante la misa de las 20.00, según ha anunciado la propia hermandad en su perfil de Facebook.",
+    "La corporación ha invitado a todos sus hermanos a acompañar a los nuevos oficiales en el acto, con el que comienza formalmente el mandato del equipo que dirigirá la hermandad en los próximos años. La publicación no detalla la composición de la nueva junta ni quién ocupará el cargo de hermano mayor.",
+    "El Gran Poder cerró este mismo mes sus cultos de noviembre con la <a href='#gran-poder-requiem-difuntos-2026'>misa por sus hermanos difuntos</a>, celebrada el viernes 20 en la capilla de la hermandad.",
+    "## San José fija el calendario de sus cuadrillas",
+    "La Hermandad Sacramental de San José, que estrenó Junta de Gobierno el 13 de noviembre, ha hecho público en Facebook el calendario de igualás y ensayos de sus cuadrillas de costaleros para la Semana Santa de 2027.",
+    "La cuadrilla de la Piedad del Santísimo Cristo de la Misericordia y Nuestra Señora de los Dolores, que sale el Sábado Santo, trabajará ya a las órdenes de su <a href='#san-jose-nuevo-capataz-piedad'>nuevo capataz, Álvaro Pastor Alés</a>. La igualá será el viernes 11 de diciembre a las 21.00, y los ensayos, los sábados 30 de enero y 13 de febrero a las 16.30 y el sábado 13 de marzo a las 17.30.",
+    "El paso de palio de María Santísima de Gracia y Esperanza, que hará estación de penitencia el Martes Santo, empezará más tarde. La igualá y el primer ensayo coincidirán el sábado 9 de enero de 2027 a las 16.30; el segundo ensayo será el sábado 23 de enero y el tercero, el domingo 21 de febrero, ambos también a las 16.30. Todas las citas de las dos cuadrillas serán en la casa hermandad.",
+    "San José ha convocado además a los hermanos interesados en formar parte del cuerpo de acólitos a una reunión el domingo 29 de noviembre a las 11.45 en el salón de juntas de la casa hermandad, en la calle Pepe Hillo, 8.",
+    "Las cofradías de Coria encaran así el arranque de la preparación de la Cuaresma. El Cautivo ya había anunciado que los costaleros de la Virgen del Dulce Nombre tendrán <a href='#cautivo-dulce-nombre-iguala-costaleros-2027'>su igualá el 25 de enero</a>.",
+    "<span class='howto'><b>Gran Poder.</b> Jura y toma de posesión de la nueva Junta de Gobierno: sábado 28 de noviembre, en la misa de las 20.00. <b>San José</b> (casa hermandad, calle Pepe Hillo, 8). Reunión del cuerpo de acólitos: domingo 29 de noviembre, 11.45. Piedad: igualá el viernes 11 de diciembre, 21.00; ensayos el 30 de enero y el 13 de febrero (16.30) y el 13 de marzo (17.30). Gracia y Esperanza: igualá y primer ensayo el sábado 9 de enero, 16.30; ensayos el 23 de enero y el 21 de febrero, 16.30.</span>"
+   ],
+   "seo": [
+    "gran-poder-coria-toma-posesion-junta-san-jose-iguala",
+    "Gran Poder de Coria: la nueva junta jura el sábado 28",
+    "La nueva Junta de Gobierno del Gran Poder de Coria del Río toma posesión el 28 de noviembre; San José fija las igualás de la Piedad y de su palio.",
+    [
+     "Hermandad del Gran Poder",
+     "Hermandad de San José",
+     "Junta de Gobierno",
+     "igualá",
+     "costaleros",
+     "Semana Santa 2027"
+    ]
+   ]
+  },
   {
    "id": "arbol-navidad-ganchillo-coria-2026",
    "sec": "cultura",
