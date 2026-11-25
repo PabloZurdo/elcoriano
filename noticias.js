@@ -144,10 +144,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "La nueva Junta de Gobierno del Gran Poder de Coria del Río toma posesión el sábado 28 de noviembre",
    "sub": "La Hermandad de San José fija para el 11 de diciembre y el 9 de enero las igualás de la Piedad y del palio de Gracia y Esperanza",
-   "caption": "Calendario de la toma de posesión de la junta del Gran Poder y de las citas de la Hermandad de San José.",
-   "foto": "gran-poder-toma-posesion-junta-san-jose-iguala-gfx.jpg",
-   "fotocredito": "Gráfico El Coriano",
-   "encuadre": "contain",
+   "caption": "Nuestro Padre Jesús del Gran Poder de Coria del Río en su paso, en una imagen de archivo.",
+   "foto": "gran-poder-coria-paso-of.jpg",
+   "fotocredito": "Archivo El Coriano",
    "claves": [
     "La nueva Junta de Gobierno del Gran Poder de Coria del Río jura y toma posesión el sábado 28 de noviembre en la misa de las 20.00.",
     "La Hermandad de San José celebrará la igualá de la Piedad el viernes 11 de diciembre, ya con Álvaro Pastor Alés como capataz.",
