@@ -1,17 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-25",
+  "actualizado": "2026-11-26",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "25 nov, 10.00",
-   "que": "Marcha del 25N contra la violencia de género",
-   "donde": "De la Plaza Santa Ángela de la Cruz al Ayuntamiento",
-   "noticia": "25n-campana-ayuntamiento-2026",
-   "hasta": "2026-11-25"
-  },
   {
    "cuando": "26 nov, 18.00",
    "que": "Pasacalles, presentación de la programación (19.00) y encendido del alumbrado de Navidad (19.30)",
@@ -97,6 +90,56 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "participacion-coria-generales-guia-29n",
+   "sec": "politica",
+   "kicker": "Elecciones 29N",
+   "iso": "2026-11-26",
+   "hora": "07:55",
+   "src": "Ministerio del Interior",
+   "fuente_url": "https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río votó en 2023 casi siete puntos menos que la provincia, la mayor brecha de las últimas generales",
+   "sub": "Cinco de sus 18 secciones bajaron del 60 % de participación, cuando en las dos citas de 2019 no hubo ninguna; el domingo 29 se vota de 9.00 a 20.00",
+   "caption": "Participación en Coria del Río y en la provincia de Sevilla en las elecciones generales de 2016, abril de 2019, noviembre de 2019 y julio de 2023.",
+   "foto": "participacion-coria-generales-guia-29n-gfx.jpg",
+   "fotocredito": "Gráfico El Coriano",
+   "encuadre": "contain",
+   "claves": [
+    "En las generales de julio de 2023 votó en Coria del Río el 63,4 % del censo de residentes, frente al 70,2 % de la provincia de Sevilla, según el Ministerio del Interior.",
+    "La diferencia de 6,8 puntos fue la mayor de las cuatro generales celebradas desde 2016; en las tres anteriores osciló entre 4,9 y 5,2 puntos.",
+    "Cinco de las 18 secciones censales de Coria tuvieron una participación inferior al 60 % en 2023, con 6.374 electores; en abril y noviembre de 2019 no hubo ninguna.",
+    "Las elecciones generales se celebran el domingo 29 de noviembre de 2026, de 9.00 a 20.00, y se puede votar identificándose con el DNI digital."
+   ],
+   "body": [
+    "Coria del Río votó en las generales de julio de 2023 casi siete puntos menos que el conjunto de la provincia de Sevilla: participó el 63,4 % de su censo, frente al 70,2 % provincial. Es la mayor distancia de las cuatro generales celebradas desde 2016, según los datos del Ministerio del Interior.",
+    "El Coriano ha comparado la participación de Coria con la de la provincia y la de sus secciones censales a tres días de las elecciones del domingo 29 de noviembre. El reparto del voto por partidos en esas mismas secciones está en <a href='#coria-generales-secciones-2016-2023'>el análisis publicado el 23 de noviembre</a>.",
+    "## Una brecha que se ensancha",
+    "En junio de 2016 votó en Coria el 64,2 % del censo, 5,2 puntos menos que en la provincia (69,4 %). En abril de 2019 la diferencia fue de 4,9 puntos (70,3 % frente a 75,2 %) y en noviembre de ese año, de 5,0 (65,6 % frente a 70,6 %). En 2023 llegó a 6,8 puntos.",
+    "Entre los municipios de comparación, Camas registró en 2023 una participación del 66,5 % y San Juan de Aznalfarache, del 63,3 %, prácticamente igual que Coria. De los 23.905 electores residentes en Coria, 8.749 no votaron.",
+    "## Cinco secciones por debajo del 60 %",
+    "En 2023, cinco de las 18 secciones de Coria quedaron por debajo del 60 % de participación. En ellas estaban censados 6.374 electores, el 26,7 % del total. En las dos generales de 2019 ninguna sección bajó de ese nivel; en 2016 fueron tres.",
+    "La participación más baja de 2023, el 56,1 %, se dio en la sección de las calles Antonio Gutiérrez, Francisco Gutiérrez y Martinete. La más alta, el 71,9 %, en la de la avenida de Andalucía y las calles Batán y Jesús y María. La distancia entre ambas fue de 15,8 puntos.",
+    "El descenso fue general. Las 15 secciones que han mantenido un tamaño parecido en las cuatro citas votaron menos en 2023 que en abril de 2019, y nueve de ellas también menos que en 2016.",
+    "El domingo, Interior publicará avances de participación a las 14.00 y a las 18.00. Como referencia, en julio de 2023 había votado en Coria el 39,0 % del censo a las 14.00 y el 49,5 % a las 18.00.",
+    "Los porcentajes se calculan sobre el censo de residentes en España y no incluyen el voto de los corianos inscritos en el extranjero, que se cuenta aparte.",
+    "<span class='howto'><b>Cómo votar el domingo 29 de noviembre.</b> Horario: de 9.00 a 20.00; quien esté a esa hora en el colegio o en su acceso todavía puede votar. Identificación: DNI físico o digital (aplicación MiDNI), pasaporte o permiso de conducir, originales y con fotografía; el pasaporte y el permiso de conducir valen aunque estén caducados. No sirven las fotocopias ni el resguardo del DNI en trámite. Dónde votar: lo indica la tarjeta censal, que se envía desde el 2 de noviembre; también se consulta en la sede electrónica del INE con Cl@ve y en el teléfono de la Oficina del Censo Electoral, 900 343 232. Quien trabaje el domingo tiene derecho a hasta cuatro horas retribuidas para votar. El plazo para pedir el voto por correo ya terminó; quien lo solicitó debe entregarlo en Correos dentro del plazo que fija la Junta Electoral Central. Fuentes: Ministerio del Interior y Junta Electoral Central. Datos: Infoelectoral, resultados por municipio y por mesa de las generales de 2016 a 2023. Próxima actualización: el lunes 30 de noviembre, con los resultados del 29N en Coria.</span>"
+   ],
+   "seo": [
+    "participacion-coria-del-rio-generales-29n",
+    "Participación en Coria del Río: generales 2016-2023 y 29N",
+    "Coria del Río votó en 2023 un 63,4 %, casi siete puntos menos que la provincia, y cinco secciones bajaron del 60 %. Cómo votar el domingo 29N.",
+    [
+     "participación electoral",
+     "elecciones generales 29N",
+     "secciones censales",
+     "Ministerio del Interior",
+     "DNI digital",
+     "cómo votar"
+    ]
+   ]
+  },
   {
    "id": "marcha-25n-coria-2026-manifiesto",
    "sec": "coria",
@@ -2156,9 +2199,9 @@ window.EP = {
    "elaboracion": "ia",
    "title": "El N1 masculino del Club Baloncesto Coria gana 91-45 al Huelva La Luz y es segundo de su grupo",
    "sub": "El sénior masculino suma dos victorias en tres días y el N1 femenino cae ante el CB Ciudad de Dos Hermanas por 30-80.",
-   "caption": "Ilustración genérica de la sección Deportes.",
-   "foto": "generica-deportes.jpg",
-   "fotocredito": "Archivo El Coriano",
+   "caption": "Un jugador del N1 masculino del Club Baloncesto Coria, en una imagen difundida por el club tras la sexta jornada.",
+   "foto": "cb-coria-n1-masculino-gana-huelva-of.jpg",
+   "fotocredito": "Facebook del Club Baloncesto Coria",
    "claves": [
     "El equipo masculino del Club Baloncesto Coria en la Liga Nacional N1 ganó 91-45 al CD Baloncesto Huelva La Luz el domingo 15 de noviembre.",
     "Según el club, el equipo es segundo de su grupo tras la sexta jornada.",
