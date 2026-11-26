@@ -33,6 +33,27 @@ window.EP = {
    "hasta": "2026-11-29"
   },
   {
+   "cuando": "28 nov, 18.00",
+   "que": "Besamanos de María Santísima de la Victoria (Borriquita), sábado 28 y domingo 29",
+   "donde": "Parroquia de Santa María de la Estrella",
+   "noticia": "borriquita-besamanos-virgen-victoria-2026",
+   "hasta": "2026-11-29"
+  },
+  {
+   "cuando": "29 nov, 12.00",
+   "que": "Juvenil Liga Nacional: Coria CF - Algeciras CF",
+   "donde": "Estadio Guadalquivir",
+   "noticia": "coria-cf-cantera-partidos-28-29-noviembre",
+   "hasta": "2026-11-29"
+  },
+  {
+   "cuando": "Hasta el 29 nov",
+   "que": "Inscripción gratuita de comercios en «Navidad a todo Río»",
+   "donde": "Formulario en el Facebook del Ayuntamiento",
+   "noticia": "navidad-a-todo-rio-campana-comercio-coria-2026",
+   "hasta": "2026-11-29"
+  },
+  {
    "cuando": "2 dic, 18.30",
    "que": "Presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río» y exposición",
    "donde": "Biblioteca Pública Municipal Maestro Antonio Pineda",
@@ -40,11 +61,39 @@ window.EP = {
    "hasta": "2026-12-02"
   },
   {
+   "cuando": "Hasta el 3 dic",
+   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
+   "donde": "Registro del Ayuntamiento o sede electrónica",
+   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
+   "hasta": "2026-12-03"
+  },
+  {
+   "cuando": "Hasta el 9 dic",
+   "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
+   "donde": "Ayuntamiento de Coria del Río",
+   "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
+   "hasta": "2026-12-09"
+  },
+  {
    "cuando": "11 dic, 21.00",
    "que": "Igualá de la cuadrilla de la Piedad (Hermandad de San José)",
    "donde": "Casa hermandad de San José, calle Pepe Hillo, 8",
    "noticia": "gran-poder-toma-posesion-junta-san-jose-igualas",
    "hasta": "2026-12-11"
+  },
+  {
+   "cuando": "19 dic",
+   "que": "Sorteo de 4.500 euros en cheques regalo de «Navidad a todo Río»",
+   "donde": "Kiosco de la Música",
+   "noticia": "navidad-a-todo-rio-campana-comercio-coria-2026",
+   "hasta": "2026-12-19"
+  },
+  {
+   "cuando": "Hasta el 20 dic",
+   "que": "Reserva del boletín cuaresmal de San José",
+   "donde": "secretario@sanjosecoria.org",
+   "noticia": "san-jose-nuevo-capataz-piedad",
+   "hasta": "2026-12-20"
   },
   {
    "cuando": "27 dic",
@@ -66,30 +115,188 @@ window.EP = {
    "donde": "Casa hermandad del Cautivo",
    "noticia": "cautivo-dulce-nombre-iguala-costaleros-2027",
    "hasta": "2027-01-25"
-  },
-  {
-   "cuando": "Hasta el 3 dic",
-   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
-   "donde": "Registro del Ayuntamiento o sede electrónica",
-   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
-   "hasta": "2026-12-03"
-  },
-  {
-   "cuando": "Hasta el 9 dic",
-   "que": "Inscripción en los cursos de Inserta2 para personas desempleadas",
-   "donde": "Ayuntamiento de Coria del Río",
-   "noticia": "inserta2-inscripcion-cursos-desempleados-9-diciembre",
-   "hasta": "2026-12-09"
-  },
-  {
-   "cuando": "Hasta el 20 dic",
-   "que": "Reserva del boletín cuaresmal de San José",
-   "donde": "secretario@sanjosecoria.org",
-   "noticia": "san-jose-nuevo-capataz-piedad",
-   "hasta": "2026-12-20"
   }
  ],
  "noticias": [
+  {
+   "id": "navidad-coria-2026-encendido-alumbrado-arbol-ganchillo",
+   "sec": "cultura",
+   "kicker": "Navidad 2026",
+   "iso": "2026-11-26",
+   "hora": "23:00",
+   "src": "Alcalde de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1843800194418976/posts/1859843056148023",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río enciende la Navidad con la Banda Municipal, el Conservatorio y un árbol de ganchillo en la plaza del Ayuntamiento",
+   "sub": "El alcalde, Modesto González, agradece el árbol tejido por Tejiendo Futuro y pide a los vecinos que tengan el comercio local como primera opción en sus compras navideñas",
+   "caption": "Vecinos junto al árbol de Navidad de ganchillo, con el alumbrado ya encendido en la calle Cervantes, frente al Ayuntamiento.",
+   "foto": "encendido-navidad-coria-2026-of.jpg",
+   "fotocredito": "Facebook de Modesto González Márquez",
+   "claves": [
+    "Coria del Río encendió el jueves 26 de noviembre el alumbrado de Navidad con un acto en el entorno del Ayuntamiento.",
+    "La Banda Municipal de Coria del Río y el Conservatorio Elemental de Música Pedro Gámez Laserna pusieron la música, según el Ayuntamiento.",
+    "El árbol de ganchillo de la plaza del Ayuntamiento lo han tejido las personas de Tejiendo Futuro, según el alcalde.",
+    "El alcalde, Modesto González, pidió a los vecinos que compren en el comercio local durante las fiestas."
+   ],
+   "body": [
+    "Coria del Río dio la bienvenida a la Navidad la tarde del jueves 26 de noviembre con el encendido del alumbrado, un acto con música de la Banda Municipal de Coria del Río y del Conservatorio Elemental de Música Pedro Gámez Laserna. Así lo han contado en sus perfiles de Facebook el Ayuntamiento, que emitió el acto en directo, y el alcalde, Modesto González Márquez.",
+    "La fiesta tuvo como protagonista el <a href='#arbol-navidad-ganchillo-coria-2026'>árbol de Navidad de ganchillo</a> instalado en la plaza del Ayuntamiento, con una estrella amarilla en lo alto y cientos de cuadrados de lana de colores. El alcalde ha agradecido su trabajo a las personas que forman Tejiendo Futuro, que son quienes lo han tejido, según su publicación. Las imágenes difundidas por el regidor muestran la calle llena de vecinos al pie del árbol, con los arcos de luces ya encendidos.",
+    "## Música, seguridad y comercio local",
+    "Según el programa que el Ayuntamiento había <a href='#encendido-alumbrado-navidad-coria-2026'>anunciado esta semana</a>, la tarde empezaba a las 18.00 con un pasacalles desde el Paseo Tierno Galván y seguía con la presentación de la programación navideña y el encendido en la puerta de la Casa Consistorial. Modesto González también ha dado las gracias a los voluntarios de Protección Civil, a los agentes de la Policía Local y a los empleados municipales que han trabajado en el acto.",
+    "El alcalde avanza «unas semanas llenas de actividades para todas las edades» y anima a los vecinos a participar con su familia y sus amigos. En su mensaje recuerda que en estas fechas aumentan las compras y recomienda que el comercio local sea «la primera opción». El Ayuntamiento no ha publicado todavía en sus redes el detalle día a día de esa programación, que se extiende hasta el 5 de enero.",
+    "El mismo jueves, el Consistorio lanzó <a href='#navidad-a-todo-rio-campana-comercio-coria-2026'>«Navidad a todo Río»</a>, una campaña que sorteará 4.500 euros en cheques regalo entre quienes compren en las tiendas adheridas del 1 al 19 de diciembre. Los comercios pueden inscribirse gratis hasta el domingo 29 de noviembre.",
+    "<span class='howto'><b>Navidad en Coria del Río.</b> El alumbrado ya está encendido y el árbol de ganchillo puede verse en la plaza del Ayuntamiento (calle Cervantes, 69). La programación municipal de Navidad se extiende hasta el 5 de enero. El vídeo del acto está en el perfil de Facebook del Ayuntamiento de Coria del Río.</span>"
+   ],
+   "seo": [
+    "navidad-coria-del-rio-encendido-alumbrado-arbol-ganchillo",
+    "Navidad en Coria del Río: encendido y árbol de ganchillo",
+    "Coria del Río encendió el 26 de noviembre su alumbrado de Navidad con la Banda Municipal, el Conservatorio y un árbol de ganchillo de Tejiendo Futuro.",
+    [
+     "Navidad",
+     "alumbrado navideño",
+     "árbol de ganchillo",
+     "Tejiendo Futuro",
+     "Banda Municipal de Coria del Río",
+     "Conservatorio Pedro Gámez Laserna"
+    ]
+   ]
+  },
+  {
+   "id": "navidad-a-todo-rio-campana-comercio-coria-2026",
+   "sec": "economia",
+   "kicker": "Comercio local",
+   "iso": "2026-11-26",
+   "hora": "23:00",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1467060945556571",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río sorteará 4.500 euros en cheques regalo entre quienes compren en el comercio local en diciembre",
+   "sub": "La campaña «Navidad a todo Río» da una papeleta por cada compra de más de 20 euros del 1 al 19 de diciembre; los comercios pueden apuntarse gratis hasta el domingo 29",
+   "caption": "Cartel de la campaña «Navidad a todo Río» del Ayuntamiento de Coria del Río.",
+   "foto": "navidad-a-todo-rio-cartel-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "encuadre": "contain",
+   "claves": [
+    "El Ayuntamiento de Coria del Río repartirá 4.500 euros en cheques regalo de 50 y 100 euros con la campaña «Navidad a todo Río».",
+    "Del 1 al 19 de diciembre, cada compra de más de 20 euros en un comercio adherido da una papeleta para el sorteo.",
+    "El sorteo será presencial el 19 de diciembre en el Kiosco de la Música, y los premios se gastan en los comercios participantes hasta el 5 de enero.",
+    "Los comercios pueden inscribirse gratis hasta el domingo 29 de noviembre."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río sorteará 4.500 euros en cheques regalo de 50 y 100 euros entre los clientes del comercio local con la campaña «Navidad a todo Río», según ha publicado este jueves 26 de noviembre en su perfil de Facebook. Los cheques solo se podrán gastar en las tiendas del municipio que se adhieran.",
+    "La mecánica es sencilla. Del 1 al 19 de diciembre, cada compra de más de 20 euros en uno de los establecimientos participantes da derecho a una papeleta. El sorteo será presencial el 19 de diciembre en el Kiosco de la Música, con pasacalles y actuaciones, según el anuncio municipal. Quien gane tendrá hasta el 5 de enero para gastar su premio en los comercios adheridos.",
+    "## Inscripción de comercios hasta el domingo",
+    "Los comercios de Coria interesados deben inscribirse antes del domingo 29 de noviembre a través de un formulario en línea que el Ayuntamiento ha enlazado en su publicación. La inscripción es gratuita. Según el Consistorio, los establecimientos recuperan íntegro el importe de los cheques que canjeen y reciben gratis la cartelería, las papeletas y los folletos de la campaña, además de publicidad para su negocio.",
+    "El Ayuntamiento no ha precisado en su anuncio qué partida del presupuesto municipal financia los 4.500 euros. La campaña se presentó el mismo día en que Coria <a href='#navidad-coria-2026-encendido-alumbrado-arbol-ganchillo'>encendió su alumbrado de Navidad</a>, un acto en el que el alcalde, Modesto González, pidió a los vecinos que tengan el comercio local como primera opción en sus compras de estas fiestas.",
+    "La campaña llega pocas semanas después de que <a href='#aldi-abre-supermercado-coria-del-rio'>Aldi abriera un supermercado</a> en el municipio. El Ayuntamiento resume su objetivo con el lema de la campaña: que la Navidad «se quede en nuestro pueblo».",
+    "<span class='howto'><b>«Navidad a todo Río».</b> Compras válidas: del 1 al 19 de diciembre, más de 20 euros por compra en comercios adheridos (una papeleta por compra). Sorteo: 19 de diciembre, Kiosco de la Música. Premios: cheques de 50 y 100 euros, hasta 4.500 euros en total, canjeables hasta el 5 de enero. Inscripción de comercios: gratuita, hasta el domingo 29 de noviembre, con el formulario enlazado en el Facebook del Ayuntamiento de Coria del Río.</span>"
+   ],
+   "seo": [
+    "navidad-a-todo-rio-cheques-regalo-comercio-coria",
+    "Navidad a todo Río: 4.500 € en cheques en Coria del Río",
+    "Coria del Río sorteará 4.500 euros en cheques de 50 y 100 euros entre quienes compren más de 20 euros en el comercio local del 1 al 19 de diciembre.",
+    [
+     "Navidad a todo Río",
+     "comercio local",
+     "cheques regalo",
+     "Ayuntamiento de Coria del Río",
+     "Kiosco de la Música",
+     "Navidad"
+    ]
+   ]
+  },
+  {
+   "id": "borriquita-besamanos-virgen-victoria-2026",
+   "sec": "hermandades",
+   "kicker": "Besamanos",
+   "iso": "2026-11-26",
+   "hora": "23:00",
+   "src": "Hermandad de la Borriquita (Facebook)",
+   "fuente_url": "https://www.facebook.com/1574841711352157/posts/1585494826953512",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La Borriquita celebra el 28 y 29 de noviembre el besamanos de la Virgen de la Victoria en Santa María de la Estrella",
+   "sub": "La hermandad ha difundido dos horarios distintos: el cartel cierra a las 20.00 y sitúa la salve el lunes 30; el texto de la publicación alarga hasta las 21.00 y la adelanta al domingo",
+   "caption": "Cartel del besamanos de María Santísima de la Victoria de la Hermandad de la Borriquita.",
+   "foto": "borriquita-besamanos-victoria-2026-cartel-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Borriquita",
+   "encuadre": "contain",
+   "claves": [
+    "La Hermandad de la Borriquita celebra el solemne besamanos de María Santísima de la Victoria el sábado 28 y el domingo 29 de noviembre.",
+    "El culto es en la parroquia de Santa María de la Estrella, sede de la hermandad.",
+    "Según el cartel, el horario es el sábado de 18.00 a 20.00 y el domingo de 11.00 a 13.00 y de 18.00 a 20.00, con salve solemne el lunes 30 a las 20.00.",
+    "El texto que acompaña al cartel en Facebook da horarios más amplios y sitúa la salve el domingo, primero de Adviento."
+   ],
+   "body": [
+    "La Hermandad de la Borriquita de Coria del Río celebra el sábado 28 y el domingo 29 de noviembre el solemne besamanos de María Santísima de la Victoria, su titular mariana, en la parroquia de Santa María de la Estrella, según ha anunciado en su perfil de Facebook. El culto coincide con el primer domingo de Adviento.",
+    "La hermandad, cuyo nombre completo es Hermandad y Cofradía de Nazarenos del Santísimo Cristo de la Salud en su Sagrada Entrada en Jerusalén, María Santísima de la Victoria, San Pedro Apóstol y San Juan Evangelista, cierra con este besamanos un mes de celebraciones: el domingo 22 <a href='#borriquita-celebra-xxv-aniversario-cristo-salud'>celebró los 25 años del Cristo de la Salud</a> con una misa en la que se estrenó un himno.",
+    "## Dos horarios publicados",
+    "La hermandad ha difundido el horario del besamanos de dos formas que no coinciden. Según el cartel, la Virgen podrá visitarse el sábado de 18.00 a 20.00 y el domingo de 11.00 a 13.00 y de 18.00 a 20.00, y los cultos se cerrarán con una salve solemne el lunes 30 de noviembre a las 20.00.",
+    "El texto de la publicación que acompaña al cartel da, en cambio, un horario más amplio: el sábado de 18.00 a 21.00 y el domingo de 10.00 a 13.00 y de 18.00 a 21.00. En esa versión la salve solemne se reza el domingo, al terminar el besamanos. Quien quiera asistir a la salve puede confirmar el día con la hermandad.",
+    "El besamanos es un culto en el que la imagen se baja del altar y se coloca a la altura de los fieles para que puedan acercarse a besar su mano. Ese mismo fin de semana, el sábado 28, la Hermandad del Gran Poder celebra en su misa de las 20.00 la <a href='#gran-poder-toma-posesion-junta-san-jose-igualas'>toma de posesión de su nueva Junta de Gobierno</a>, y el domingo 29 la Soledad cita a los <a href='#soledad-nino-jesus-iguala-costaleros-2027'>costaleros del Niño Jesús</a> a las 10.30.",
+    "<span class='howto'><b>Besamanos de María Santísima de la Victoria.</b> Parroquia de Santa María de la Estrella. Sábado 28 de noviembre, desde las 18.00; domingo 29, desde las 11.00 (10.00 según el texto de la hermandad) hasta las 13.00 y desde las 18.00. Cierre a las 20.00 según el cartel o a las 21.00 según el texto. Salve solemne: lunes 30 a las 20.00 según el cartel; domingo 29 al terminar el besamanos según el texto.</span>"
+   ],
+   "seo": [
+    "borriquita-besamanos-virgen-victoria-coria-2026",
+    "Besamanos de la Virgen de la Victoria en Coria del Río",
+    "La Borriquita de Coria del Río celebra el 28 y 29 de noviembre el besamanos de la Virgen de la Victoria en Santa María de la Estrella, con salve solemne.",
+    [
+     "Hermandad de la Borriquita",
+     "María Santísima de la Victoria",
+     "besamanos",
+     "Santa María de la Estrella",
+     "Adviento",
+     "cultos"
+    ]
+   ]
+  },
+  {
+   "id": "coria-cf-cantera-partidos-28-29-noviembre",
+   "sec": "deportes",
+   "kicker": "Cantera del Coria CF",
+   "iso": "2026-11-26",
+   "hora": "23:00",
+   "src": "Coria CF (Facebook)",
+   "fuente_url": "https://www.facebook.com/2069782470890433/posts/2082660019602678",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La cantera del Coria CF juega 12 partidos el fin de semana y el juvenil de Liga Nacional recibe al Algeciras",
+   "sub": "Seis de los encuentros son en casa: cuatro en el Estadio Guadalquivir y dos en el polideportivo Alcalde Fernando Suárez",
+   "caption": "Calendario de partidos de la cantera del Coria CF para el fin de semana del 28 y 29 de noviembre.",
+   "foto": "coria-cf-cantera-calendario-28-29-nov-cartel-of.jpg",
+   "fotocredito": "Facebook del Coria CF",
+   "encuadre": "contain",
+   "claves": [
+    "Los equipos de cantera del Coria CF disputan 12 partidos el sábado 28 y el domingo 29 de noviembre, según el calendario del club.",
+    "El juvenil de Liga Nacional recibe al Algeciras CF el domingo 29 a las 12.00 en el Estadio Guadalquivir.",
+    "Seis partidos se juegan en Coria: cuatro en el Estadio Guadalquivir y dos en el polideportivo Alcalde Fernando Suárez.",
+    "El calendario incluye la categoría de 3.ª Andaluza Alevín, pero sin partido asignado."
+   ],
+   "body": [
+    "Los equipos de cantera del Coria CF disputan 12 partidos el sábado 28 y el domingo 29 de noviembre, según el calendario que el club ha publicado este jueves en su perfil de Facebook. La mitad se juegan en Coria del Río y el más destacado enfrenta al juvenil de Liga Nacional con el Algeciras CF.",
+    "Ese partido, Coria CF - Algeciras CF, será el domingo 29 a las 12.00 en el Estadio Guadalquivir. Es la categoría más alta del fútbol base del club. El mismo día, a las 16.30, el primer equipo <a href='#coria-cf-montalbeno-santaella-29n'>visita al Montalbeño en Santaella</a> en la División de Honor Sénior, y en Coria se celebran las elecciones generales.",
+    "## Seis partidos en casa",
+    "El Estadio Guadalquivir acoge el domingo otros tres encuentros: el infantil de 2.ª Andaluza ante el CD Santiponce, a las 14.15; el infantil de 4.ª Andaluza ante el Puebla CF, a las 16.15; y el cadete de 4.ª Andaluza ante el CD Rico Sport, a las 18.00. En el polideportivo Alcalde Fernando Suárez juegan el benjamín de 2.ª Andaluza ante la UD Mairena, el sábado a las 10.00, y el alevín femenino de 2.ª Andaluza ante el Camas CF, el domingo a las 10.00.",
+    "Fuera de casa, el sábado juegan el juvenil de 2.ª Andaluza en San Sebastián del Viso ante la UP Viso (18.00), el infantil de 3.ª Andaluza en el Estadio Guadiamar ante el Benacazón CF (18.30) y el alevín de 2.ª Andaluza ante la UD Tomares (11.30). El domingo salen el juvenil de 4.ª Andaluza al campo de Cantarrana ante el Puebla CF (11.00), el cadete de 2.ª Andaluza ante el CDSC Dos Hermanas en el Pepe Flores Muñoz (13.00) y el cadete de 3.ª Andaluza ante la UD Pilas en el polideportivo municipal (16.00).",
+    "El calendario recoge la categoría de 3.ª Andaluza Alevín, pero sin rival ni hora. En el primer equipo, el club ha comunicado esta semana la baja de Soufiane, al que agradece sus servicios.",
+    "<span class='howto'><b>Partidos de la cantera en Coria.</b> Sábado 28: benjamín 2.ª Andaluza, Coria CF - UD Mairena, 10.00, polideportivo Alcalde Fernando Suárez. Domingo 29: alevín femenino, Coria CF - Camas CF, 10.00, polideportivo Alcalde Fernando Suárez; juvenil Liga Nacional, Coria CF - Algeciras CF, 12.00; infantil 2.ª Andaluza, Coria CF - CD Santiponce, 14.15; infantil 4.ª Andaluza, Coria CF - Puebla CF, 16.15; cadete 4.ª Andaluza, Coria CF - CD Rico Sport, 18.00, los cuatro en el Estadio Guadalquivir.</span>"
+   ],
+   "seo": [
+    "coria-cf-cantera-partidos-juvenil-algeciras",
+    "Cantera del Coria CF: 12 partidos este fin de semana",
+    "La cantera del Coria CF juega 12 partidos el 28 y 29 de noviembre; el juvenil de Liga Nacional recibe al Algeciras el domingo a las 12.00 en Coria.",
+    [
+     "Coria CF",
+     "cantera",
+     "Liga Nacional Juvenil",
+     "Algeciras CF",
+     "Estadio Guadalquivir",
+     "fútbol base"
+    ]
+   ]
+  },
   {
    "id": "participacion-coria-generales-guia-29n",
    "sec": "politica",
@@ -192,35 +399,37 @@ window.EP = {
    "kicker": "Carpintería de ribera",
    "iso": "2026-11-25",
    "hora": "23:01",
-   "src": "Ayuntamiento de Coria del Río (Facebook)",
-   "fuente_url": "https://www.facebook.com/1456808846581781/posts/1466280142301318",
+   "src": "Ayuntamiento de Coria del Río",
+   "fuente_url": "https://www.ayto-coriadelrio.es/es/actualidad/noticias/Coria-del-Rio-recupera-la-memoria-de-su-cultura-fluvial-con-un-libro-un-audiovisual-y-una-exposicion./",
    "firma": "Redacción El Coriano",
    "elaboracion": "ia",
    "title": "Coria del Río presenta el 2 de diciembre un libro sobre la carpintería de ribera y su cultura fluvial",
-   "sub": "El acto, en la Biblioteca Municipal Maestro Antonio Pineda, incluye un audiovisual con testimonios y la apertura de una exposición en la Sala Martínez de León",
+   "sub": "El libro, coordinado por Juan Manuel Suárez Japón y cofinanciado por el Ministerio de Cultura, se presenta en la Biblioteca Maestro Antonio Pineda con un audiovisual y una exposición de diez paneles",
    "caption": "Cartel de la presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río».",
    "foto": "libro-carpinteria-ribera-cartel-of.jpg",
    "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
    "encuadre": "contain",
    "claves": [
-    "El libro «La carpintería de ribera y la cultura fluvial en Coria del Río» se presenta el miércoles 2 de diciembre a las 18.30.",
-    "La cita es en la planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda.",
-    "El acto incluye un audiovisual con testimonios de protagonistas del oficio y la inauguración de una exposición en la Sala Martínez de León.",
-    "El Ayuntamiento lo plantea como un homenaje a las familias que se dedicaron a la carpintería de ribera."
+    "El libro «La carpintería de ribera y la cultura fluvial en Coria del Río» se presenta el miércoles 2 de diciembre a las 18.30 en la Biblioteca Pública Municipal Maestro Antonio Pineda.",
+    "Lo coordina Juan Manuel Suárez Japón y firman capítulos Guillermo Valencia Solano, Matías Rodríguez Cárdenas y Francisco Rojas Castellano.",
+    "El proyecto lo cofinancian el Ministerio de Cultura y el Ayuntamiento, según el Consistorio.",
+    "La exposición, con diez paneles y 24 fotografías, abre en la Sala Martínez de León de lunes a viernes."
    ],
    "body": [
-    "El Ayuntamiento de Coria del Río presentará el miércoles 2 de diciembre, a las 18.30, el libro «La carpintería de ribera y la cultura fluvial en Coria del Río», según ha anunciado en su perfil de Facebook. La presentación será en la planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda.",
-    "La carpintería de ribera es el oficio de construir y reparar a mano embarcaciones de madera en la orilla del agua. El Consistorio plantea la publicación como un homenaje a las familias corianas que hicieron de ese trabajo su forma de vida y transmitieron sus conocimientos de generación en generación, y lo sitúa dentro del patrimonio cultural ligado al Guadalquivir.",
-    "## Audiovisual y exposición",
-    "La jornada no se limitará al libro. Según el programa municipal, se proyectará un audiovisual con testimonios de protagonistas de esa historia y se inaugurará una exposición en la Sala de Exposiciones Andrés Martínez de León, el espacio municipal que acoge habitualmente las muestras de arte del pueblo.",
-    "El cartel del acto incluye los logotipos del Ministerio de Cultura del Gobierno de España y del Ayuntamiento de Coria del Río. El anuncio municipal no detalla quién firma el libro, cómo se ha financiado la edición ni hasta qué fecha podrá visitarse la exposición.",
-    "El río marca buena parte de la vida del municipio: de la barca que lo cruza a la pesca, y a las actividades que lo usan como aula, como la <a href='#ies-rodrigo-caro-plogging-ribera-guadalquivir'>recogida de basura que hicieron en la ribera los alumnos del IES Rodrigo Caro</a> la semana pasada. El Ayuntamiento acompaña el anuncio con un llamamiento a conocer, reconocer y preservar esta parte de la memoria colectiva.",
-    "<span class='howto'><b>Presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río».</b> Miércoles 2 de diciembre, 18.30. Planta baja de la Biblioteca Pública Municipal Maestro Antonio Pineda. Incluye la proyección de un audiovisual y la inauguración de una exposición en la Sala de Exposiciones Andrés Martínez de León.</span>"
+    "El Ayuntamiento de Coria del Río presentará el miércoles 2 de diciembre, a las 18.30, el libro «La carpintería de ribera y la cultura fluvial en Coria del Río», un estudio coordinado por el geógrafo Juan Manuel Suárez Japón. La presentación será en la Biblioteca Pública Municipal Maestro Antonio Pineda e incluirá un audiovisual y la inauguración de una exposición, según la nota publicada en la web municipal.",
+    "La carpintería de ribera es el oficio de construir y reparar a mano embarcaciones de madera en la orilla del agua. El libro, el audiovisual y la exposición forman parte de un proyecto de investigación, conservación y difusión que, según el Ayuntamiento, cofinancian el Ministerio de Cultura y el propio Consistorio. La nota no detalla el importe de esa financiación.",
+    "## Quién firma el libro",
+    "Además de Suárez Japón, firman trabajos en el volumen Guillermo Valencia Solano, Matías Rodríguez Cárdenas y Francisco Rojas Castellano. La coordinación editorial es de Antonio Bizcocho Pacheco, que también comisaría la exposición. El estudio recorre la actividad de carpinteros y barqueros desde los siglos XVI y XVII a partir de contratos notariales, el Catastro de Ensenada y registros municipales, y analiza cómo cambió la ribera tras la corta de La Merlina, la llegada de la navegación a vapor y la mecanización.",
+    "El libro recupera también la memoria de familias de carpinteros como los Palma, los Díaz y los Asián, conocidos como los Hachilla, y la relación del oficio con la pesca, el transporte de mercancías, el paso de una orilla a otra, la extracción de arena y el trabajo de ladrilleros y alfareros. «La carpintería de ribera es mucho más que un oficio. Forma parte de nuestra identidad», ha señalado el alcalde, Modesto González.",
+    "## Testimonios y exposición",
+    "El audiovisual reúne los testimonios de José Antonio Asián García («Hachilla»), Antonio Palma Alfaro («el Hombre Aro»), Hilario Díaz Gómez, Antonio Arteaga Hurtado y Federico Calderón Leal. La exposición, con el mismo título que el libro, reúne diez paneles y 24 fotografías de antiguos paisajes, embarcaciones, escenas de trabajo y protagonistas de la vida en la ribera.",
+    "El río marca buena parte de la vida del municipio: de la barca que lo cruza a la pesca, y a actividades que lo usan como aula, como la <a href='#ies-rodrigo-caro-plogging-ribera-guadalquivir'>recogida de basura que hicieron en la ribera los alumnos del IES Rodrigo Caro</a>.",
+    "<span class='howto'><b>Presentación del libro «La carpintería de ribera y la cultura fluvial en Coria del Río».</b> Miércoles 2 de diciembre, 18.30. Biblioteca Pública Municipal Maestro Antonio Pineda. Después se inaugura la exposición en la Sala de Exposiciones Andrés Martínez de León, que podrá visitarse de lunes a viernes de 11.00 a 13.30 y de 17.00 a 20.00.</span>"
    ],
    "seo": [
     "libro-carpinteria-ribera-cultura-fluvial-coria-del-rio",
     "Carpintería de ribera: libro en Coria del Río el 2 de dic.",
-    "Coria del Río presenta el 2 de diciembre, a las 18.30, un libro sobre la carpintería de ribera, con audiovisual y exposición en la Sala Martínez de León.",
+    "Coria del Río presenta el 2 de diciembre un libro sobre la carpintería de ribera coordinado por Suárez Japón, con audiovisual y exposición de diez paneles.",
     [
      "carpintería de ribera",
      "cultura fluvial",
@@ -229,7 +438,8 @@ window.EP = {
      "Sala Andrés Martínez de León",
      "patrimonio"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-26T23:00"
   },
   {
    "id": "soledad-nino-jesus-iguala-costaleros-2027",
