@@ -888,51 +888,6 @@ window.EP = {
    "actualizada": "2026-11-24T23:01"
   },
   {
-   "id": "nombramiento-asesora-gabinete-alcaldia-bop",
-   "sec": "politica",
-   "kicker": "Personal eventual",
-   "iso": "2026-11-24",
-   "hora": "08:03",
-   "src": "BOP de Sevilla",
-   "fuente_url": "https://bopsevilla.dipusevilla.es/export/sites/bop/.galleries/Documentos-Anuncios-en-PDF/firmado-1795478431537-final-39611915.pdf",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "El alcalde de Coria del Río nombra a una asesora de gabinete con un sueldo de 30.750 euros brutos al año",
-   "sub": "El BOP publica la resolución del 18 de noviembre que nombra personal eventual a Alejandra Blázquez González, en una de las siete plazas que creó el Pleno en 2023",
-   "caption": "Fachada del Ayuntamiento de Coria del Río, en la calle Cervantes.",
-   "foto": "ayuntamiento-coria-fachada-wiki.jpg",
-   "fotocredito": "CarlosVdeHabsburgo / Wikimedia Commons (CC BY-SA 4.0)",
-   "claves": [
-    "El alcalde, Modesto González Márquez, nombró el 18 de noviembre a Alejandra Blázquez González asesora de gabinete, como personal eventual.",
-    "El puesto tiene una retribución bruta de 30.750,02 euros al año en 14 pagas.",
-    "La plaza es una de las siete de asesor de gabinete que creó el Pleno el 29 de junio de 2023.",
-    "El cargo es de libre designación y cesa, como máximo, cuando termine el mandato del alcalde."
-   ],
-   "body": [
-    "El alcalde de Coria del Río, Modesto González Márquez, ha nombrado a Alejandra Blázquez González asesora de gabinete del Ayuntamiento, como personal eventual de confianza, con una retribución bruta de 30.750,02 euros al año, según la resolución que publica este martes 24 de noviembre el Boletín Oficial de la Provincia (BOP) de Sevilla.",
-    "La resolución, con el número 3952/2026, está fechada el 18 de noviembre y firmada por el alcalde. El sueldo se reparte en 14 mensualidades, con pagas dobles en junio y diciembre, y el texto prevé que se le apliquen las subidas salariales que fijen el Real Decreto 14/2025, de 2 de diciembre, y las normas posteriores.",
-    "## Una de siete plazas",
-    "El nombramiento ocupa una de las siete plazas de personal eventual de asesores de gabinete que creó el Pleno municipal en la sesión del 29 de junio de 2023, al modificar la relación de puestos de trabajo, en el área de Alcaldía, y la plantilla. Todas son a jornada completa y tienen la misma retribución, según el texto de la resolución.",
-    "El personal eventual es la figura que la Ley Reguladora de las Bases del Régimen Local, en su artículo 104, reserva a los puestos de confianza o asesoramiento especial. No se cubre por oposición: lo nombra y lo cesa libremente el alcalde, y su cese es automático cuando termina el mandato de la autoridad a la que asesora. La resolución fija un plazo de diez días desde la notificación para la toma de posesión y ordena dar cuenta al Pleno en su primera sesión ordinaria.",
-    "El mismo número del BOP publica el cese de otra asesora de Gabinete de Alcaldía, María Teresa Estévez Franco, por la resolución 3886/2026, de 11 de noviembre, firmada por la teniente de alcalde delegada de Recursos Humanos, Régimen Interior y Limpieza, Silvia Gracia Galán. El cese tiene efectos desde ese mismo 11 de noviembre y el anuncio no indica el motivo. Días después, Teresa Estévez juró su cargo de concejala del Ayuntamiento.",
-    "<span class='howto'>Dónde consultarlo: BOP de Sevilla número 227, del martes 24 de noviembre de 2026, sección de Ayuntamientos, Coria del Río. El anuncio del nombramiento está en bopsevilla.dipusevilla.es. La resolución se dará a conocer al Pleno en su próxima sesión ordinaria.</span>"
-   ],
-   "seo": [
-    "nombramiento-asesora-gabinete-ayuntamiento-coria",
-    "Coria del Río nombra una asesora de gabinete en el BOP",
-    "El alcalde de Coria del Río nombra a Alejandra Blázquez asesora de gabinete, con 30.750 euros brutos al año, según publica el BOP de Sevilla.",
-    [
-     "Ayuntamiento de Coria del Río",
-     "personal eventual",
-     "asesores de gabinete",
-     "Modesto González Márquez",
-     "BOP de Sevilla",
-     "plantilla municipal"
-    ]
-   ],
-   "actualizada": "2026-11-24T23:01"
-  },
-  {
    "id": "semillas-igualdad-exposicion-huerta-rita",
    "sec": "cultura",
    "kicker": "Semillas de Igualdad",
