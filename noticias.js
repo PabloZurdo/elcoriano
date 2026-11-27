@@ -1,17 +1,10 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-26",
+  "actualizado": "2026-11-27",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
  "agenda": [
-  {
-   "cuando": "26 nov, 18.00",
-   "que": "Pasacalles, presentación de la programación (19.00) y encendido del alumbrado de Navidad (19.30)",
-   "donde": "Del Paseo Tierno Galván al Ayuntamiento",
-   "noticia": "encendido-alumbrado-navidad-coria-2026",
-   "hasta": "2026-11-26"
-  },
   {
    "cuando": "28 nov, 20.00",
    "que": "Jura y toma de posesión de la nueva Junta de Gobierno del Gran Poder",
@@ -61,10 +54,10 @@ window.EP = {
    "hasta": "2026-12-02"
   },
   {
-   "cuando": "Hasta el 3 dic",
-   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio (diez días hábiles)",
+   "cuando": "Hasta el 3 dic (se ampliará)",
+   "que": "Solicitudes para la bolsa de auxiliares de ayuda a domicilio; también deben inscribirse quienes ya estaban en la anterior",
    "donde": "Registro del Ayuntamiento o sede electrónica",
-   "noticia": "bolsa-auxiliar-ayuda-domicilio-coria-2026",
+   "noticia": "bolsa-ayuda-domicilio-ampliacion-plazo-reinscripcion",
    "hasta": "2026-12-03"
   },
   {
@@ -118,6 +111,52 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "bolsa-ayuda-domicilio-ampliacion-plazo-reinscripcion",
+   "sec": "economia",
+   "kicker": "Bolsa de empleo",
+   "iso": "2026-11-27",
+   "hora": "07:58",
+   "src": "Ayuntamiento de Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/reel/1153642330404299/",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Coria del Río ampliará el plazo de la bolsa de ayuda a domicilio y pide apuntarse también a quien ya estaba",
+   "sub": "La delegada de Recursos Humanos, Silvia Gracia, avisa de que no pagar la tasa o no acreditar la exención al presentar la solicitud deja fuera de la bolsa.",
+   "caption": "Silvia Gracia, teniente de alcalde delegada de Recursos Humanos, en una calle del centro de Coria del Río durante el vídeo sobre la bolsa de ayuda a domicilio.",
+   "foto": "bolsa-sad-dudas-plazo-coria-of.jpg",
+   "fotocredito": "Facebook del Ayuntamiento de Coria del Río",
+   "claves": [
+    "El Ayuntamiento de Coria del Río ampliará el plazo de la bolsa de auxiliares de ayuda a domicilio, que ahora termina el jueves 3 de diciembre.",
+    "Quien ya figura en la bolsa de ayuda a domicilio debe inscribirse en la nueva, porque las bolsas caducan y solo se contrata desde la vigente.",
+    "La tasa de 30 euros es obligatoria; la exención se acredita al presentar la solicitud y el impago no se puede subsanar.",
+    "La solicitud se presenta por vía telemática o en el Ayuntamiento, de 9.00 a 14.00."
+   ],
+   "body": [
+    "El Ayuntamiento de Coria del Río ampliará el plazo para inscribirse en la bolsa de empleo de auxiliares de ayuda a domicilio, que ahora termina el jueves 3 de diciembre. Lo ha adelantado la teniente de alcalde delegada de Recursos Humanos y Régimen Interior, Silvia Gracia Galán, en un vídeo que el Ayuntamiento publicó el jueves 26 de noviembre en su perfil de Facebook.",
+    "La delegada no ha concretado hasta qué día se prorrogará la inscripción. La bolsa se abrió el viernes 20 de noviembre, el día después de que sus bases salieran en el Boletín Oficial de la Provincia (BOP) de Sevilla, con un plazo de diez días hábiles, como <a href='#bolsa-auxiliar-ayuda-domicilio-coria-2026'>contó El Coriano al publicarse la convocatoria</a>.",
+    "## Quién tiene que inscribirse",
+    "Gracia explica en el vídeo que figurar hoy en la bolsa de ayuda a domicilio no exime de apuntarse a la nueva. Según la delegada, las bolsas de empleo tienen caducidad y el Ayuntamiento solo contrata a personas que están en la bolsa actualizada. Puede inscribirse cualquier vecino o vecina que tenga la titulación que piden las bases.",
+    "Esas bases exigen el título de Graduado en Educación Secundaria Obligatoria (ESO) o equivalente y una cualificación del ámbito sociosanitario, como el título de Técnico en Atención a Personas en Situación de Dependencia o un certificado de profesionalidad de atención sociosanitaria. No hay examen: la selección es un concurso de méritos con un máximo de 100 puntos, 70 por experiencia y 30 por formación.",
+    "## La tasa no se puede corregir después",
+    "El vídeo dedica su último aviso a la tasa, de 30 euros. Gracia recuerda que el pago es obligatorio y que quien esté exento debe acreditarlo al inicio de la solicitud, porque el impago no es subsanable y puede dejar a la persona fuera de la bolsa. Las bases eximen, entre otras, a las personas demandantes de empleo que cumplan los requisitos de la ordenanza fiscal y a las que tengan una discapacidad igual o superior al 33 %. Las familias numerosas de categoría general pagan 15 euros y las de categoría especial no pagan.",
+    "La solicitud puede presentarse por vía telemática o en persona en el Ayuntamiento, en el horario de atención a la ciudadanía, de 9.00 a 14.00. Las listas de admitidos y las puntuaciones se publicarán en el tablón de la sede electrónica municipal, con cinco días hábiles para reclamar.",
+    "<span class='howto'><b>Bolsa de auxiliares de ayuda a domicilio.</b> Plazo: hasta el jueves 3 de diciembre; el Ayuntamiento ha anunciado que lo ampliará. Dónde: sede electrónica del Ayuntamiento de Coria del Río o Registro General, de 9.00 a 14.00. Qué presentar: solicitud (anexo I) y autobaremación (anexo II) dirigidas al alcalde, con la titulación, los méritos y el justificante de la tasa de 30 euros o el documento que acredite la exención. También deben inscribirse quienes ya estaban en la bolsa anterior.</span>"
+   ],
+   "seo": [
+    "bolsa-ayuda-domicilio-coria-ampliacion-plazo-tasa",
+    "Bolsa de ayuda a domicilio en Coria: se ampliará el plazo",
+    "El Ayuntamiento de Coria del Río prorrogará la bolsa de ayuda a domicilio, abierta hasta el 3 de diciembre, y pide reinscribirse a quien ya estaba.",
+    [
+     "Bolsa de empleo",
+     "Ayuda a domicilio",
+     "Ayuntamiento de Coria del Río",
+     "Silvia Gracia",
+     "Empleo público",
+     "Servicios sociales"
+    ]
+   ]
+  },
   {
    "id": "navidad-coria-2026-encendido-alumbrado-arbol-ganchillo",
    "sec": "cultura",
@@ -921,7 +960,7 @@ window.EP = {
     "## Dos corianas en los paneles",
     "La muestra pone el foco también en mujeres de Coria del Río. El Ayuntamiento cita a dos: Clara Grima, profesora de Matemáticas Aplicadas de la Universidad de Sevilla, y Aída Platero, investigadora del Instituto de Biomedicina de Sevilla.",
     "Según el Consistorio, la exposición invita a mirar al pasado, cuando el trabajo de muchas mujeres quedó silenciado; a reconocer los avances del presente, y a reflexionar sobre lo que falta para que las oportunidades sean iguales y no haya desigualdades por razón de género.",
-    "La muestra abre la semana del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer, para la que el Ayuntamiento ha preparado <a href='#25n-campana-ayuntamiento-2026'>una campaña y una marcha</a> con el Centro Municipal de Información a la Mujer. En octubre, el Consistorio aprobó por unanimidad su <a href='#plan-igualdad-ayuntamiento-2026'>primer Plan de Igualdad municipal</a>.",
+    "La muestra abre la semana del 25 de noviembre, Día Internacional de la Eliminación de la Violencia contra la Mujer, para la que el Ayuntamiento ha preparado <a href='#25n-campana-ayuntamiento-2026'>una campaña y una marcha</a> con el Centro Municipal de Información a la Mujer. En octubre, el Consistorio aprobó por unanimidad su primer Plan de Igualdad municipal.",
     "<span class='howto'><b>Semillas de Igualdad.</b> Exposición itinerante de ocho paneles. Pasillo del Centro de Servicios Sociales Huerta Rita, Coria del Río, desde el lunes 23 de noviembre. Horario y fecha de clausura: el Ayuntamiento no los ha detallado. <b>Marcha del 25N:</b> miércoles 25 de noviembre, 10.00, desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento.</span>"
    ],
    "seo": [
@@ -2108,7 +2147,7 @@ window.EP = {
     "## Las violencias menos visibles",
     "El Ayuntamiento enumera en su mensaje varias de esas conductas: los micromachismos, los celos, los chantajes, el aislamiento y la desvalorización. Frente a ellas sitúa las formas de violencia que sí se ven a simple vista, como los asesinatos, las agresiones, las violaciones, los golpes y los abusos.",
     "La campaña termina con un llamamiento a la ciudadanía: «No apartemos la mirada. Aprendamos a reconocer todas las violencias». El Consistorio afirma que la fecha sirve para renovar su compromiso con la prevención, la sensibilización, la educación y la protección de las mujeres.",
-    "La campaña llega un mes después de que el Ayuntamiento aprobara por unanimidad su <a href='#plan-igualdad-ayuntamiento-2026'>primer Plan de Igualdad municipal</a>, centrado en la igualdad de oportunidades y la no discriminación dentro de la plantilla del Consistorio.",
+    "La campaña llega un mes después de que el Ayuntamiento aprobara por unanimidad su primer Plan de Igualdad municipal, centrado en la igualdad de oportunidades y la no discriminación dentro de la plantilla del Consistorio.",
     "El 25 de noviembre fue declarado Día Internacional de la Eliminación de la Violencia contra la Mujer por la Asamblea General de las Naciones Unidas en 1999.",
     "<span class='howto'><b>Marcha del 25N.</b> Miércoles 25 de noviembre, 10.00, desde la Plaza Santa Ángela de la Cruz hasta el Ayuntamiento, con acto institucional y Punto Violeta. <b>Ayuda y atención.</b> Teléfono 016, gratuito y disponible las 24 horas; no deja rastro en la factura. También por WhatsApp en el 600 000 016 y por correo electrónico en 016-online@igualdad.gob.es. Teléfono del Instituto Andaluz de la Mujer: 900 200 999. En una emergencia, llama al 112.</span>"
    ],
@@ -2981,49 +3020,6 @@ window.EP = {
    ],
    "hora": "14:15",
    "encuadre": "contain"
-  },
-  {
-   "id": "plan-igualdad-ayuntamiento-2026",
-   "sec": "coria",
-   "kicker": "Igualdad municipal",
-   "iso": "2026-10-27",
-   "src": "Ayuntamiento de Coria del Río",
-   "fuente_url": "https://www.ayto-coriadelrio.es/es/actualidad/noticias/Coria-del-Rio-aprueba-por-unanimidad-su-primer-Plan-de-Igualdad-para-garantizar-una-administracion-sin-discriminacion/",
-   "firma": "Redacción El Coriano",
-   "elaboracion": "ia",
-   "title": "Coria del Río aprueba por unanimidad su primer Plan de Igualdad municipal",
-   "sub": "El documento fija un marco para la igualdad salarial y la no discriminación en la plantilla del Ayuntamiento",
-   "caption": "Presentación del I Plan de Igualdad del Ayuntamiento de Coria del Río.",
-   "foto": "plan-igualdad-ayuntamiento-2026-of.jpg",
-   "fotocredito": "Ayuntamiento de Coria del Río",
-   "claves": [
-    "El Ayuntamiento de Coria del Río ha aprobado por unanimidad su primer Plan de Igualdad, anunciado el 26 de octubre de 2026.",
-    "El plan establece un marco para la igualdad de oportunidades, la equidad salarial y la no discriminación en la plantilla municipal.",
-    "El alcalde, Modesto González Márquez, lo ha calificado de logro colectivo fruto del diálogo con los trabajadores."
-   ],
-   "body": [
-    "El Ayuntamiento de Coria del Río ha aprobado por unanimidad su primer Plan de Igualdad, un documento que fija un marco de actuación para la igualdad de oportunidades, la equidad salarial y la protección de los derechos de toda la plantilla municipal. Lo anuncia el propio Consistorio en una nota de prensa del 26 de octubre de 2026.",
-    "Según el comunicado, el plan busca que hombres y mujeres cuenten con las mismas oportunidades en la administración municipal y que se garantice la igualdad salarial, sin discriminación por razón de género. También recoge la defensa de los derechos de todos los colectivos y el impulso de un entorno laboral basado en el respeto, la inclusión y la igualdad de trato.",
-    "## Desarrollo profesional y condiciones",
-    "El documento apuesta por el desarrollo profesional según las competencias, las capacidades y los méritos de cada persona. Su objetivo es que no existan exclusiones ni diferencias injustificadas en las condiciones laborales de los empleados municipales.",
-    "La nota no detalla medidas concretas, plazos ni presupuesto del plan. Tampoco indica cuándo empezará a aplicarse cada una de sus partes.",
-    "## Negociación con la plantilla",
-    "El alcalde, Modesto González Márquez, ha destacado el diálogo entre el Ayuntamiento, los trabajadores municipales y sus representantes para llegar al acuerdo. «Este Plan de Igualdad es un logro colectivo y un motivo de satisfacción para Coria del Río», ha señalado. Según el comunicado, es la primera vez que el Consistorio cuenta con una herramienta de estas características.",
-    "El regidor ha añadido que «la igualdad no puede quedarse en una declaración de intenciones». Para él, el plan debe traducirse en medidas y compromisos concretos. El Ayuntamiento agradece en la nota la implicación de la plantilla y de sus representantes.",
-    "<span class='howto'><b>Qué se ha aprobado.</b> El primer Plan de Igualdad del Ayuntamiento de Coria del Río, aprobado por unanimidad y anunciado el 26 de octubre de 2026. Afecta a la plantilla municipal. El texto completo del plan no figura en la nota de prensa.</span>"
-   ],
-   "seo": [
-    "plan-igualdad-ayuntamiento-coria-del-rio",
-    "Coria aprueba su primer Plan de Igualdad municipal",
-    "El Ayuntamiento de Coria del Río aprueba por unanimidad su primer Plan de Igualdad para su plantilla, con igualdad salarial y no discriminación.",
-    [
-     "Coria del Río",
-     "Plan de Igualdad",
-     "Ayuntamiento de Coria",
-     "igualdad salarial",
-     "plantilla municipal"
-    ]
-   ]
   },
   {
    "id": "opinion-paseo",
