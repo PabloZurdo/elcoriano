@@ -112,6 +112,53 @@ window.EP = {
  ],
  "noticias": [
   {
+   "id": "coria-cf-ficha-sarmiento-despide-recio",
+   "sec": "deportes",
+   "kicker": "Coria CF",
+   "iso": "2026-11-27",
+   "hora": "22:59",
+   "src": "Coria CF (Facebook)",
+   "fuente_url": "https://www.facebook.com/2069782470890433/posts/2084242706111076",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El Coria CF ficha al delantero Sarmiento, que marcó 20 goles en División de Honor la temporada pasada",
+   "sub": "El atacante colombiano llega desde el San Roque de Lepe, de Tercera Federación, el mismo día en que el club ha anunciado la salida de Recio",
+   "caption": "Sarmiento posa con la camiseta del Coria CF en su presentación como nuevo jugador del club.",
+   "foto": "coria-cf-ficha-sarmiento-of.jpg",
+   "fotocredito": "Facebook del Coria CF",
+   "claves": [
+    "El Coria CF ha fichado al delantero centro colombiano Sarmiento, procedente del San Roque de Lepe, de Tercera Federación.",
+    "Según el club, Sarmiento fue la temporada pasada el máximo goleador de la División de Honor Sénior con el Inter Sevilla, con 20 goles en 25 partidos.",
+    "El mismo viernes 27 de noviembre el Coria CF anunció que Recio deja la entidad para buscar nuevos retos personales.",
+    "El equipo juega el domingo 29 a las 16.30 ante el Montalbeño en Santaella (Córdoba)."
+   ],
+   "body": [
+    "El Coria CF ha incorporado al delantero centro Sarmiento, que llega desde el San Roque de Lepe, de Tercera Federación, según ha anunciado el club de Coria del Río este viernes 27 de noviembre en su perfil de Facebook. El fichaje refuerza la delantera de un equipo que pelea por la zona alta de la División de Honor Sénior.",
+    "El club presenta al jugador, de nacionalidad colombiana, como un delantero centro con olfato goleador. Según el Coria CF, la temporada pasada fue el máximo goleador de la División de Honor Sénior con el Inter Sevilla, con 20 goles en 25 partidos. La entidad destaca también su rapidez y sus movimientos dentro del área.",
+    "El anuncio no detalla la duración del contrato ni si el delantero podrá jugar ya este fin de semana.",
+    "## Salida de Recio",
+    "Unas horas antes, el mismo viernes, el Coria CF comunicó en Facebook que Recio se desvincula del club para buscar nuevos retos personales. La entidad le agradeció sus servicios y le deseó suerte, sin dar más detalles sobre su destino. Es la segunda baja que anuncia el club esta semana, después de la de Soufiane, de la que informó el miércoles 25.",
+    "## Partido en Santaella",
+    "El equipo ribereño suma 19 puntos tras <a href='#coria-cf-empata-la-palma'>empatar 0-0 con La Palma</a> el domingo 22 en el Estadio Guadalquivir. Su próximo encuentro, de la jornada 13, será el domingo 29 de noviembre a las 16.30 ante el Montalbeño, en el campo municipal Virgen del Valle de Santaella, como <a href='#coria-cf-montalbeno-santaella-29n'>anunció el club esta semana</a>. Ese mismo domingo se celebran las elecciones generales.",
+    "## El CB Coria, de viaje",
+    "En baloncesto, el Club Baloncesto Coria también jugará fuera este fin de semana, según ha publicado en su perfil de Facebook. Su equipo de Tercera FEB viajará a Badajoz el domingo 29, y el equipo masculino de Primera Nacional se desplazará a Huelva en la misma jornada. El club no ha detallado rivales ni horarios en esas publicaciones.",
+    "<span class='howto'><b>Próximo partido.</b> Montalbeño - Coria CF. División de Honor Sénior, jornada 13. Domingo 29 de noviembre, 16.30. Campo municipal Virgen del Valle, Santaella (Córdoba). La cantera del club juega también este fin de semana: <a href='#coria-cf-cantera-partidos-28-29-noviembre'>horarios de los equipos de base</a>.</span>"
+   ],
+   "seo": [
+    "coria-cf-ficha-sarmiento-delantero-baja-recio",
+    "El Coria CF ficha al delantero Sarmiento y despide a Recio",
+    "El Coria CF ficha a Sarmiento, delantero que marcó 20 goles en 25 partidos en División de Honor con el Inter Sevilla, y anuncia la baja de Recio.",
+    [
+     "Coria CF",
+     "Sarmiento",
+     "fichajes",
+     "División de Honor Sénior",
+     "Recio",
+     "CB Coria"
+    ]
+   ]
+  },
+  {
    "id": "bolsa-ayuda-domicilio-ampliacion-plazo-reinscripcion",
    "sec": "economia",
    "kicker": "Bolsa de empleo",
@@ -221,13 +268,13 @@ window.EP = {
     "El Ayuntamiento de Coria del Río repartirá 4.500 euros en cheques regalo de 50 y 100 euros con la campaña «Navidad a todo Río».",
     "Del 1 al 19 de diciembre, cada compra de más de 20 euros en un comercio adherido da una papeleta para el sorteo.",
     "El sorteo será presencial el 19 de diciembre en el Kiosco de la Música, y los premios se gastan en los comercios participantes hasta el 5 de enero.",
-    "Los comercios pueden inscribirse gratis hasta el domingo 29 de noviembre."
+    "Los comercios pueden inscribirse gratis hasta el domingo 29 de noviembre; el viernes 27 ya eran más de 40, según el Ayuntamiento."
    ],
    "body": [
-    "El Ayuntamiento de Coria del Río sorteará 4.500 euros en cheques regalo de 50 y 100 euros entre los clientes del comercio local con la campaña «Navidad a todo Río», según ha publicado este jueves 26 de noviembre en su perfil de Facebook. Los cheques solo se podrán gastar en las tiendas del municipio que se adhieran.",
+    "El Ayuntamiento de Coria del Río sorteará 4.500 euros en cheques regalo de 50 y 100 euros entre los clientes del comercio local con la campaña «Navidad a todo Río», según ha publicado este jueves 26 de noviembre en su perfil de Facebook. Los cheques solo se podrán gastar en las tiendas del municipio que se adhieran. Según el Ayuntamiento, a última hora del viernes 27 ya eran más de 40 los comercios inscritos.",
     "La mecánica es sencilla. Del 1 al 19 de diciembre, cada compra de más de 20 euros en uno de los establecimientos participantes da derecho a una papeleta. El sorteo será presencial el 19 de diciembre en el Kiosco de la Música, con pasacalles y actuaciones, según el anuncio municipal. Quien gane tendrá hasta el 5 de enero para gastar su premio en los comercios adheridos.",
     "## Inscripción de comercios hasta el domingo",
-    "Los comercios de Coria interesados deben inscribirse antes del domingo 29 de noviembre a través de un formulario en línea que el Ayuntamiento ha enlazado en su publicación. La inscripción es gratuita. Según el Consistorio, los establecimientos recuperan íntegro el importe de los cheques que canjeen y reciben gratis la cartelería, las papeletas y los folletos de la campaña, además de publicidad para su negocio.",
+    "Los comercios de Coria interesados deben inscribirse antes del domingo 29 de noviembre a través de un formulario en línea que el Ayuntamiento ha enlazado en su publicación. La inscripción es gratuita. El viernes 27 por la tarde, el Consistorio informó en Facebook de que más de 40 comercios se habían adherido ya y recordó que el plazo termina el domingo. Según el Consistorio, los establecimientos recuperan íntegro el importe de los cheques que canjeen y reciben gratis la cartelería, las papeletas y los folletos de la campaña, además de publicidad para su negocio.",
     "El Ayuntamiento no ha precisado en su anuncio qué partida del presupuesto municipal financia los 4.500 euros. La campaña se presentó el mismo día en que Coria <a href='#navidad-coria-2026-encendido-alumbrado-arbol-ganchillo'>encendió su alumbrado de Navidad</a>, un acto en el que el alcalde, Modesto González, pidió a los vecinos que tengan el comercio local como primera opción en sus compras de estas fiestas.",
     "La campaña llega pocas semanas después de que <a href='#aldi-abre-supermercado-coria-del-rio'>Aldi abriera un supermercado</a> en el municipio. El Ayuntamiento resume su objetivo con el lema de la campaña: que la Navidad «se quede en nuestro pueblo».",
     "<span class='howto'><b>«Navidad a todo Río».</b> Compras válidas: del 1 al 19 de diciembre, más de 20 euros por compra en comercios adheridos (una papeleta por compra). Sorteo: 19 de diciembre, Kiosco de la Música. Premios: cheques de 50 y 100 euros, hasta 4.500 euros en total, canjeables hasta el 5 de enero. Inscripción de comercios: gratuita, hasta el domingo 29 de noviembre, con el formulario enlazado en el Facebook del Ayuntamiento de Coria del Río.</span>"
@@ -244,7 +291,8 @@ window.EP = {
      "Kiosco de la Música",
      "Navidad"
     ]
-   ]
+   ],
+   "actualizada": "2026-11-27T22:59"
   },
   {
    "id": "borriquita-besamanos-virgen-victoria-2026",
