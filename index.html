@@ -456,6 +456,15 @@ main.front > .ad-mega, .after-article { margin-inline: calc(-1 * max(16px, env(s
 .vmx.vm-friend .wipe{background:var(--vm-green)}
 .vm-friend .body{gap:4px}
 .vm-friend .big{font-size:50px}
+/* oferta temporal (promos.temporales de anuncios.js): ocupa el robapáginas de Plan Amigo en las noticias mientras está vigente */
+.vm-temp.negro .body{background:#111;color:#fff}
+.vm-temp.negro .eyebrow{color:var(--vm-lime)}
+.vm-temp.negro .big{color:#fff}
+.vm-temp.negro ul{color:#e8e8e8}
+.vm-temp.negro .fine{color:#cfcfcf}
+.vm-temp.negro .cta{background:var(--vm-lime);color:#111}
+.vmx.vm-temp.negro .wipe{background:#111}
+.vm-temp .big{font-size:46px}
 .vm-hp{width:300px;height:600px;flex-direction:column;background:var(--vm-green);color:#fff}
 .vm-hp:hover{color:#fff}
 .vm-hp .logo-box{height:80px;border-bottom:5px solid var(--vm-lime);flex:none;position:relative;z-index:2}
@@ -711,11 +720,11 @@ main.front > .ad-mega, .after-article { margin-inline: calc(-1 * max(16px, env(s
 <div class="rail rail-r" id="rail-r" role="complementary" aria-label="Publicidad"></div>
 <div class="ad-sticky" id="ad-sticky" role="complementary" aria-label="Publicidad"></div>
 
-<script src="noticias.js?v=202611281012"></script>
-<script src="publi/anuncios.js?v=202611281012"></script>
-<script src="publi/animacion.js?v=202611281012"></script>
-<script src="tiempo.js?v=202611281012"></script>
-<script src="guardias.js?v=202611281012"></script>
+<script src="noticias.js?v=202611281104"></script>
+<script src="publi/anuncios.js?v=202611281104"></script>
+<script src="publi/animacion.js?v=202611281104"></script>
+<script src="tiempo.js?v=202611281104"></script>
+<script src="guardias.js?v=202611281104"></script>
 <script>
 // Previa de la Mesa: si esta página se abre dentro de la Mesa, enseña las noticias que le pasa la Mesa.
 try{var P=window.parent&&window.parent!==window&&window.parent.EP_PREVIEW;if(P)window.EP=JSON.parse(JSON.stringify(P));}catch(e){}
@@ -998,7 +1007,8 @@ function section(sec) {
 
 function article(a) {
   const body = a.body.map(p => p.startsWith("<span class='howto'>") ? `<p class="howto">${p.replace(/^<span class='howto'>|<\/span>$/g, "")}</p>` : p.startsWith("## ") ? `<h3 class="ladillo">${p.slice(3)}</h3>` : `<p>${p}</p>`);
-  const rot = [AD.family, AD.tv, AD.friend][A.indexOf(a) % 3]();
+  const tmp = TEMP.length ? TEMP[A.indexOf(a) % TEMP.length] : null;
+  const rot = [AD.family, AD.tv, tmp ? (() => AD.temp(tmp)) : AD.friend][A.indexOf(a) % 3]();
   const li = a.body.findIndex(p => p.startsWith("## ")); const pos = li > 1 ? li : 2;
   if (body.length > pos) body.splice(pos, 0, rot); else body.push(rot);
   const rel = ORDER.filter(x => x.id !== a.id && x.sec === a.sec).concat(ORDER.filter(x => x.id !== a.id && x.sec !== a.sec && x.sec !== "opinion")).slice(0, 3);
@@ -1050,6 +1060,9 @@ function howWeWork() {
 /* ===== Publicidad Vivamóvil (animada, mismo motor que El Panadero: publi/animacion.js) ===== */
 const V = window.VMDATA, T = V.tarifas, PR = V.promos;
 const VM = V.fuente;
+// ofertas temporales vigentes (desde ≤ hoy ≤ hasta, hora de Madrid); caducan solas sin tocar anuncios.js
+const HOY_VM = (() => { try { return new Date().toLocaleDateString("sv-SE", { timeZone: "Europe/Madrid" }); } catch (e) { return new Date().toISOString().slice(0, 10); } })();
+const TEMP = (PR.temporales || []).filter(o => o && o.antetitulo && o.grande && (!o.desde || o.desde <= HOY_VM) && o.hasta && o.hasta >= HOY_VM);
 const LOGO = "publi/logo-vivamovil.svg";
 const ad = (cls, inner, extra = "", href = VM, attrs = "") => `<div class="ad-slot ${extra}"><span class="ad-label">Publicidad</span><a class="vm vmx ${cls}" href="${href}" target="_blank" rel="sponsored noopener" aria-label="Anuncio de Vivamóvil"${attrs ? " " + attrs : ""}>${inner}</a></div>`;
 // el contador baja desde 50 hasta el precio; con precios de 50 € o más, el precio entra sin contador
@@ -1087,6 +1100,11 @@ const AD = {
     <span class="body"><span class="eyebrow kx l k1">Plan Amigo</span><span class="big kx pop k2"><span class="cnt" data-to="${PR.amigo.total_meses}">${PR.amigo.total_meses}</span> meses</span><h4 class="kx k3">gratis por traer a un amigo</h4>
     <ul><li class="kx l k4">${PR.amigo.meses_cliente} meses para ti y ${PR.amigo.meses_amigo} para él</li></ul>
     <span class="row"><span class="fine kx k5">Consulta condiciones</span><span class="cta kx r k5">Infórmate</span></span></span>`, extra, VM, `data-steps="1750,2200,2800,3300,3900" data-dur="8600" data-loops="2"`),
+  // 300×250 · oferta temporal del correo de Vivamóvil (promos.temporales): mismo formato que Plan Amigo
+  temp: (o, extra = "") => ad(`vm-mr vm-friend vm-temp ${o.tema || ""}`, `${LogoCard()}${TelCard(5100)}<span class="wipe"></span><span class="logo-box"><img src="${LOGO}" alt="Vivamóvil"></span>
+    <span class="body"><span class="eyebrow kx l k1">${o.antetitulo}</span><span class="big kx pop k2">${o.grande}</span><h4 class="kx k3">${o.titular}</h4>
+    ${o.linea ? `<ul><li class="kx l k4">${o.linea}</li></ul>` : ""}
+    <span class="row"><span class="fine kx k5">${o.letra_pequena}</span><span class="cta kx r k5">${o.cta || "Infórmate"}</span></span></span>`, extra, VM, `data-steps="1750,2200,2800,3300,3900" data-dur="8600" data-loops="2"`),
   // 300×600 · Tándem: primero foto a pantalla (cambia de una pareja de fotos a otra) y luego la ficha completa
   halfpage: () => ad("vm-hp", `${LogoCard()}${TelCard(10700)}<span class="logo-box"><img src="${LOGO}" alt="Vivamóvil"></span><span class="slides">
     <span class="sl s-photo" data-steps="1550,2100,3200,3900" data-dur="6900">
