@@ -720,11 +720,11 @@ main.front > .ad-mega, .after-article { margin-inline: calc(-1 * max(16px, env(s
 <div class="rail rail-r" id="rail-r" role="complementary" aria-label="Publicidad"></div>
 <div class="ad-sticky" id="ad-sticky" role="complementary" aria-label="Publicidad"></div>
 
-<script src="noticias.js?v=202611281104"></script>
-<script src="publi/anuncios.js?v=202611281104"></script>
-<script src="publi/animacion.js?v=202611281104"></script>
-<script src="tiempo.js?v=202611281104"></script>
-<script src="guardias.js?v=202611281104"></script>
+<script src="noticias.js?v=202611281253"></script>
+<script src="publi/anuncios.js?v=202611281253"></script>
+<script src="publi/animacion.js?v=202611281253"></script>
+<script src="tiempo.js?v=202611281253"></script>
+<script src="guardias.js?v=202611281253"></script>
 <script>
 // Previa de la Mesa: si esta página se abre dentro de la Mesa, enseña las noticias que le pasa la Mesa.
 try{var P=window.parent&&window.parent!==window&&window.parent.EP_PREVIEW;if(P)window.EP=JSON.parse(JSON.stringify(P));}catch(e){}
@@ -927,14 +927,14 @@ function front() {
     top = `<section class="ft ft2">
       <div class="c lead2"><a href="#${L.id}">${photo(L)}${kick(L)}<h2>${L.title}</h2></a><p class="sub">${L.sub}</p>${by(L)}</div>
       <div class="c secs">${a1 ? `<a class="s1" href="#${a1.id}">${photo(a1)}${kick(a1)}<h3>${a1.title}</h3></a>` : ""}${rest.map(txtItem).join("")}</div>
-      <aside class="c side">${opBox3}${AD.family()}</aside>
+      <aside class="c side">${opBox3}${TEMP.length ? AD.temp(TEMP[0]) : AD.family()}</aside>
     </section>`;
   } else if (P === 3) {
     top = `<section class="ft ft3">
       <div class="c lead3"><a class="hd" href="#${L.id}">${kick(L)}<h2>${L.title}</h2></a>
         <div class="in"><a href="#${L.id}" aria-hidden="true" tabindex="-1">${photo(L)}</a>
           <div class="tx3"><p class="sub">${L.sub}</p>${by(L)}${REL.map(r => `<a class="rl" href="#${r.id}">${r.title}</a>`).join("")}</div></div></div>
-      <aside class="c side">${opBox3}${AD.family()}</aside>
+      <aside class="c side">${opBox3}${TEMP.length ? AD.temp(TEMP[0]) : AD.family()}</aside>
     </section>
     <section class="frow4">${SEC.map(txtItem).join("")}</section>`;
   } else {
@@ -947,7 +947,7 @@ function front() {
       ${REL.length ? `<div class="frow4 follow">${REL.map(txtItem).join("")}</div>` : ""}
     </section>
     <section class="frow4">${SEC.map(txtItem).join("")}${op1 ? `<a class="tx op4" href="#${op1.id}"><span class="who">Opinión · ${op1.autor}</span><h3>${op1.title}</h3>${op1.ficticia ? `<span class="fict">Texto de prueba · firma ficticia</span>` : ""}</a>` : ""}</section>
-    ${AD.family("only-mob ad-infeed")}`;
+    ${TEMP.length ? AD.temp(TEMP[0], "ad-infeed") : AD.family("only-mob ad-infeed")}`;
   }
   return `<main class="fp">
     ${top}
