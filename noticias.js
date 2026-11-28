@@ -1,6 +1,6 @@
 window.EP = {
  "meta": {
-  "actualizado": "2026-11-27",
+  "actualizado": "2026-11-28",
   "ventana_dias": 30,
   "nota": "Archivo de datos de El Coriano (Coria del Río). Lo actualiza la tarea diaria a partir del Radar informativo (parte de CORIA DEL RÍO y, si afecta a Coria, VARIOS MUNICIPIOS), redactando cada pieza con la skill redaccion-el-coriano. Cada noticia: id único, sec (coria|sucesos|politica|economia|cultura|hermandades|deportes|rio|opinion), kicker, iso AAAA-MM-DD, src, fuente_url, firma, elaboracion (ia|ia_revisada|redaccion; por defecto ia), title, sub, caption, foto (archivo en fotos/), fotocredito, peso (opcional, 2 | 3 | 4: columnas que ocupa la noticia si va de apertura; por defecto 2; solo lo cambia la dirección), rel (opcional: ids de relacionadas para la apertura), hora (opcional: hora de actualización, solo si consta), ultima_hora (opcional, solo con peso 4: {hora, texto} para el cintillo), encuadre (opcional: 'contain' si la foto es un cartel o lleva texto, para que se vea entera sin recortes; o una posición CSS como 'center 22%' para no cortar caras; si falta, 'center'), claves (2-4 frases), body (300 a 750 palabras en total; un párrafo que empieza por '## ' es un ladillo; uno que empieza por <span class='howto'> es el recuadro práctico; enlaces internos con <a href='#id'>), seo [slug, título <=60, descripción 140-155, 4-8 etiquetas]. Opinión: autor, autor_cargo y, si es de prueba, ficticia: true."
  },
@@ -10,6 +10,13 @@ window.EP = {
    "que": "Jura y toma de posesión de la nueva Junta de Gobierno del Gran Poder",
    "donde": "Misa de las 20.00 de la Hermandad del Gran Poder",
    "noticia": "gran-poder-toma-posesion-junta-san-jose-igualas",
+   "hasta": "2026-11-28"
+  },
+  {
+   "cuando": "28 nov, 19.00",
+   "que": "Bendición de la imagen de Nuestra Señora del Refugio",
+   "donde": "Parroquia de San José",
+   "noticia": "san-jose-bendicion-virgen-refugio",
    "hasta": "2026-11-28"
   },
   {
@@ -59,6 +66,20 @@ window.EP = {
    "donde": "Registro del Ayuntamiento o sede electrónica",
    "noticia": "bolsa-ayuda-domicilio-ampliacion-plazo-reinscripcion",
    "hasta": "2026-12-03"
+  },
+  {
+   "cuando": "5 dic, tras la misa de 19.00",
+   "que": "Rosario vespertino con Nuestra Señora del Refugio por el barrio",
+   "donde": "Salida y llegada en la plaza de San José",
+   "noticia": "san-jose-bendicion-virgen-refugio",
+   "hasta": "2026-12-05"
+  },
+  {
+   "cuando": "5 dic, 19.30",
+   "que": "Sabatina en honor de la Virgen de la Estrella",
+   "donde": "Parroquia de Santa María de la Estrella",
+   "noticia": "san-jose-bendicion-virgen-refugio",
+   "hasta": "2026-12-05"
   },
   {
    "cuando": "Hasta el 9 dic",
@@ -111,6 +132,127 @@ window.EP = {
   }
  ],
  "noticias": [
+  {
+   "id": "vera-cruz-cruzando-vidas-visita-television",
+   "sec": "hermandades",
+   "kicker": "Vera-Cruz",
+   "iso": "2026-11-28",
+   "hora": "07:57",
+   "src": "Hermandad de la Vera-Cruz (Facebook)",
+   "fuente_url": "https://www.facebook.com/1570870608413497/posts/1583093000524591",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "El grupo infantil Cruzando Vidas, de la Vera-Cruz de Coria del Río, conoce por dentro el trabajo de una televisión local",
+   "sub": "Dos periodistas de Coriavisión visitaron la ermita el viernes 20 de noviembre para enseñar a los niños cómo se hace una noticia",
+   "caption": "Los niños del grupo Cruzando Vidas posan con los dos periodistas ante el altar de la ermita de la Vera-Cruz.",
+   "foto": "vera-cruz-cruzando-vidas-visita-television-of.jpg",
+   "fotocredito": "Facebook de la Hermandad de la Vera-Cruz",
+   "claves": [
+    "El grupo infantil Cruzando Vidas, de la Hermandad de la Vera-Cruz de Coria del Río, recibió el viernes 20 de noviembre a dos periodistas de Coriavisión en su ermita.",
+    "Los niños vieron de cerca cámaras y micrófonos y cómo se prepara la información, según la hermandad.",
+    "La hermandad presenta Cruzando Vidas como un espacio para que los niños aprendan y desarrollen su creatividad."
+   ],
+   "body": [
+    "La Hermandad de la Vera-Cruz de Coria del Río ha contado en su perfil de Facebook que su grupo infantil, Cruzando Vidas, recibió el viernes 20 de noviembre la visita de Alba y Adrián, periodistas de Coriavisión, en la ermita de la hermandad. Los niños pudieron ver de cerca cámaras y micrófonos y cómo se prepara la información.",
+    "Según la hermandad, los dos periodistas explicaron a los pequeños algunos detalles de su oficio y les hicieron participar, de modo que por unas horas pasaron de espectadores a protagonistas de la noticia.",
+    "La hermandad presenta Cruzando Vidas como un espacio para que los niños aprendan, desarrollen su creatividad y disfruten de actividades que amplíen sus conocimientos, y agradece a los dos periodistas su disposición."
+   ],
+   "seo": [
+    "vera-cruz-coria-cruzando-vidas-television",
+    "Cruzando Vidas, de la Vera-Cruz de Coria, conoce la tele",
+    "El grupo infantil Cruzando Vidas, de la Hermandad de la Vera-Cruz de Coria del Río, recibió en su ermita a dos periodistas que les enseñaron su oficio.",
+    [
+     "Hermandad de la Vera-Cruz",
+     "Cruzando Vidas",
+     "grupo infantil",
+     "Coriavisión",
+     "hermandades"
+    ]
+   ]
+  },
+  {
+   "id": "san-jose-bendicion-virgen-refugio",
+   "sec": "hermandades",
+   "kicker": "Virgen del Refugio",
+   "iso": "2026-11-28",
+   "hora": "08:05",
+   "src": "Hermandad Sacramental de San José (Facebook)",
+   "fuente_url": "https://www.facebook.com/permalink.php?story_fbid=pfbid02F1RDAZr8jYSRgSGH2DUvKqB498WE4SqAhLCFXkPHByGnF9BJJvX83nC6uzSuEHUVl&id=61551796482920",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "La parroquia de San José de Coria del Río bendice este sábado la imagen de Nuestra Señora del Refugio",
+   "sub": "La bendición, a las 19.00, la amadrina la Hermandad de San Bernardo de Sevilla, y el 5 de diciembre la imagen saldrá en rosario por el barrio",
+   "caption": "Cartel de la bendición de Nuestra Señora del Refugio y del rosario vespertino por las calles del barrio de San José.",
+   "foto": "san-jose-bendicion-virgen-refugio-cartel-of.jpg",
+   "fotocredito": "Facebook de la Hermandad Sacramental de San José",
+   "encuadre": "contain",
+   "claves": [
+    "La Parroquia de San José de Coria del Río bendice la imagen de Nuestra Señora del Refugio el sábado 28 de noviembre a las 19.00.",
+    "La Hermandad de San Bernardo de Sevilla amadrina la bendición y la Asociación Musical Coro Santa María pone los cantos.",
+    "El sábado 5 de diciembre, tras la misa de las 19.00, la imagen recorrerá las calles del barrio en un rosario vespertino."
+   ],
+   "body": [
+    "La Parroquia de San José de Coria del Río celebra este sábado 28 de noviembre, a las 19.00, la bendición solemne de la imagen de Nuestra Señora del Refugio. La Hermandad Sacramental de San José, con sede en esa parroquia, ha anunciado el acto en su perfil de Facebook y ha invitado a sus hermanos, devotos y vecinos a asistir.",
+    "Según el cartel difundido por la hermandad, los cantos correrán a cargo de la Asociación Musical Coro Santa María, de Coria, y la bendición estará amadrinada por la Hermandad de San Bernardo de Sevilla. La parroquia y la hermandad no han informado sobre el autor de la imagen ni sobre cómo ha llegado al templo.",
+    "## Rosario por las calles del barrio",
+    "La imagen saldrá a la calle una semana después. El sábado 5 de diciembre, al terminar la misa de las 19.00, la parroquia rezará el rosario vespertino con Nuestra Señora del Refugio por el barrio de San José.",
+    "El recorrido previsto parte de la plaza de San José y sigue por Montes Paquiro, Padre Suárez Sosa, Manuel de Falla y Duero hasta la barriada de la Paz. Desde allí vuelve por Duero, la avenida Primero de Mayo, Padre Suárez Sosa, Pascual Márquez, Juan Belmonte y Montes Paquiro, para regresar a la plaza de San José.",
+    "La Hermandad de San José vive un mes de cambios: el 16 de noviembre <a href='#san-jose-nuevo-capataz-piedad'>nombró a Álvaro Pastor Alés capataz del paso de la Piedad</a> y dos días después <a href='#san-jose-renueva-vestidores-capataces'>renovó a sus vestidores y a los capataces del palio y del Señor de la Paz</a>.",
+    "Ese mismo sábado 5 de diciembre, a las 19.30, la Hermandad de la Estrella celebra en el altar mayor de la parroquia de Santa María de la Estrella una sabatina en honor de la patrona, con rosario y eucaristía presidida por el párroco, Antonio Santos Moreno, según ha anunciado en su perfil de Facebook.",
+    "<span class='howto'>Bendición de Nuestra Señora del Refugio: sábado 28 de noviembre, a las 19.00, en la parroquia de San José. Rosario vespertino: sábado 5 de diciembre, al terminar la misa de las 19.00, con salida y llegada en la plaza de San José.</span>"
+   ],
+   "seo": [
+    "bendicion-virgen-refugio-parroquia-san-jose-coria",
+    "Coria bendice a la Virgen del Refugio en San José",
+    "La parroquia de San José de Coria del Río bendice el 28 de noviembre a la Virgen del Refugio, que saldrá en rosario por el barrio el 5 de diciembre.",
+    [
+     "Nuestra Señora del Refugio",
+     "Parroquia de San José",
+     "Hermandad Sacramental de San José",
+     "Hermandad de San Bernardo",
+     "rosario vespertino",
+     "hermandades de Coria"
+    ]
+   ]
+  },
+  {
+   "id": "visita-olvera-turismo-coria",
+   "sec": "coria",
+   "kicker": "Turismo",
+   "iso": "2026-11-28",
+   "hora": "08:05",
+   "src": "Turismo Coria del Río (Facebook)",
+   "fuente_url": "https://www.facebook.com/1575976047910202/posts/1587912046716602",
+   "firma": "Redacción El Coriano",
+   "elaboracion": "ia",
+   "title": "Un grupo de 55 vecinos de Olvera visita Coria del Río y su salón de plenos",
+   "sub": "La Delegación de Turismo del Ayuntamiento les enseñó el casco histórico y la gastronomía local el jueves 26 de noviembre",
+   "caption": "El grupo de visitantes de Olvera, en el salón de plenos del Ayuntamiento de Coria del Río.",
+   "foto": "visita-olvera-turismo-coria-of.jpg",
+   "fotocredito": "Facebook de Turismo Coria del Río",
+   "claves": [
+    "Un grupo de 55 visitantes de Olvera (Cádiz) recorrió Coria del Río el jueves 26 de noviembre.",
+    "El programa incluyó el casco histórico, el salón de plenos del Ayuntamiento y la gastronomía local, según la Delegación de Turismo."
+   ],
+   "body": [
+    "Un grupo de 55 visitantes de Olvera (Cádiz) pasó el jueves 26 de noviembre por Coria del Río, donde recorrió el casco histórico y entró en el salón de plenos del Ayuntamiento. Así lo ha contado la Delegación de Turismo del Ayuntamiento en su perfil de Facebook, Turismo Coria del Río.",
+    "Según la delegación, durante la jornada se explicó a los visitantes la historia y el patrimonio del municipio, sus tradiciones y costumbres, y el grupo probó platos de la gastronomía local. La publicación no concreta qué entidad organizó el viaje ni qué establecimientos visitaron.",
+    "La delegación ha agradecido a los vecinos de Olvera su interés por conocer el municipio y les ha invitado a volver. El alcalde, Modesto González Márquez, compartió la publicación en su perfil de Facebook.",
+    "Quien visite Coria en los próximos días tiene en la agenda municipal la <a href='#libro-carpinteria-ribera-cultura-fluvial-coria'>presentación del libro sobre la carpintería de ribera</a>, el miércoles 2 de diciembre, y la programación de <a href='#navidad-coria-2026-encendido-alumbrado-arbol-ganchillo'>la Navidad que arrancó el 26 de noviembre</a> en la plaza del Ayuntamiento."
+   ],
+   "seo": [
+    "visita-olvera-coria-del-rio-turismo-salon-plenos",
+    "55 vecinos de Olvera visitan Coria del Río",
+    "Un grupo de 55 visitantes de Olvera (Cádiz) recorrió el casco histórico de Coria del Río y su salón de plenos con la Delegación de Turismo municipal.",
+    [
+     "Olvera",
+     "Delegación de Turismo",
+     "turismo en Coria",
+     "salón de plenos",
+     "casco histórico"
+    ]
+   ]
+  },
   {
    "id": "coria-cf-ficha-sarmiento-despide-recio",
    "sec": "deportes",
